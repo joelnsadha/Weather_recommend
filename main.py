@@ -6,8 +6,8 @@ lon = "-118.4065"
 
 
 def main():
-    beverly_hills = extract.get_weather(lat, lon)
-    print(beverly_hills)
+    beverly_hills = extract.Extracter(lat, lon)
+    print(beverly_hills.get_weather())
 
 
 if __name__ == '__main__':
