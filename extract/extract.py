@@ -46,6 +46,7 @@ class Extracter:
         timezones = []
         sunrises = []
         sunsets = []
+        zip_codes = []
 
         for zip_code in self.zips:
             # Define API URL
@@ -94,6 +95,7 @@ class Extracter:
                 timezones.append(r.get('city').get('timezone'))
                 sunrises.append(r.get('city').get('sunrise'))
                 sunsets.append(r.get('city').get('sunset'))
+                zip_codes.append(zip_code)
 
         # Create dataframe features
         features = {
@@ -118,7 +120,8 @@ class Extracter:
             "city_id": r.get('city').get('id'),
             "city": r.get('city').get('name'),
             "population": r.get('city').get('population'),
-            "timezone": r.get('city').get('timezone')
+            "timezone": r.get('city').get('timezone'),
+            "zip_code": zip_codes
         }
 
         # create  pandas dataframe
