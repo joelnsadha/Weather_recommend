@@ -1,13 +1,15 @@
 from extract import extract
-
-
-lat = "34.0901"
-lon = "-118.4065"
+import pandas as pd
 
 
 def main():
-    beverly_hills = extract.Extracter(lat, lon)
-    print(beverly_hills.get_weather())
+    """
+    Run main function
+    :return: --> Dataframe weather forecast by zip-code
+    """
+    weather = extract.Extracter().get_weather()
+    # location.get_weather().to_csv(f"{zipcode}.csv", index=False)
+    print(weather)
 
 
 if __name__ == '__main__':

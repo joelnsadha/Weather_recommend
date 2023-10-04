@@ -2,18 +2,17 @@ import requests
 import json
 from cred import cred
 import pandas as pd
+from files import zipcodes as z
 
 
 class Extracter:
-    def __init__(self, lat: str, lon: str):
+    def __init__(self):
         """
-        Extract weather data from Openweather API.
-        :param lat: Str Latitude
-        :param lon: Str Longtitude
+        Takes zipcode and returns dataframe of forecasted weather data.
+        :param state: US state to get weather data
         """
-        self.lat = lat
-        self.lon = lon
         self.api_key = cred.api_key
+        self.zips = z.ZipCodes().get_zipcodes()[:4]
 
     def get_weather(self):
         """
@@ -48,52 +47,53 @@ class Extracter:
         sunrises = []
         sunsets = []
 
-        # Define API URL
-        url = f"https://api.openweathermap.org/data/2.5/forecast?lat={self.lat}&lon={self.lon}&appid={cred.api_key}"
+        for zip_code in self.zips:
+            # Define API URL
+            url2 = f"https://api.openweathermap.org/data/2.5/forecast?zip={zip_code},us&appid={cred.api_key}&units=imperial"
 
-        # Response from API call
-        r = requests.get(url).json()
+            # Response from API call
+            r = requests.get(url2).json()
 
-        # Append field data to predefined lists above
-        # list of temp recordings
-        items = r.get('list')
+            # Append field data to predefined lists above
+            # list of temp recordings
+            items = r.get('list')
 
-        # weather details for each block recording
-        for i in items:
-            temps.append(i.get('main').get('temp'))
-            feels_likes.append(i.get('main').get('feels_like'))
-            min_temps.append(i.get('main').get('temp_min'))
-            max_temps.append(i.get('main').get('temp_max'))
-            pressures.append(i.get('main').get('pressure'))
-            sea_level_pressures.append(i.get('main').get('sea_level'))
-            grnd_level_pressures.append(i.get('main').get('grnd_level'))
-            humidities_percent.append(i.get('main').get('humidity'))
+            # weather details for each block recording
+            for i in items:
+                temps.append(i.get('main').get('temp'))
+                feels_likes.append(i.get('main').get('feels_like'))
+                min_temps.append(i.get('main').get('temp_min'))
+                max_temps.append(i.get('main').get('temp_max'))
+                pressures.append(i.get('main').get('pressure'))
+                sea_level_pressures.append(i.get('main').get('sea_level'))
+                grnd_level_pressures.append(i.get('main').get('grnd_level'))
+                humidities_percent.append(i.get('main').get('humidity'))
 
-            # Weather conditions
-            for condition in i.get('weather'):
-                weather_condition_ids.append(condition.get('id'))
-                weather_conditions.append(condition.get('main'))
-                condition_descriptions.append(condition.get('description'))
+                # Weather conditions
+                for condition in i.get('weather'):
+                    weather_condition_ids.append(condition.get('id'))
+                    weather_conditions.append(condition.get('main'))
+                    condition_descriptions.append(condition.get('description'))
 
-            # Cloud conditions
-            cloud_conditions.append(i.get('clouds').get('all'))
-            wind_speeds.append(i.get('wind').get('speed'))
-            gusts.append(i.get('wind').get('gust'))
-            visibilities.append(i.get('visibility'))
-            pops.append(i.get('pop'))
-            if i.get('rain'):
-                rain_volumes_3hr.append(i.get('rain').get('3h'))
-            else:
-                rain_volumes_3hr.append(0)
-            dates.append(i.get('dt_txt'))
+                # Cloud conditions
+                cloud_conditions.append(i.get('clouds').get('all'))
+                wind_speeds.append(i.get('wind').get('speed'))
+                gusts.append(i.get('wind').get('gust'))
+                visibilities.append(i.get('visibility'))
+                pops.append(i.get('pop'))
+                if i.get('rain'):
+                    rain_volumes_3hr.append(i.get('rain').get('3h'))
+                else:
+                    rain_volumes_3hr.append(0)
+                dates.append(i.get('dt_txt'))
 
-        countries.append(r.get('city').get('country'))
-        cities.append(r.get('city').get('name'))
-        city_ids.append(r.get('city').get('id'))
-        populations.append(r.get('city').get('population'))
-        timezones.append(r.get('city').get('timezone'))
-        sunrises.append(r.get('city').get('sunrise'))
-        sunsets.append(r.get('city').get('sunset'))
+                countries.append(r.get('city').get('country'))
+                cities.append(r.get('city').get('name'))
+                city_ids.append(r.get('city').get('id'))
+                populations.append(r.get('city').get('population'))
+                timezones.append(r.get('city').get('timezone'))
+                sunrises.append(r.get('city').get('sunrise'))
+                sunsets.append(r.get('city').get('sunset'))
 
         # Create dataframe features
         features = {
@@ -116,8 +116,6 @@ class Extracter:
             "pop": pops,
             "rain_volume_3hr": rain_volumes_3hr,
             "city_id": r.get('city').get('id'),
-            "longtitude": self.lon,
-            "latitude": self.lat,
             "city": r.get('city').get('name'),
             "population": r.get('city').get('population'),
             "timezone": r.get('city').get('timezone')

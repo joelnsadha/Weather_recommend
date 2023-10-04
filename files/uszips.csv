@@ -1,0 +1,466 @@
+﻿zip_code,city,county
+6001,Avon,Hartford County
+6002,Bloomfield,Hartford County
+6010,Bristol,Hartford County
+6011,Bristol,Hartford County
+6013,Unionville,Hartford County
+6013,Burlington,Hartford County
+6016,Windsorville,Hartford County
+6016,Broad Brook,Hartford County
+6018,Canaan,Litchfield County
+6019,Collinsville,Hartford County
+6019,Canton,Hartford County
+6020,Canton Center,Hartford County
+6021,Colebrook,Litchfield County
+6022,Collinsville,Hartford County
+6023,East Berlin,Hartford County
+6024,East Canaan,Litchfield County
+6025,East Glastonbury,Hartford County
+6026,East Granby,Hartford County
+6027,East Hartland,Hartford County
+6028,East Windsor Hill,Hartford County
+6029,Ellington,Tolland County
+6031,Falls Village,Litchfield County
+6032,Farmington,Hartford County
+6033,Glastonbury,Hartford County
+6034,Farmington,Hartford County
+6035,Granby,Hartford County
+6037,Kensington,Hartford County
+6037,Berlin,Hartford County
+6039,Lakeville,Litchfield County
+6040,Manchester,Hartford County
+6043,Bolton,Tolland County
+6043,Manchester,Tolland County
+6045,Manchester,Hartford County
+6049,Melrose,Hartford County
+6050,New Britain,Hartford County
+6051,New Britain,Hartford County
+6052,New Britain,Hartford County
+6053,New Britain,Hartford County
+6057,New Hartford,Litchfield County
+6058,Norfolk,Litchfield County
+6059,North Canton,Hartford County
+6060,North Granby,Hartford County
+6061,Pine Meadow,Litchfield County
+6062,Plainville,Hartford County
+6063,Pleasant Valley,Litchfield County
+6063,Winsted,Litchfield County
+6063,Barkhamsted,Litchfield County
+6064,Poquonock,Hartford County
+6065,Riverton,Litchfield County
+6066,Vernon Rockville,Tolland County
+6067,Rocky Hill,Hartford County
+6068,Salisbury,Litchfield County
+6069,Sharon,Litchfield County
+6070,Simsbury,Hartford County
+6071,Somers,Tolland County
+6072,Somersville,Tolland County
+6073,South Glastonbury,Hartford County
+6074,South Windsor,Hartford County
+6075,Stafford,Tolland County
+6076,Stafford Spgs,Tolland County
+6076,Stafford Springs,Tolland County
+6077,Staffordville,Tolland County
+6078,Suffield,Hartford County
+6079,Taconic,Litchfield County
+6081,Tariffville,Hartford County
+6082,Enfield,Hartford County
+6083,Enfield,Hartford County
+6084,Tolland,Tolland County
+6085,Unionville,Hartford County
+6088,East Windsor,Hartford County
+6089,Weatogue,Hartford County
+6090,West Granby,Hartford County
+6091,West Hartland,Hartford County
+6092,West Simsbury,Hartford County
+6093,West Suffield,Hartford County
+6094,Winchester Center,Litchfield County
+6095,Windsor,Hartford County
+6096,Windsor Locks,Hartford County
+6098,Winchester Center,Litchfield County
+6098,Winsted,Litchfield County
+6101,Hartford,Hartford County
+6102,Hartford,Hartford County
+6103,Hartford,Hartford County
+6104,Hartford,Hartford County
+6105,Hartford,Hartford County
+6106,Hartford,Hartford County
+6107,Hartford,Hartford County
+6107,West Hartford,Hartford County
+6108,East Hartford,Hartford County
+6108,Hartford,Hartford County
+6109,Hartford,Hartford County
+6109,Wethersfield,Hartford County
+6110,Hartford,Hartford County
+6110,West Hartford,Hartford County
+6111,Hartford,Hartford County
+6111,Newington,Hartford County
+6112,Hartford,Hartford County
+6114,Hartford,Hartford County
+6115,Hartford,Hartford County
+6117,Hartford,Hartford County
+6117,West Hartford,Hartford County
+6118,East Hartford,Hartford County
+6118,Hartford,Hartford County
+6119,Hartford,Hartford County
+6119,West Hartford,Hartford County
+6120,Hartford,Hartford County
+6123,Hartford,Hartford County
+6126,Hartford,Hartford County
+6127,Hartford,Hartford County
+6127,West Hartford,Hartford County
+6128,East Hartford,Hartford County
+6128,Hartford,Hartford County
+6129,Hartford,Hartford County
+6129,Wethersfield,Hartford County
+6131,Hartford,Hartford County
+6131,Newington,Hartford County
+6132,Hartford,Hartford County
+6133,Hartford,Hartford County
+6133,West Hartford,Hartford County
+6134,Hartford,Hartford County
+6137,Bishops Corner,Hartford County
+6137,Hartford,Hartford County
+6137,West Hartford,Hartford County
+6138,Silver Lane,Hartford County
+6138,East Hartford,Hartford County
+6138,Hartford,Hartford County
+6140,Hartford,Hartford County
+6141,Hartford,Hartford County
+6142,Hartford,Hartford County
+6143,Hartford,Hartford County
+6144,Hartford,Hartford County
+6145,Hartford,Hartford County
+6146,Hartford,Hartford County
+6147,Hartford,Hartford County
+6152,Hartford,Hartford County
+6199,Hartford,Hartford County
+6226,Willimantic,Windham County
+6230,Abington,Windham County
+6231,Amston,Tolland County
+6232,Andover,Tolland County
+6233,Ballouville,Windham County
+6234,Brooklyn,Windham County
+6235,Mansfield Center,Windham County
+6235,North Windham,Windham County
+6235,Chaplin,Windham County
+6237,Columbia,Tolland County
+6238,Coventry,Tolland County
+6239,Danielson,Windham County
+6241,Dayville,Windham County
+6242,Eastford,Windham County
+6243,East Killingly,Windham County
+6244,East Woodstock,Windham County
+6245,Fabyan,Windham County
+6246,Grosvenor Dale,Windham County
+6247,North Windham,Windham County
+6247,Hampton,Windham County
+6248,Hebron,Tolland County
+6249,Lebanon,New London County
+6250,Mansfield Center,Tolland County
+6251,Mansfield Depot,Tolland County
+6254,North Franklin,New London County
+6255,North Grosvenordale,Windham County
+6256,North Windham,Windham County
+6258,Pomfret,Windham County
+6259,Pomfret Center,Windham County
+6260,Putnam,Windham County
+6262,Quinebaug,Windham County
+6263,Rogers,Windham County
+6264,Scotland,Windham County
+6265,South Willington,Tolland County
+6266,South Windham,Windham County
+6267,South Woodstock,Windham County
+6268,Storrs Mansfield,Tolland County
+6277,Thompson,Windham County
+6278,Ashford,Windham County
+6278,Warrenville,Windham County
+6279,Willington,Tolland County
+6280,Windham,Windham County
+6281,Woodstock,Windham County
+6282,Woodstock Valley,Windham County
+6320,New London,New London County
+6330,Baltic,New London County
+6331,Canterbury,Windham County
+6331,Lisbon,Windham County
+6332,Central Village,Windham County
+6333,East Lyme,New London County
+6334,Bozrah,New London County
+6335,Gales Ferry,New London County
+6336,Gilman,New London County
+6337,Glasgo,New London County
+6339,Mashantucket,New London County
+6339,Gales Ferry,New London County
+6339,Ledyard,New London County
+6340,Groton,New London County
+6349,Groton,New London County
+6350,Hanover,New London County
+6351,Baltic,New London County
+6351,Canterbury,New London County
+6351,Griswold,New London County
+6351,Jewett City,New London County
+6351,Lisbon,New London County
+6351,Norwich,New London County
+6351,Preston,New London County
+6351,Voluntown,New London County
+6353,Montville,New London County
+6354,Moosup,Windham County
+6355,Mystic,New London County
+6357,Niantic,New London County
+6359,North Stonington,New London County
+6360,Norwich,New London County
+6365,Norwich,New London County
+6365,Preston,New London County
+6370,Oakdale,New London County
+6371,Lyme,New London County
+6371,Old Lyme,New London County
+6372,Old Mystic,New London County
+6373,Oneco,Windham County
+6374,Plainfield,Windham County
+6375,Quaker Hill,New London County
+6376,South Lyme,New London County
+6377,Sterling,Windham County
+6378,Stonington,New London County
+6379,Pawcatuck,New London County
+6380,Taftville,New London County
+6382,Uncasville,New London County
+6383,Versailles,New London County
+6384,Jewett City,New London County
+6384,Voluntown,New London County
+6385,Waterford,New London County
+6387,Wauregan,Windham County
+6388,West Mystic,New London County
+6388,Mystic,New London County
+6389,Yantic,New London County
+6390,Fishers,Suffolk County
+6401,Ansonia,New Haven County
+6403,Beacon Falls,New Haven County
+6404,Botsford,Fairfield County
+6405,Branford,New Haven County
+6409,Centerbrook,Middlesex County
+6410,Cheshire,New Haven County
+6412,Chester,Middlesex County
+6413,Clinton,Middlesex County
+6414,Cobalt,Middlesex County
+6415,Colchester,New London County
+6416,Cromwell,Middlesex County
+6417,Deep River,Middlesex County
+6418,Derby,New Haven County
+6419,Deep River,Middlesex County
+6419,Killingworth,Middlesex County
+6420,Colchester,New London County
+6420,Salem,New London County
+6422,Durham,Middlesex County
+6423,East Haddam,Middlesex County
+6424,Haddam Neck,Middlesex County
+6424,East Hampton,Middlesex County
+6426,Essex,Middlesex County
+6430,Fairfield,Fairfield County
+6431,Fairfield,Fairfield County
+6432,Fairfield,Fairfield County
+6436,Greens Farms,Fairfield County
+6437,Guilford,New Haven County
+6438,Haddam,Middlesex County
+6439,Hadlyme,New London County
+6440,Hawleyville,Fairfield County
+6441,Higganum,Middlesex County
+6442,Ivoryton,Middlesex County
+6443,Madison,New Haven County
+6444,Marion,Hartford County
+6447,East Hampton,Hartford County
+6447,Marlborough,Hartford County
+6450,Meriden,New Haven County
+6451,Meriden,New Haven County
+6455,Middlefield,Middlesex County
+6456,Middle Haddam,Middlesex County
+6457,Middletown,Middlesex County
+6460,Milford,New Haven County
+6467,Milldale,Hartford County
+6468,Monroe,Fairfield County
+6469,Moodus,Middlesex County
+6470,Newtown,Fairfield County
+6471,North Branford,New Haven County
+6472,Northford,New Haven County
+6473,North Haven,New Haven County
+6474,North Westchester,New London County
+6475,Old Saybrook,Middlesex County
+6477,Orange,New Haven County
+6478,Oxford,New Haven County
+6478,Seymour,New Haven County
+6479,Plantsville,Hartford County
+6480,Portland,Middlesex County
+6481,Rockfall,Middlesex County
+6482,Sandy Hook,Fairfield County
+6483,Seymour,New Haven County
+6484,Huntington,Fairfield County
+6484,Shelton,Fairfield County
+6487,South Britain,New Haven County
+6488,Southbury,New Haven County
+6489,Southington,Hartford County
+6490,Southport,Fairfield County
+6491,Stevenson,Fairfield County
+6492,Yalesville,New Haven County
+6492,Wallingford,New Haven County
+6497,Stratford,Fairfield County
+6498,Westbrook,Middlesex County
+6501,New Haven,New Haven County
+6502,New Haven,New Haven County
+6503,New Haven,New Haven County
+6504,New Haven,New Haven County
+6505,New Haven,New Haven County
+6506,New Haven,New Haven County
+6507,New Haven,New Haven County
+6508,New Haven,New Haven County
+6509,New Haven,New Haven County
+6510,New Haven,New Haven County
+6511,New Haven,New Haven County
+6512,East Haven,New Haven County
+6512,New Haven,New Haven County
+6513,East Haven,New Haven County
+6513,New Haven,New Haven County
+6514,Hamden,New Haven County
+6514,New Haven,New Haven County
+6515,New Haven,New Haven County
+6516,West Haven,New Haven County
+6517,Whitneyville,New Haven County
+6517,Hamden,New Haven County
+6517,New Haven,New Haven County
+6518,Hamden,New Haven County
+6518,New Haven,New Haven County
+6519,New Haven,New Haven County
+6520,New Haven,New Haven County
+6521,New Haven,New Haven County
+6524,Bethany,New Haven County
+6524,New Haven,New Haven County
+6525,New Haven,New Haven County
+6525,Woodbridge,New Haven County
+6530,New Haven,New Haven County
+6531,New Haven,New Haven County
+6532,New Haven,New Haven County
+6533,New Haven,New Haven County
+6534,New Haven,New Haven County
+6535,New Haven,New Haven County
+6536,New Haven,New Haven County
+6601,Bridgeport,Fairfield County
+6602,Bridgeport,Fairfield County
+6604,Bridgeport,Fairfield County
+6605,Bridgeport,Fairfield County
+6606,Bridgeport,Fairfield County
+6607,Bridgeport,Fairfield County
+6608,Bridgeport,Fairfield County
+6610,Bridgeport,Fairfield County
+6611,Bridgeport,Fairfield County
+6611,Trumbull,Fairfield County
+6612,Bridgeport,Fairfield County
+6612,Easton,Fairfield County
+6614,Bridgeport,Fairfield County
+6614,Stratford,Fairfield County
+6615,Bridgeport,Fairfield County
+6615,Stratford,Fairfield County
+6650,Bridgeport,Fairfield County
+6702,Waterbury,New Haven County
+6703,Waterbury,New Haven County
+6704,Waterbury,New Haven County
+6705,Waterbury,New Haven County
+6706,Waterbury,New Haven County
+6708,Waterbury,New Haven County
+6710,Waterbury,New Haven County
+6712,Prospect,New Haven County
+6712,Waterbury,New Haven County
+6716,Waterbury,New Haven County
+6716,Wolcott,New Haven County
+6720,Waterbury,New Haven County
+6721,Waterbury,New Haven County
+6722,Waterbury,New Haven County
+6723,Waterbury,New Haven County
+6724,Waterbury,New Haven County
+6725,Waterbury,New Haven County
+6726,Waterbury,New Haven County
+6750,Bantam,Litchfield County
+6751,Bethlehem,Litchfield County
+6752,Bridgewater,Litchfield County
+6753,Cornwall,Litchfield County
+6754,Cornwall Bridge,Litchfield County
+6754,Warren,Litchfield County
+6755,Gaylordsville,Litchfield County
+6756,Goshen,Litchfield County
+6757,Kent,Litchfield County
+6758,Lakeside,Litchfield County
+6759,Litchfield,Litchfield County
+6762,Middlebury,New Haven County
+6763,Morris,Litchfield County
+6770,Naugatuck,New Haven County
+6776,New Milford,Litchfield County
+6777,New Preston Marble Dale,Litchfield County
+6777,New Preston,Litchfield County
+6777,Washington Depot,Litchfield County
+6777,Warren,Litchfield County
+6778,Northfield,Litchfield County
+6778,Thomaston,Litchfield County
+6779,Oakville,Litchfield County
+6779,Watertown,Litchfield County
+6781,Pequabuck,Litchfield County
+6782,Plymouth,Litchfield County
+6783,Roxbury,Litchfield County
+6784,Sherman,Fairfield County
+6785,South Kent,Litchfield County
+6786,Terryville,Litchfield County
+6787,Thomaston,Litchfield County
+6790,Torrington,Litchfield County
+6791,Harwinton,Litchfield County
+6791,Torrington,Litchfield County
+6793,Washington Depot,Litchfield County
+6793,Washington,Litchfield County
+6794,Washington Depot,Litchfield County
+6795,Watertown,Litchfield County
+6796,West Cornwall,Litchfield County
+6798,Woodbury,Litchfield County
+6801,Bethel,Fairfield County
+6804,Brookfld Ctr,Fairfield County
+6804,Brookfield,Fairfield County
+6807,Cos Cob,Fairfield County
+6810,Danbury,Fairfield County
+6811,Danbury,Fairfield County
+6812,Danbury,Fairfield County
+6812,New Fairfield,Fairfield County
+6813,Danbury,Fairfield County
+6820,Darien,Fairfield County
+6824,Fairfield,Fairfield County
+6825,Fairfield,Fairfield County
+6828,Fairfield,Fairfield County
+6829,Georgetown,Fairfield County
+6830,Greenwich,Fairfield County
+6831,Greenwich,Fairfield County
+6836,Greenwich,Fairfield County
+6838,Greens Farms,Fairfield County
+6840,New Canaan,Fairfield County
+6850,Norwalk,Fairfield County
+6851,Norwalk,Fairfield County
+6852,Norwalk,Fairfield County
+6853,Norwalk,Fairfield County
+6854,Norwalk,Fairfield County
+6855,Norwalk,Fairfield County
+6856,Norwalk,Fairfield County
+6870,Old Greenwich,Fairfield County
+6875,Redding Center,Fairfield County
+6876,Redding Ridge,Fairfield County
+6877,Ridgefield,Fairfield County
+6878,Riverside,Fairfield County
+6880,Westport,Fairfield County
+6881,Westport,Fairfield County
+6883,Weston,Fairfield County
+6890,Southport,Fairfield County
+6896,West Redding,Fairfield County
+6896,Redding,Fairfield County
+6897,Wilton,Fairfield County
+6901,Stamford,Fairfield County
+6902,Stamford,Fairfield County
+6903,Stamford,Fairfield County
+6904,Stamford,Fairfield County
+6905,Ridgeway,Fairfield County
+6905,Stamford,Fairfield County
+6906,Stamford,Fairfield County
+6907,Stamford,Fairfield County
+6910,Stamford,Fairfield County
+6911,Stamford,Fairfield County
+6912,Stamford,Fairfield County
