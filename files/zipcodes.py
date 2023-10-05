@@ -28,7 +28,3 @@ class ZipCodes:
         df = pd.DataFrame(self.data)
         df['zip_code'] = df['zip_code'].apply(lambda x: "0" + str(x))
         return df
-
-
-# x = ZipCodes().get_zipcodes()
-# print(x)
