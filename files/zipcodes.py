@@ -24,6 +24,11 @@ class ZipCodes:
         z = np.array(zip_data.iloc[:, 0])
         return ["0{}".format(_) for _ in z]
 
+    def all_data(self):
+        df = pd.DataFrame(self.data)
+        df['zip_code'] = df['zip_code'].apply(lambda x: "0" + str(x))
+        return df
+
 
 # x = ZipCodes().get_zipcodes()
 # print(x)

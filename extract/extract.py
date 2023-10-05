@@ -12,7 +12,8 @@ class Extracter:
         :param state: US state to get weather data
         """
         self.api_key = cred.api_key
-        self.zips = z.ZipCodes().get_zipcodes()[:4]
+        self.zips = z.ZipCodes().get_zipcodes()
+        self.city_names = z.ZipCodes().all_data()
 
     def get_weather(self):
         """
@@ -48,7 +49,7 @@ class Extracter:
         sunsets = []
         zip_codes = []
 
-        for zip_code in self.zips:
+        for zip_code in self.zips[:20]:
             # Define API URL
             url2 = f"https://api.openweathermap.org/data/2.5/forecast?zip={zip_code},us&appid={cred.api_key}&units=imperial"
 
@@ -121,10 +122,11 @@ class Extracter:
             "city": r.get('city').get('name'),
             "population": r.get('city').get('population'),
             "timezone": r.get('city').get('timezone'),
-            "zip_code": zip_codes
+            "zip_code": zip_codes,
+            "state": "CT"
         }
 
         # create  pandas dataframe
-        df = pd.DataFrame(features)
+        df = pd.DataFrame(features).merge(self.city_names, how="inner", left_on="zip_code", right_on="zip_code")
 
         return df
