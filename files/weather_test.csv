@@ -1,0 +1,1041 @@
+,date,temp,feels_like,min_temp,max_temp,pressure,sea_level_pressure,grnd_level_pressure,humidity_percent,weather_condition_id,weather_condition,condition_description,cloud_condition,wind_speed,gust,visibility,pop,rain_volume_3hr,city_id,city_x,population,timezone,zip_code,state,city_y,county
+0,2023-10-05 06:00:00,63.14,63.57,62.29,63.14,1023,1023,1013,94,800,Clear,clear sky,0,2.64,3.02,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06001,CT,Avon,Hartford County
+1,2023-10-05 09:00:00,61.18,61.41,59.99,61.18,1023,1023,1013,94,800,Clear,clear sky,0,2.17,2.37,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06001,CT,Avon,Hartford County
+2,2023-10-05 12:00:00,61.5,61.48,61.5,61.5,1025,1025,1014,88,800,Clear,clear sky,0,1.92,2.91,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06001,CT,Avon,Hartford County
+3,2023-10-05 15:00:00,72.21,71.67,72.21,72.21,1025,1025,1014,54,803,Clouds,broken clouds,73,5.57,9.75,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06001,CT,Avon,Hartford County
+4,2023-10-05 18:00:00,76.6,75.76,76.6,76.6,1022,1022,1012,38,803,Clouds,broken clouds,52,8.3,11.61,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06001,CT,Avon,Hartford County
+5,2023-10-05 21:00:00,70.97,70.25,70.97,70.97,1022,1022,1011,53,800,Clear,clear sky,9,6.11,12.75,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06001,CT,Avon,Hartford County
+6,2023-10-06 00:00:00,60.1,59.29,60.1,60.1,1022,1022,1011,74,800,Clear,clear sky,7,2.77,5.7,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06001,CT,Avon,Hartford County
+7,2023-10-06 03:00:00,57.09,56.26,57.09,57.09,1021,1021,1010,80,803,Clouds,broken clouds,63,3.09,10.58,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06001,CT,Avon,Hartford County
+8,2023-10-06 06:00:00,59.68,59.31,59.68,59.68,1021,1021,1010,84,803,Clouds,broken clouds,81,1.23,1.79,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06001,CT,Avon,Hartford County
+9,2023-10-06 09:00:00,60.78,60.93,60.78,60.78,1019,1019,1008,93,804,Clouds,overcast clouds,100,0.72,4.61,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06001,CT,Avon,Hartford County
+10,2023-10-06 12:00:00,62.17,62.69,62.17,62.17,1018,1018,1007,98,500,Rain,light rain,100,2.28,10.6,4893,0.22,0.24,0,East Windsor Hill,0,-14400,06001,CT,Avon,Hartford County
+11,2023-10-06 15:00:00,65.23,65.73,65.23,65.23,1018,1018,1007,91,500,Rain,light rain,100,4.36,12.88,10000,0.23,0.11,0,East Windsor Hill,0,-14400,06001,CT,Avon,Hartford County
+12,2023-10-06 18:00:00,71.04,71.28,71.04,71.04,1015,1015,1004,73,500,Rain,light rain,100,6.31,12.68,10000,0.23,0.16,0,East Windsor Hill,0,-14400,06001,CT,Avon,Hartford County
+13,2023-10-06 21:00:00,70.39,70.75,70.39,70.39,1014,1014,1003,77,500,Rain,light rain,100,6.91,14.29,10000,0.29,0.13,0,East Windsor Hill,0,-14400,06001,CT,Avon,Hartford County
+14,2023-10-07 00:00:00,64.89,65.64,64.89,64.89,1013,1013,1002,97,500,Rain,light rain,100,5.7,20.4,10000,0.33,0.47,0,East Windsor Hill,0,-14400,06001,CT,Avon,Hartford County
+15,2023-10-07 03:00:00,63.39,64.04,63.39,63.39,1012,1012,1001,98,500,Rain,light rain,100,4.29,17.92,10000,0.39,0.25,0,East Windsor Hill,0,-14400,06001,CT,Avon,Hartford County
+16,2023-10-07 06:00:00,63.28,63.97,63.28,63.28,1009,1009,998,99,500,Rain,light rain,100,4.27,18.37,2163,0.92,0.51,0,East Windsor Hill,0,-14400,06001,CT,Avon,Hartford County
+17,2023-10-07 09:00:00,62.91,63.55,62.91,62.91,1007,1007,996,99,500,Rain,light rain,100,5.73,18.75,669,0.91,1.72,0,East Windsor Hill,0,-14400,06001,CT,Avon,Hartford County
+18,2023-10-07 12:00:00,62.73,63.36,62.73,62.73,1006,1006,995,99,500,Rain,light rain,100,5.48,17.67,2124,1.0,2.12,0,East Windsor Hill,0,-14400,06001,CT,Avon,Hartford County
+19,2023-10-07 15:00:00,63.7,64.33,63.7,63.7,1003,1003,992,97,500,Rain,light rain,100,4.7,13.94,10000,0.5,0.54,0,East Windsor Hill,0,-14400,06001,CT,Avon,Hartford County
+20,2023-10-07 18:00:00,65.98,66.42,65.98,65.98,999,999,989,88,500,Rain,light rain,100,3.94,9.15,7953,0.89,1.93,0,East Windsor Hill,0,-14400,06001,CT,Avon,Hartford County
+21,2023-10-07 21:00:00,54.57,54.14,54.57,54.57,999,999,988,94,501,Rain,moderate rain,100,13.0,29.3,7657,0.97,9.54,0,East Windsor Hill,0,-14400,06001,CT,Avon,Hartford County
+22,2023-10-08 00:00:00,53.1,52.38,53.1,53.1,999,999,988,91,500,Rain,light rain,100,9.15,25.75,10000,1.0,1.72,0,East Windsor Hill,0,-14400,06001,CT,Avon,Hartford County
+23,2023-10-08 03:00:00,49.8,45.97,49.8,49.8,998,998,987,87,803,Clouds,broken clouds,71,9.51,26.46,10000,0.22,0.0,0,East Windsor Hill,0,-14400,06001,CT,Avon,Hartford County
+24,2023-10-08 06:00:00,48.11,43.59,48.11,48.11,998,998,987,82,802,Clouds,scattered clouds,37,10.29,25.97,10000,0.11,0.0,0,East Windsor Hill,0,-14400,06001,CT,Avon,Hartford County
+25,2023-10-08 09:00:00,45.34,39.9,45.34,45.34,999,999,988,77,800,Clear,clear sky,0,11.01,26.57,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06001,CT,Avon,Hartford County
+26,2023-10-08 12:00:00,46.96,42.01,46.96,46.96,1000,1000,989,70,800,Clear,clear sky,5,10.71,26.4,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06001,CT,Avon,Hartford County
+27,2023-10-08 15:00:00,50.52,48.38,50.52,50.52,1002,1002,991,66,804,Clouds,overcast clouds,92,13.53,28.19,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06001,CT,Avon,Hartford County
+28,2023-10-08 18:00:00,52.86,50.76,52.86,52.86,1002,1002,991,62,804,Clouds,overcast clouds,92,11.23,23.73,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06001,CT,Avon,Hartford County
+29,2023-10-08 21:00:00,53.47,51.48,53.47,53.47,1003,1003,992,63,803,Clouds,broken clouds,57,10.02,17.69,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06001,CT,Avon,Hartford County
+30,2023-10-09 00:00:00,47.66,43.25,47.66,47.66,1005,1005,994,73,802,Clouds,scattered clouds,38,9.66,24.02,10000,0.01,0.0,0,East Windsor Hill,0,-14400,06001,CT,Avon,Hartford County
+31,2023-10-09 03:00:00,44.76,40.98,44.76,44.76,1006,1006,995,79,801,Clouds,few clouds,12,6.8,23.47,10000,0.02,0.0,0,East Windsor Hill,0,-14400,06001,CT,Avon,Hartford County
+32,2023-10-09 06:00:00,42.33,38.3,42.33,42.33,1007,1007,996,81,801,Clouds,few clouds,15,6.38,23.55,10000,0.02,0.0,0,East Windsor Hill,0,-14400,06001,CT,Avon,Hartford County
+33,2023-10-09 09:00:00,41.16,36.68,41.16,41.16,1008,1008,996,79,801,Clouds,few clouds,16,6.76,25.5,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06001,CT,Avon,Hartford County
+34,2023-10-09 12:00:00,42.55,37.94,42.55,42.55,1008,1008,997,76,802,Clouds,scattered clouds,42,7.49,24.96,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06001,CT,Avon,Hartford County
+35,2023-10-09 15:00:00,51.73,49.23,51.73,51.73,1008,1008,997,56,803,Clouds,broken clouds,53,9.24,15.64,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06001,CT,Avon,Hartford County
+36,2023-10-09 18:00:00,56.35,53.85,56.35,56.35,1007,1007,996,46,803,Clouds,broken clouds,62,10.54,15.86,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06001,CT,Avon,Hartford County
+37,2023-10-09 21:00:00,52.74,50.34,52.74,52.74,1008,1008,997,56,803,Clouds,broken clouds,78,7.76,15.26,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06001,CT,Avon,Hartford County
+38,2023-10-10 00:00:00,44.96,43.02,44.96,44.96,1010,1010,998,72,802,Clouds,scattered clouds,45,4.05,9.55,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06001,CT,Avon,Hartford County
+39,2023-10-10 03:00:00,43.65,41.45,43.65,43.65,1010,1010,999,75,800,Clear,clear sky,6,4.09,15.28,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06001,CT,Avon,Hartford County
+40,2023-10-05 06:00:00,63.84,64.35,62.91,63.84,1023,1023,1020,94,800,Clear,clear sky,0,2.64,3.24,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06002,CT,Bloomfield,Hartford County
+41,2023-10-05 09:00:00,61.95,62.26,60.76,61.95,1024,1024,1020,94,800,Clear,clear sky,0,2.3,2.42,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06002,CT,Bloomfield,Hartford County
+42,2023-10-05 12:00:00,62.15,62.24,62.15,62.15,1025,1025,1021,89,800,Clear,clear sky,0,1.86,3.38,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06002,CT,Bloomfield,Hartford County
+43,2023-10-05 15:00:00,72.72,72.27,72.72,72.72,1025,1025,1020,55,803,Clouds,broken clouds,63,5.53,9.64,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06002,CT,Bloomfield,Hartford County
+44,2023-10-05 18:00:00,77.47,76.69,77.47,77.47,1022,1022,1018,38,803,Clouds,broken clouds,54,8.08,11.45,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06002,CT,Bloomfield,Hartford County
+45,2023-10-05 21:00:00,71.69,71.01,71.69,71.69,1022,1022,1017,52,801,Clouds,few clouds,13,6.22,13.13,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06002,CT,Bloomfield,Hartford County
+46,2023-10-06 00:00:00,61.39,60.62,61.39,61.39,1022,1022,1018,72,800,Clear,clear sky,9,3.27,7.76,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06002,CT,Bloomfield,Hartford County
+47,2023-10-06 03:00:00,58.1,57.27,58.1,58.1,1021,1021,1016,78,803,Clouds,broken clouds,57,3.78,15.39,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06002,CT,Bloomfield,Hartford County
+48,2023-10-06 06:00:00,60.21,59.83,60.21,60.21,1021,1021,1016,83,803,Clouds,broken clouds,78,1.43,2.17,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06002,CT,Bloomfield,Hartford County
+49,2023-10-06 09:00:00,61.68,61.88,61.68,61.68,1019,1019,1015,92,804,Clouds,overcast clouds,100,0.4,6.96,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06002,CT,Bloomfield,Hartford County
+50,2023-10-06 12:00:00,62.89,63.39,62.89,62.89,1018,1018,1014,96,500,Rain,light rain,100,2.35,11.01,9434,0.2,0.17,0,East Windsor Hill,0,-14400,06002,CT,Bloomfield,Hartford County
+51,2023-10-06 15:00:00,66.52,66.97,66.52,66.52,1018,1018,1013,87,804,Clouds,overcast clouds,100,3.71,11.32,10000,0.18,0.0,0,East Windsor Hill,0,-14400,06002,CT,Bloomfield,Hartford County
+52,2023-10-06 18:00:00,72.37,72.61,72.37,72.37,1015,1015,1010,70,500,Rain,light rain,100,5.14,10.76,10000,0.39,0.19,0,East Windsor Hill,0,-14400,06002,CT,Bloomfield,Hartford County
+53,2023-10-06 21:00:00,71.49,71.87,71.49,71.49,1014,1014,1009,75,500,Rain,light rain,99,7.02,14.32,10000,0.3,0.13,0,East Windsor Hill,0,-14400,06002,CT,Bloomfield,Hartford County
+54,2023-10-07 00:00:00,65.35,66.11,65.35,65.35,1013,1013,1009,96,500,Rain,light rain,100,5.84,20.74,10000,0.39,0.71,0,East Windsor Hill,0,-14400,06002,CT,Bloomfield,Hartford County
+55,2023-10-07 03:00:00,63.55,64.22,63.55,63.55,1012,1012,1007,98,500,Rain,light rain,100,3.69,16.33,10000,0.33,0.11,0,East Windsor Hill,0,-14400,06002,CT,Bloomfield,Hartford County
+56,2023-10-07 06:00:00,63.73,64.45,63.73,63.73,1009,1009,1005,99,500,Rain,light rain,100,4.0,18.48,3339,0.92,0.74,0,East Windsor Hill,0,-14400,06002,CT,Bloomfield,Hartford County
+57,2023-10-07 09:00:00,63.25,63.93,63.25,63.25,1007,1007,1002,99,500,Rain,light rain,100,5.46,19.64,982,0.91,2.22,0,East Windsor Hill,0,-14400,06002,CT,Bloomfield,Hartford County
+58,2023-10-07 12:00:00,63.27,63.95,63.27,63.27,1006,1006,1001,99,500,Rain,light rain,100,5.1,18.48,3992,1.0,1.93,0,East Windsor Hill,0,-14400,06002,CT,Bloomfield,Hartford County
+59,2023-10-07 15:00:00,64.58,65.21,64.58,64.58,1003,1003,999,95,500,Rain,light rain,100,4.0,13.2,10000,0.4,0.25,0,East Windsor Hill,0,-14400,06002,CT,Bloomfield,Hartford County
+60,2023-10-07 18:00:00,68.23,68.61,68.23,68.23,999,999,995,82,500,Rain,light rain,100,4.61,8.68,9097,0.86,1.28,0,East Windsor Hill,0,-14400,06002,CT,Bloomfield,Hartford County
+61,2023-10-07 21:00:00,56.16,55.94,56.16,56.16,999,999,994,95,501,Rain,moderate rain,100,12.55,26.6,6115,0.93,9.31,0,East Windsor Hill,0,-14400,06002,CT,Bloomfield,Hartford County
+62,2023-10-08 00:00:00,54.16,53.51,54.16,54.16,999,999,994,90,500,Rain,light rain,100,7.96,23.6,10000,1.0,2.54,0,East Windsor Hill,0,-14400,06002,CT,Bloomfield,Hartford County
+63,2023-10-08 03:00:00,50.99,49.73,50.99,50.99,998,998,994,84,803,Clouds,broken clouds,75,9.1,25.68,10000,0.32,0.0,0,East Windsor Hill,0,-14400,06002,CT,Bloomfield,Hartford County
+64,2023-10-08 06:00:00,48.92,45.28,48.92,48.92,998,998,994,81,802,Clouds,scattered clouds,39,8.43,23.4,10000,0.2,0.0,0,East Windsor Hill,0,-14400,06002,CT,Bloomfield,Hartford County
+65,2023-10-08 09:00:00,46.38,41.52,46.38,46.38,999,999,995,76,800,Clear,clear sky,0,10.09,25.43,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06002,CT,Bloomfield,Hartford County
+66,2023-10-08 12:00:00,47.61,42.96,47.61,47.61,1000,1000,996,69,800,Clear,clear sky,4,10.29,25.64,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06002,CT,Bloomfield,Hartford County
+67,2023-10-08 15:00:00,52.11,49.98,52.11,52.11,1001,1001,997,63,804,Clouds,overcast clouds,86,13.11,27.42,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06002,CT,Bloomfield,Hartford County
+68,2023-10-08 18:00:00,54.82,52.77,54.82,54.82,1002,1002,998,59,804,Clouds,overcast clouds,87,12.06,22.55,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06002,CT,Bloomfield,Hartford County
+69,2023-10-08 21:00:00,54.54,52.56,54.54,54.54,1003,1003,998,61,803,Clouds,broken clouds,61,9.19,17.96,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06002,CT,Bloomfield,Hartford County
+70,2023-10-09 00:00:00,48.94,45.05,48.94,48.94,1005,1005,1000,70,802,Clouds,scattered clouds,41,9.06,23.02,10000,0.01,0.0,0,East Windsor Hill,0,-14400,06002,CT,Bloomfield,Hartford County
+71,2023-10-09 03:00:00,46.0,42.69,46.0,46.0,1006,1006,1002,76,801,Clouds,few clouds,12,6.38,22.12,10000,0.03,0.0,0,East Windsor Hill,0,-14400,06002,CT,Bloomfield,Hartford County
+72,2023-10-09 06:00:00,43.92,40.1,43.92,43.92,1007,1007,1002,78,801,Clouds,few clouds,17,6.55,22.15,10000,0.03,0.0,0,East Windsor Hill,0,-14400,06002,CT,Bloomfield,Hartford County
+73,2023-10-09 09:00:00,42.22,38.32,42.22,42.22,1008,1008,1003,77,801,Clouds,few clouds,20,6.13,22.77,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06002,CT,Bloomfield,Hartford County
+74,2023-10-09 12:00:00,43.66,39.56,43.66,43.66,1008,1008,1004,74,802,Clouds,scattered clouds,45,6.98,24.63,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06002,CT,Bloomfield,Hartford County
+75,2023-10-09 15:00:00,52.79,50.31,52.79,52.79,1008,1008,1004,54,802,Clouds,scattered clouds,43,8.97,15.66,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06002,CT,Bloomfield,Hartford County
+76,2023-10-09 18:00:00,57.33,54.88,57.33,57.33,1007,1007,1002,45,803,Clouds,broken clouds,63,9.75,15.64,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06002,CT,Bloomfield,Hartford County
+77,2023-10-09 21:00:00,53.94,51.53,53.94,53.94,1008,1008,1003,53,803,Clouds,broken clouds,67,8.1,15.19,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06002,CT,Bloomfield,Hartford County
+78,2023-10-10 00:00:00,46.47,44.58,46.47,46.47,1009,1009,1005,68,802,Clouds,scattered clouds,40,4.27,11.3,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06002,CT,Bloomfield,Hartford County
+79,2023-10-10 03:00:00,44.51,42.66,44.51,44.51,1010,1010,1006,73,800,Clear,clear sky,5,3.85,11.34,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06002,CT,Bloomfield,Hartford County
+80,2023-10-05 06:00:00,62.92,63.34,61.7,62.92,1023,1023,1014,94,800,Clear,clear sky,0,2.39,2.57,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06010,CT,Bristol,Hartford County
+81,2023-10-05 09:00:00,60.84,61.03,59.49,60.84,1023,1023,1014,94,800,Clear,clear sky,0,1.92,2.24,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06010,CT,Bristol,Hartford County
+82,2023-10-05 12:00:00,61.32,61.34,61.32,61.32,1025,1025,1015,89,800,Clear,clear sky,0,1.72,2.21,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06010,CT,Bristol,Hartford County
+83,2023-10-05 15:00:00,72.37,71.8,72.37,72.37,1025,1025,1014,53,803,Clouds,broken clouds,66,5.55,9.51,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06010,CT,Bristol,Hartford County
+84,2023-10-05 18:00:00,76.03,75.11,76.03,76.03,1023,1023,1012,38,802,Clouds,scattered clouds,46,8.37,11.65,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06010,CT,Bristol,Hartford County
+85,2023-10-05 21:00:00,70.48,69.82,70.48,70.48,1022,1022,1011,55,800,Clear,clear sky,10,5.93,12.39,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06010,CT,Bristol,Hartford County
+86,2023-10-06 00:00:00,59.07,58.3,59.07,59.07,1022,1022,1012,77,800,Clear,clear sky,8,2.53,4.05,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06010,CT,Bristol,Hartford County
+87,2023-10-06 03:00:00,56.61,55.92,56.61,56.61,1021,1021,1010,84,803,Clouds,broken clouds,61,3.09,7.94,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06010,CT,Bristol,Hartford County
+88,2023-10-06 06:00:00,60.06,59.86,60.06,60.06,1021,1021,1010,87,803,Clouds,broken clouds,80,1.52,1.83,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06010,CT,Bristol,Hartford County
+89,2023-10-06 09:00:00,61.02,61.29,61.02,61.02,1019,1019,1008,95,804,Clouds,overcast clouds,100,1.39,5.3,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06010,CT,Bristol,Hartford County
+90,2023-10-06 12:00:00,62.46,63.01,62.46,62.46,1018,1018,1008,98,500,Rain,light rain,100,2.93,11.86,3918,0.25,0.26,0,East Windsor Hill,0,-14400,06010,CT,Bristol,Hartford County
+91,2023-10-06 15:00:00,65.62,66.22,65.62,65.62,1018,1018,1007,92,804,Clouds,overcast clouds,100,5.5,13.94,10000,0.24,0.0,0,East Windsor Hill,0,-14400,06010,CT,Bristol,Hartford County
+92,2023-10-06 18:00:00,71.1,71.29,71.1,71.1,1015,1015,1005,72,500,Rain,light rain,100,7.7,13.47,10000,0.24,0.1,0,East Windsor Hill,0,-14400,06010,CT,Bristol,Hartford County
+93,2023-10-06 21:00:00,70.07,70.48,70.07,70.07,1014,1014,1003,79,804,Clouds,overcast clouds,99,7.11,14.5,10000,0.24,0.0,0,East Windsor Hill,0,-14400,06010,CT,Bristol,Hartford County
+94,2023-10-07 00:00:00,64.54,65.3,64.54,64.54,1013,1013,1003,98,500,Rain,light rain,99,5.68,20.38,7790,0.26,0.28,0,East Windsor Hill,0,-14400,06010,CT,Bristol,Hartford County
+95,2023-10-07 03:00:00,63.55,64.26,63.55,63.55,1011,1011,1001,99,500,Rain,light rain,100,4.76,19.15,6227,0.4,0.29,0,East Windsor Hill,0,-14400,06010,CT,Bristol,Hartford County
+96,2023-10-07 06:00:00,63.5,64.2,63.5,63.5,1009,1009,999,99,500,Rain,light rain,100,4.74,18.28,1198,0.93,0.36,0,East Windsor Hill,0,-14400,06010,CT,Bristol,Hartford County
+97,2023-10-07 09:00:00,63.01,63.66,63.01,63.01,1007,1007,996,99,500,Rain,light rain,100,5.93,18.03,343,0.93,0.98,0,East Windsor Hill,0,-14400,06010,CT,Bristol,Hartford County
+98,2023-10-07 12:00:00,62.71,63.34,62.71,62.71,1005,1005,995,99,500,Rain,light rain,100,5.68,17.16,966,1.0,2.25,0,East Windsor Hill,0,-14400,06010,CT,Bristol,Hartford County
+99,2023-10-07 15:00:00,64.22,64.85,64.22,64.22,1003,1003,992,96,500,Rain,light rain,100,5.41,13.69,10000,0.55,0.65,0,East Windsor Hill,0,-14400,06010,CT,Bristol,Hartford County
+100,2023-10-07 18:00:00,64.9,65.43,64.9,64.9,1000,1000,989,92,500,Rain,light rain,100,4.54,10.58,9725,0.88,2.14,0,East Windsor Hill,0,-14400,06010,CT,Bristol,Hartford County
+101,2023-10-07 21:00:00,55.38,55.09,55.38,55.38,999,999,988,95,501,Rain,moderate rain,100,11.9,27.38,9844,0.99,8.4,0,East Windsor Hill,0,-14400,06010,CT,Bristol,Hartford County
+102,2023-10-08 00:00:00,52.74,51.98,52.74,52.74,999,999,988,91,500,Rain,light rain,100,9.73,26.69,10000,1.0,1.4,0,East Windsor Hill,0,-14400,06010,CT,Bristol,Hartford County
+103,2023-10-08 03:00:00,49.28,45.45,49.28,49.28,999,999,988,90,803,Clouds,broken clouds,65,9.15,26.53,10000,0.15,0.0,0,East Windsor Hill,0,-14400,06010,CT,Bristol,Hartford County
+104,2023-10-08 06:00:00,47.75,42.76,47.75,47.75,999,999,988,84,802,Clouds,scattered clouds,33,11.43,27.47,10000,0.06,0.0,0,East Windsor Hill,0,-14400,06010,CT,Bristol,Hartford County
+105,2023-10-08 09:00:00,44.96,39.33,44.96,44.96,1000,1000,989,78,800,Clear,clear sky,0,11.3,27.6,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06010,CT,Bristol,Hartford County
+106,2023-10-08 12:00:00,46.69,41.59,46.69,46.69,1000,1000,990,70,800,Clear,clear sky,3,10.96,26.51,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06010,CT,Bristol,Hartford County
+107,2023-10-08 15:00:00,50.45,48.34,50.45,50.45,1002,1002,991,67,804,Clouds,overcast clouds,89,13.56,28.68,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06010,CT,Bristol,Hartford County
+108,2023-10-08 18:00:00,52.36,50.31,52.36,52.36,1002,1002,992,64,804,Clouds,overcast clouds,90,10.11,23.26,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06010,CT,Bristol,Hartford County
+109,2023-10-08 21:00:00,53.29,51.33,53.29,53.29,1003,1003,992,64,803,Clouds,broken clouds,57,10.58,17.85,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06010,CT,Bristol,Hartford County
+110,2023-10-09 00:00:00,47.25,42.87,47.25,47.25,1005,1005,995,74,802,Clouds,scattered clouds,37,9.33,24.52,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06010,CT,Bristol,Hartford County
+111,2023-10-09 03:00:00,44.11,40.28,44.11,44.11,1007,1007,996,82,801,Clouds,few clouds,20,6.67,23.42,10000,0.01,0.0,0,East Windsor Hill,0,-14400,06010,CT,Bristol,Hartford County
+112,2023-10-09 06:00:00,41.31,37.65,41.31,41.31,1007,1007,996,85,801,Clouds,few clouds,20,5.5,23.47,10000,0.01,0.0,0,East Windsor Hill,0,-14400,06010,CT,Bristol,Hartford County
+113,2023-10-09 09:00:00,40.42,35.92,40.42,40.42,1008,1008,997,82,801,Clouds,few clouds,12,6.53,25.79,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06010,CT,Bristol,Hartford County
+114,2023-10-09 12:00:00,42.28,37.71,42.28,42.28,1009,1009,998,78,802,Clouds,scattered clouds,40,7.31,25.23,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06010,CT,Bristol,Hartford County
+115,2023-10-09 15:00:00,51.73,49.28,51.73,51.73,1008,1008,998,57,803,Clouds,broken clouds,55,9.53,15.95,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06010,CT,Bristol,Hartford County
+116,2023-10-09 18:00:00,56.48,53.94,56.48,56.48,1007,1007,996,45,803,Clouds,broken clouds,56,10.71,15.86,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06010,CT,Bristol,Hartford County
+117,2023-10-09 21:00:00,52.56,50.2,52.56,52.56,1008,1008,997,57,803,Clouds,broken clouds,82,7.63,15.5,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06010,CT,Bristol,Hartford County
+118,2023-10-10 00:00:00,44.19,42.33,44.19,44.19,1010,1010,999,73,802,Clouds,scattered clouds,47,3.8,6.38,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06010,CT,Bristol,Hartford County
+119,2023-10-10 03:00:00,43.47,41.52,43.47,43.47,1010,1010,1000,77,800,Clear,clear sky,7,3.78,12.59,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06010,CT,Bristol,Hartford County
+120,2023-10-05 06:00:00,62.89,63.34,61.59,62.89,1023,1023,1014,95,800,Clear,clear sky,0,2.35,2.46,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06011,CT,Bristol,Hartford County
+121,2023-10-05 09:00:00,60.76,60.96,59.38,60.76,1024,1024,1014,94,800,Clear,clear sky,0,1.88,2.19,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06011,CT,Bristol,Hartford County
+122,2023-10-05 12:00:00,61.29,61.34,61.29,61.29,1025,1025,1015,90,800,Clear,clear sky,0,1.68,2.06,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06011,CT,Bristol,Hartford County
+123,2023-10-05 15:00:00,72.39,71.82,72.39,72.39,1025,1025,1014,53,803,Clouds,broken clouds,66,5.53,9.46,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06011,CT,Bristol,Hartford County
+124,2023-10-05 18:00:00,75.94,75.02,75.94,75.94,1023,1023,1012,38,802,Clouds,scattered clouds,45,8.39,11.65,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06011,CT,Bristol,Hartford County
+125,2023-10-05 21:00:00,70.41,69.78,70.41,70.41,1022,1022,1011,56,800,Clear,clear sky,9,5.91,12.39,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06011,CT,Bristol,Hartford County
+126,2023-10-06 00:00:00,58.82,58.03,58.82,58.82,1022,1022,1012,77,800,Clear,clear sky,7,2.48,3.62,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06011,CT,Bristol,Hartford County
+127,2023-10-06 03:00:00,56.43,55.76,56.43,56.43,1021,1021,1010,85,803,Clouds,broken clouds,62,2.98,6.78,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06011,CT,Bristol,Hartford County
+128,2023-10-06 06:00:00,60.03,59.86,60.03,60.03,1021,1021,1010,88,803,Clouds,broken clouds,80,1.54,1.79,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06011,CT,Bristol,Hartford County
+129,2023-10-06 09:00:00,60.94,61.2,60.94,60.94,1019,1019,1008,95,804,Clouds,overcast clouds,100,1.5,5.17,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06011,CT,Bristol,Hartford County
+130,2023-10-06 12:00:00,62.44,63.0,62.44,62.44,1018,1018,1008,98,500,Rain,light rain,100,3.0,11.79,3157,0.25,0.27,0,East Windsor Hill,0,-14400,06011,CT,Bristol,Hartford County
+131,2023-10-06 15:00:00,65.64,66.24,65.64,65.64,1018,1018,1007,92,500,Rain,light rain,100,5.68,14.0,10000,0.24,0.1,0,East Windsor Hill,0,-14400,06011,CT,Bristol,Hartford County
+132,2023-10-06 18:00:00,70.95,71.19,70.95,70.95,1015,1015,1005,73,500,Rain,light rain,100,7.85,13.6,10000,0.25,0.1,0,East Windsor Hill,0,-14400,06011,CT,Bristol,Hartford County
+133,2023-10-06 21:00:00,69.96,70.38,69.96,69.96,1014,1014,1003,79,804,Clouds,overcast clouds,99,7.07,14.5,10000,0.23,0.0,0,East Windsor Hill,0,-14400,06011,CT,Bristol,Hartford County
+134,2023-10-07 00:00:00,64.49,65.25,64.49,64.49,1013,1013,1003,98,500,Rain,light rain,99,5.66,20.33,6076,0.25,0.25,0,East Windsor Hill,0,-14400,06011,CT,Bristol,Hartford County
+135,2023-10-07 03:00:00,63.59,64.31,63.59,63.59,1011,1011,1001,99,500,Rain,light rain,100,4.85,19.39,4688,0.41,0.3,0,East Windsor Hill,0,-14400,06011,CT,Bristol,Hartford County
+136,2023-10-07 06:00:00,63.52,64.22,63.52,63.52,1009,1009,999,99,500,Rain,light rain,100,4.79,18.19,886,0.93,0.33,0,East Windsor Hill,0,-14400,06011,CT,Bristol,Hartford County
+137,2023-10-07 09:00:00,63.03,63.68,63.03,63.03,1007,1007,996,99,500,Rain,light rain,100,5.95,17.85,260,0.93,0.85,0,East Windsor Hill,0,-14400,06011,CT,Bristol,Hartford County
+138,2023-10-07 12:00:00,62.71,63.34,62.71,62.71,1005,1005,995,99,500,Rain,light rain,100,5.75,17.05,682,1.0,2.3,0,East Windsor Hill,0,-14400,06011,CT,Bristol,Hartford County
+139,2023-10-07 15:00:00,64.26,64.89,64.26,64.26,1003,1003,992,96,500,Rain,light rain,100,5.53,13.69,10000,0.56,0.68,0,East Windsor Hill,0,-14400,06011,CT,Bristol,Hartford County
+140,2023-10-07 18:00:00,64.6,65.12,64.6,64.6,1000,1000,989,93,500,Rain,light rain,100,4.63,10.92,9896,0.88,2.2,0,East Windsor Hill,0,-14400,06011,CT,Bristol,Hartford County
+141,2023-10-07 21:00:00,55.36,55.06,55.36,55.36,999,999,988,95,501,Rain,moderate rain,100,12.01,27.47,10000,0.99,8.32,0,East Windsor Hill,0,-14400,06011,CT,Bristol,Hartford County
+142,2023-10-08 00:00:00,52.63,51.87,52.63,52.63,999,999,988,91,500,Rain,light rain,100,10.0,27.09,10000,1.0,1.3,0,East Windsor Hill,0,-14400,06011,CT,Bristol,Hartford County
+143,2023-10-08 03:00:00,49.15,45.27,49.15,49.15,999,999,988,91,803,Clouds,broken clouds,64,9.19,26.69,10000,0.14,0.0,0,East Windsor Hill,0,-14400,06011,CT,Bristol,Hartford County
+144,2023-10-08 06:00:00,47.62,42.55,47.62,47.62,999,999,988,85,802,Clouds,scattered clouds,33,11.63,27.65,10000,0.05,0.0,0,East Windsor Hill,0,-14400,06011,CT,Bristol,Hartford County
+145,2023-10-08 09:00:00,44.83,39.13,44.83,44.83,1000,1000,989,78,800,Clear,clear sky,0,11.41,27.83,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06011,CT,Bristol,Hartford County
+146,2023-10-08 12:00:00,46.65,41.5,46.65,46.65,1000,1000,990,70,800,Clear,clear sky,3,11.12,26.64,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06011,CT,Bristol,Hartford County
+147,2023-10-08 15:00:00,50.36,48.25,50.36,50.36,1002,1002,991,67,804,Clouds,overcast clouds,89,13.6,28.77,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06011,CT,Bristol,Hartford County
+148,2023-10-08 18:00:00,52.27,50.2,52.27,52.27,1002,1002,992,64,804,Clouds,overcast clouds,89,10.0,23.24,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06011,CT,Bristol,Hartford County
+149,2023-10-08 21:00:00,53.2,51.22,53.2,53.2,1003,1003,992,64,803,Clouds,broken clouds,57,10.69,17.98,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06011,CT,Bristol,Hartford County
+150,2023-10-09 00:00:00,47.1,42.71,47.1,47.1,1005,1005,995,74,802,Clouds,scattered clouds,37,9.31,24.7,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06011,CT,Bristol,Hartford County
+151,2023-10-09 03:00:00,43.95,40.06,43.95,43.95,1007,1007,996,83,801,Clouds,few clouds,21,6.71,23.53,10000,0.01,0.0,0,East Windsor Hill,0,-14400,06011,CT,Bristol,Hartford County
+152,2023-10-09 06:00:00,41.04,37.4,41.04,41.04,1007,1007,996,86,801,Clouds,few clouds,20,5.39,23.49,10000,0.01,0.0,0,East Windsor Hill,0,-14400,06011,CT,Bristol,Hartford County
+153,2023-10-09 09:00:00,40.24,35.71,40.24,40.24,1008,1008,997,82,801,Clouds,few clouds,12,6.53,25.95,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06011,CT,Bristol,Hartford County
+154,2023-10-09 12:00:00,42.17,37.56,42.17,42.17,1009,1009,998,78,802,Clouds,scattered clouds,40,7.36,25.32,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06011,CT,Bristol,Hartford County
+155,2023-10-09 15:00:00,51.69,49.24,51.69,51.69,1008,1008,998,57,803,Clouds,broken clouds,55,9.6,16.04,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06011,CT,Bristol,Hartford County
+156,2023-10-09 18:00:00,56.43,53.92,56.43,56.43,1007,1007,996,46,803,Clouds,broken clouds,55,10.78,15.86,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06011,CT,Bristol,Hartford County
+157,2023-10-09 21:00:00,52.48,50.11,52.48,52.48,1008,1008,997,57,803,Clouds,broken clouds,83,7.58,15.52,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06011,CT,Bristol,Hartford County
+158,2023-10-10 00:00:00,43.93,42.06,43.93,43.93,1010,1010,999,74,802,Clouds,scattered clouds,47,3.78,5.64,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06011,CT,Bristol,Hartford County
+159,2023-10-10 03:00:00,43.34,41.41,43.34,43.34,1010,1010,1000,77,800,Clear,clear sky,8,3.74,12.06,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06011,CT,Bristol,Hartford County
+160,2023-10-05 06:00:00,61.7,62.04,60.64,61.7,1023,1023,1000,95,800,Clear,clear sky,0,2.57,2.71,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+161,2023-10-05 06:00:00,61.7,62.04,60.64,61.7,1023,1023,1000,95,800,Clear,clear sky,0,2.57,2.71,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+162,2023-10-05 09:00:00,59.61,59.68,58.3,59.61,1023,1023,1000,94,800,Clear,clear sky,0,2.08,2.33,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+163,2023-10-05 09:00:00,59.61,59.68,58.3,59.61,1023,1023,1000,94,800,Clear,clear sky,0,2.08,2.33,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+164,2023-10-05 12:00:00,59.99,59.86,59.99,59.99,1025,1025,1001,89,800,Clear,clear sky,0,1.9,2.42,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+165,2023-10-05 12:00:00,59.99,59.86,59.99,59.99,1025,1025,1001,89,800,Clear,clear sky,0,1.9,2.42,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+166,2023-10-05 15:00:00,70.97,70.3,70.97,70.97,1025,1025,1001,54,803,Clouds,broken clouds,73,5.59,9.82,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+167,2023-10-05 15:00:00,70.97,70.3,70.97,70.97,1025,1025,1001,54,803,Clouds,broken clouds,73,5.59,9.82,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+168,2023-10-05 18:00:00,75.07,74.07,75.07,75.07,1022,1022,999,38,802,Clouds,scattered clouds,47,8.48,11.74,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+169,2023-10-05 18:00:00,75.07,74.07,75.07,75.07,1022,1022,999,38,802,Clouds,scattered clouds,47,8.48,11.74,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+170,2023-10-05 21:00:00,69.44,68.67,69.44,69.44,1022,1022,998,55,800,Clear,clear sky,9,6.06,12.57,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+171,2023-10-05 21:00:00,69.44,68.67,69.44,69.44,1022,1022,998,55,800,Clear,clear sky,9,6.06,12.57,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+172,2023-10-06 00:00:00,57.85,56.91,57.85,57.85,1022,1022,998,76,800,Clear,clear sky,8,2.48,3.94,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+173,2023-10-06 00:00:00,57.85,56.91,57.85,57.85,1022,1022,998,76,800,Clear,clear sky,8,2.48,3.94,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+174,2023-10-06 03:00:00,55.13,54.25,55.13,55.13,1021,1021,996,83,803,Clouds,broken clouds,66,2.84,6.76,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+175,2023-10-06 03:00:00,55.13,54.25,55.13,55.13,1021,1021,996,83,803,Clouds,broken clouds,66,2.84,6.76,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+176,2023-10-06 06:00:00,58.46,58.01,58.46,58.46,1021,1021,997,85,803,Clouds,broken clouds,83,1.3,1.48,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+177,2023-10-06 06:00:00,58.46,58.01,58.46,58.46,1021,1021,997,85,803,Clouds,broken clouds,83,1.3,1.48,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+178,2023-10-06 09:00:00,59.18,59.22,59.18,59.18,1019,1019,995,94,804,Clouds,overcast clouds,100,1.34,3.4,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+179,2023-10-06 09:00:00,59.18,59.22,59.18,59.18,1019,1019,995,94,804,Clouds,overcast clouds,100,1.34,3.4,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+180,2023-10-06 12:00:00,60.71,61.09,60.71,60.71,1018,1018,994,98,500,Rain,light rain,100,2.33,10.16,2230,0.23,0.28,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+181,2023-10-06 12:00:00,60.71,61.09,60.71,60.71,1018,1018,994,98,500,Rain,light rain,100,2.33,10.16,2230,0.23,0.28,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+182,2023-10-06 15:00:00,63.66,64.15,63.66,63.66,1018,1018,994,94,500,Rain,light rain,100,5.17,13.76,7834,0.26,0.15,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+183,2023-10-06 15:00:00,63.66,64.15,63.66,63.66,1018,1018,994,94,500,Rain,light rain,100,5.17,13.76,7834,0.26,0.15,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+184,2023-10-06 18:00:00,69.49,69.62,69.49,69.49,1015,1015,991,74,500,Rain,light rain,100,7.31,13.58,10000,0.26,0.13,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+185,2023-10-06 18:00:00,69.49,69.62,69.49,69.49,1015,1015,991,74,500,Rain,light rain,100,7.31,13.58,10000,0.26,0.13,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+186,2023-10-06 21:00:00,68.88,69.1,68.88,68.88,1014,1014,990,77,804,Clouds,overcast clouds,100,7.0,14.32,10000,0.28,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+187,2023-10-06 21:00:00,68.88,69.1,68.88,68.88,1014,1014,990,77,804,Clouds,overcast clouds,100,7.0,14.32,10000,0.28,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+188,2023-10-07 00:00:00,63.55,64.22,63.55,63.55,1013,1013,989,98,500,Rain,light rain,100,5.66,20.13,6235,0.29,0.32,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+189,2023-10-07 00:00:00,63.55,64.22,63.55,63.55,1013,1013,989,98,500,Rain,light rain,100,5.66,20.13,6235,0.29,0.32,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+190,2023-10-07 03:00:00,62.24,62.82,62.24,62.24,1011,1011,987,99,500,Rain,light rain,100,4.72,19.01,5569,0.41,0.32,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+191,2023-10-07 03:00:00,62.24,62.82,62.24,62.24,1011,1011,987,99,500,Rain,light rain,100,4.72,19.01,5569,0.41,0.32,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+192,2023-10-07 06:00:00,62.08,62.64,62.08,62.08,1009,1009,985,99,500,Rain,light rain,100,4.54,18.28,1067,0.92,0.35,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+193,2023-10-07 06:00:00,62.08,62.64,62.08,62.08,1009,1009,985,99,500,Rain,light rain,100,4.54,18.28,1067,0.92,0.35,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+194,2023-10-07 09:00:00,61.72,62.24,61.72,61.72,1007,1007,983,99,500,Rain,light rain,100,5.93,18.14,352,0.92,1.23,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+195,2023-10-07 09:00:00,61.72,62.24,61.72,61.72,1007,1007,983,99,500,Rain,light rain,100,5.93,18.14,352,0.92,1.23,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+196,2023-10-07 12:00:00,61.41,61.9,61.41,61.41,1005,1005,982,99,500,Rain,light rain,100,5.75,17.27,1021,1.0,2.37,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+197,2023-10-07 12:00:00,61.41,61.9,61.41,61.41,1005,1005,982,99,500,Rain,light rain,100,5.75,17.27,1021,1.0,2.37,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+198,2023-10-07 15:00:00,62.38,62.92,62.38,62.38,1003,1003,979,98,500,Rain,light rain,100,5.19,14.07,7157,0.56,0.74,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+199,2023-10-07 15:00:00,62.38,62.92,62.38,62.38,1003,1003,979,98,500,Rain,light rain,100,5.19,14.07,7157,0.56,0.74,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+200,2023-10-07 18:00:00,63.5,63.91,63.5,63.5,1000,1000,976,93,500,Rain,light rain,100,3.85,9.55,7406,0.9,2.38,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+201,2023-10-07 18:00:00,63.5,63.91,63.5,63.5,1000,1000,976,93,500,Rain,light rain,100,3.85,9.55,7406,0.9,2.38,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+202,2023-10-07 21:00:00,52.86,52.27,52.86,52.86,999,999,975,94,501,Rain,moderate rain,100,12.35,30.0,9197,0.99,9.37,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+203,2023-10-07 21:00:00,52.86,52.27,52.86,52.86,999,999,975,94,501,Rain,moderate rain,100,12.35,30.0,9197,0.99,9.37,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+204,2023-10-08 00:00:00,51.33,50.45,51.33,51.33,999,999,975,91,500,Rain,light rain,100,10.0,27.34,10000,1.0,1.3,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+205,2023-10-08 00:00:00,51.33,50.45,51.33,51.33,999,999,975,91,500,Rain,light rain,100,10.0,27.34,10000,1.0,1.3,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+206,2023-10-08 03:00:00,47.98,43.68,47.98,47.98,999,999,974,90,803,Clouds,broken clouds,68,9.62,26.73,10000,0.16,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+207,2023-10-08 03:00:00,47.98,43.68,47.98,47.98,999,999,974,90,803,Clouds,broken clouds,68,9.62,26.73,10000,0.16,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+208,2023-10-08 06:00:00,46.51,41.22,46.51,46.51,998,998,974,84,802,Clouds,scattered clouds,35,11.41,27.29,10000,0.07,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+209,2023-10-08 06:00:00,46.51,41.22,46.51,46.51,998,998,974,84,802,Clouds,scattered clouds,35,11.41,27.29,10000,0.07,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+210,2023-10-08 09:00:00,43.57,37.47,43.57,43.57,999,999,975,78,800,Clear,clear sky,0,11.61,27.54,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+211,2023-10-08 09:00:00,43.57,37.47,43.57,43.57,999,999,975,78,800,Clear,clear sky,0,11.61,27.54,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+212,2023-10-08 12:00:00,45.48,40.06,45.48,45.48,1000,1000,976,70,800,Clear,clear sky,3,11.03,26.75,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+213,2023-10-08 12:00:00,45.48,40.06,45.48,45.48,1000,1000,976,70,800,Clear,clear sky,3,11.03,26.75,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+214,2023-10-08 15:00:00,48.61,43.18,48.61,48.61,1002,1002,977,69,804,Clouds,overcast clouds,96,13.78,28.77,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+215,2023-10-08 15:00:00,48.61,43.18,48.61,48.61,1002,1002,977,69,804,Clouds,overcast clouds,96,13.78,28.77,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+216,2023-10-08 18:00:00,50.67,48.49,50.67,50.67,1002,1002,978,65,804,Clouds,overcast clouds,95,10.65,24.23,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+217,2023-10-08 18:00:00,50.67,48.49,50.67,50.67,1002,1002,978,65,804,Clouds,overcast clouds,95,10.65,24.23,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+218,2023-10-08 21:00:00,51.73,49.69,51.73,51.73,1003,1003,978,66,500,Rain,light rain,57,10.56,17.45,10000,0.2,0.11,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+219,2023-10-08 21:00:00,51.73,49.69,51.73,51.73,1003,1003,978,66,500,Rain,light rain,57,10.56,17.45,10000,0.2,0.11,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+220,2023-10-09 00:00:00,45.75,40.78,45.75,45.75,1005,1005,981,75,802,Clouds,scattered clouds,36,9.98,24.96,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+221,2023-10-09 00:00:00,45.75,40.78,45.75,45.75,1005,1005,981,75,802,Clouds,scattered clouds,36,9.98,24.96,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+222,2023-10-09 03:00:00,42.75,38.44,42.75,42.75,1007,1007,982,83,801,Clouds,few clouds,12,7.0,23.91,10000,0.01,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+223,2023-10-09 03:00:00,42.75,38.44,42.75,42.75,1007,1007,982,83,801,Clouds,few clouds,12,7.0,23.91,10000,0.01,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+224,2023-10-09 06:00:00,39.78,35.58,39.78,39.78,1007,1007,982,86,801,Clouds,few clouds,13,5.86,24.0,10000,0.01,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+225,2023-10-09 06:00:00,39.78,35.58,39.78,39.78,1007,1007,982,86,801,Clouds,few clouds,13,5.86,24.0,10000,0.01,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+226,2023-10-09 09:00:00,39.09,34.05,39.09,39.09,1008,1008,983,82,801,Clouds,few clouds,12,6.98,26.75,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+227,2023-10-09 09:00:00,39.09,34.05,39.09,39.09,1008,1008,983,82,801,Clouds,few clouds,12,6.98,26.75,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+228,2023-10-09 12:00:00,40.66,35.53,40.66,40.66,1008,1008,983,79,802,Clouds,scattered clouds,39,7.74,25.26,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+229,2023-10-09 12:00:00,40.66,35.53,40.66,40.66,1008,1008,983,79,802,Clouds,scattered clouds,39,7.74,25.26,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+230,2023-10-09 15:00:00,50.13,47.52,50.13,50.13,1008,1008,984,57,803,Clouds,broken clouds,57,9.51,15.61,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+231,2023-10-09 15:00:00,50.13,47.52,50.13,50.13,1008,1008,984,57,803,Clouds,broken clouds,57,9.51,15.61,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+232,2023-10-09 18:00:00,54.75,52.14,54.75,54.75,1007,1007,983,47,803,Clouds,broken clouds,58,10.96,16.02,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+233,2023-10-09 18:00:00,54.75,52.14,54.75,54.75,1007,1007,983,47,803,Clouds,broken clouds,58,10.96,16.02,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+234,2023-10-09 21:00:00,50.94,48.45,50.94,50.94,1008,1008,983,58,804,Clouds,overcast clouds,86,7.47,15.28,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+235,2023-10-09 21:00:00,50.94,48.45,50.94,50.94,1008,1008,983,58,804,Clouds,overcast clouds,86,7.47,15.28,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+236,2023-10-10 00:00:00,42.57,40.35,42.57,42.57,1010,1010,985,75,802,Clouds,scattered clouds,49,3.91,6.69,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+237,2023-10-10 00:00:00,42.57,40.35,42.57,42.57,1010,1010,985,75,802,Clouds,scattered clouds,49,3.91,6.69,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+238,2023-10-10 03:00:00,41.74,39.04,41.74,41.74,1010,1010,985,78,800,Clear,clear sky,5,4.34,16.35,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+239,2023-10-10 03:00:00,41.74,39.04,41.74,41.74,1010,1010,985,78,800,Clear,clear sky,5,4.34,16.35,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+240,2023-10-05 06:00:00,61.7,62.04,60.64,61.7,1023,1023,1000,95,800,Clear,clear sky,0,2.57,2.71,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+241,2023-10-05 06:00:00,61.7,62.04,60.64,61.7,1023,1023,1000,95,800,Clear,clear sky,0,2.57,2.71,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+242,2023-10-05 09:00:00,59.61,59.68,58.3,59.61,1023,1023,1000,94,800,Clear,clear sky,0,2.08,2.33,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+243,2023-10-05 09:00:00,59.61,59.68,58.3,59.61,1023,1023,1000,94,800,Clear,clear sky,0,2.08,2.33,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+244,2023-10-05 12:00:00,59.99,59.86,59.99,59.99,1025,1025,1001,89,800,Clear,clear sky,0,1.9,2.42,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+245,2023-10-05 12:00:00,59.99,59.86,59.99,59.99,1025,1025,1001,89,800,Clear,clear sky,0,1.9,2.42,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+246,2023-10-05 15:00:00,70.97,70.3,70.97,70.97,1025,1025,1001,54,803,Clouds,broken clouds,73,5.59,9.82,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+247,2023-10-05 15:00:00,70.97,70.3,70.97,70.97,1025,1025,1001,54,803,Clouds,broken clouds,73,5.59,9.82,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+248,2023-10-05 18:00:00,75.07,74.07,75.07,75.07,1022,1022,999,38,802,Clouds,scattered clouds,47,8.48,11.74,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+249,2023-10-05 18:00:00,75.07,74.07,75.07,75.07,1022,1022,999,38,802,Clouds,scattered clouds,47,8.48,11.74,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+250,2023-10-05 21:00:00,69.44,68.67,69.44,69.44,1022,1022,998,55,800,Clear,clear sky,9,6.06,12.57,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+251,2023-10-05 21:00:00,69.44,68.67,69.44,69.44,1022,1022,998,55,800,Clear,clear sky,9,6.06,12.57,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+252,2023-10-06 00:00:00,57.85,56.91,57.85,57.85,1022,1022,998,76,800,Clear,clear sky,8,2.48,3.94,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+253,2023-10-06 00:00:00,57.85,56.91,57.85,57.85,1022,1022,998,76,800,Clear,clear sky,8,2.48,3.94,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+254,2023-10-06 03:00:00,55.13,54.25,55.13,55.13,1021,1021,996,83,803,Clouds,broken clouds,66,2.84,6.76,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+255,2023-10-06 03:00:00,55.13,54.25,55.13,55.13,1021,1021,996,83,803,Clouds,broken clouds,66,2.84,6.76,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+256,2023-10-06 06:00:00,58.46,58.01,58.46,58.46,1021,1021,997,85,803,Clouds,broken clouds,83,1.3,1.48,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+257,2023-10-06 06:00:00,58.46,58.01,58.46,58.46,1021,1021,997,85,803,Clouds,broken clouds,83,1.3,1.48,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+258,2023-10-06 09:00:00,59.18,59.22,59.18,59.18,1019,1019,995,94,804,Clouds,overcast clouds,100,1.34,3.4,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+259,2023-10-06 09:00:00,59.18,59.22,59.18,59.18,1019,1019,995,94,804,Clouds,overcast clouds,100,1.34,3.4,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+260,2023-10-06 12:00:00,60.71,61.09,60.71,60.71,1018,1018,994,98,500,Rain,light rain,100,2.33,10.16,2230,0.23,0.28,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+261,2023-10-06 12:00:00,60.71,61.09,60.71,60.71,1018,1018,994,98,500,Rain,light rain,100,2.33,10.16,2230,0.23,0.28,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+262,2023-10-06 15:00:00,63.66,64.15,63.66,63.66,1018,1018,994,94,500,Rain,light rain,100,5.17,13.76,7834,0.26,0.15,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+263,2023-10-06 15:00:00,63.66,64.15,63.66,63.66,1018,1018,994,94,500,Rain,light rain,100,5.17,13.76,7834,0.26,0.15,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+264,2023-10-06 18:00:00,69.49,69.62,69.49,69.49,1015,1015,991,74,500,Rain,light rain,100,7.31,13.58,10000,0.26,0.13,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+265,2023-10-06 18:00:00,69.49,69.62,69.49,69.49,1015,1015,991,74,500,Rain,light rain,100,7.31,13.58,10000,0.26,0.13,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+266,2023-10-06 21:00:00,68.88,69.1,68.88,68.88,1014,1014,990,77,804,Clouds,overcast clouds,100,7.0,14.32,10000,0.28,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+267,2023-10-06 21:00:00,68.88,69.1,68.88,68.88,1014,1014,990,77,804,Clouds,overcast clouds,100,7.0,14.32,10000,0.28,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+268,2023-10-07 00:00:00,63.55,64.22,63.55,63.55,1013,1013,989,98,500,Rain,light rain,100,5.66,20.13,6235,0.29,0.32,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+269,2023-10-07 00:00:00,63.55,64.22,63.55,63.55,1013,1013,989,98,500,Rain,light rain,100,5.66,20.13,6235,0.29,0.32,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+270,2023-10-07 03:00:00,62.24,62.82,62.24,62.24,1011,1011,987,99,500,Rain,light rain,100,4.72,19.01,5569,0.41,0.32,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+271,2023-10-07 03:00:00,62.24,62.82,62.24,62.24,1011,1011,987,99,500,Rain,light rain,100,4.72,19.01,5569,0.41,0.32,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+272,2023-10-07 06:00:00,62.08,62.64,62.08,62.08,1009,1009,985,99,500,Rain,light rain,100,4.54,18.28,1067,0.92,0.35,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+273,2023-10-07 06:00:00,62.08,62.64,62.08,62.08,1009,1009,985,99,500,Rain,light rain,100,4.54,18.28,1067,0.92,0.35,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+274,2023-10-07 09:00:00,61.72,62.24,61.72,61.72,1007,1007,983,99,500,Rain,light rain,100,5.93,18.14,352,0.92,1.23,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+275,2023-10-07 09:00:00,61.72,62.24,61.72,61.72,1007,1007,983,99,500,Rain,light rain,100,5.93,18.14,352,0.92,1.23,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+276,2023-10-07 12:00:00,61.41,61.9,61.41,61.41,1005,1005,982,99,500,Rain,light rain,100,5.75,17.27,1021,1.0,2.37,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+277,2023-10-07 12:00:00,61.41,61.9,61.41,61.41,1005,1005,982,99,500,Rain,light rain,100,5.75,17.27,1021,1.0,2.37,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+278,2023-10-07 15:00:00,62.38,62.92,62.38,62.38,1003,1003,979,98,500,Rain,light rain,100,5.19,14.07,7157,0.56,0.74,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+279,2023-10-07 15:00:00,62.38,62.92,62.38,62.38,1003,1003,979,98,500,Rain,light rain,100,5.19,14.07,7157,0.56,0.74,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+280,2023-10-07 18:00:00,63.5,63.91,63.5,63.5,1000,1000,976,93,500,Rain,light rain,100,3.85,9.55,7406,0.9,2.38,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+281,2023-10-07 18:00:00,63.5,63.91,63.5,63.5,1000,1000,976,93,500,Rain,light rain,100,3.85,9.55,7406,0.9,2.38,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+282,2023-10-07 21:00:00,52.86,52.27,52.86,52.86,999,999,975,94,501,Rain,moderate rain,100,12.35,30.0,9197,0.99,9.37,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+283,2023-10-07 21:00:00,52.86,52.27,52.86,52.86,999,999,975,94,501,Rain,moderate rain,100,12.35,30.0,9197,0.99,9.37,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+284,2023-10-08 00:00:00,51.33,50.45,51.33,51.33,999,999,975,91,500,Rain,light rain,100,10.0,27.34,10000,1.0,1.3,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+285,2023-10-08 00:00:00,51.33,50.45,51.33,51.33,999,999,975,91,500,Rain,light rain,100,10.0,27.34,10000,1.0,1.3,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+286,2023-10-08 03:00:00,47.98,43.68,47.98,47.98,999,999,974,90,803,Clouds,broken clouds,68,9.62,26.73,10000,0.16,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+287,2023-10-08 03:00:00,47.98,43.68,47.98,47.98,999,999,974,90,803,Clouds,broken clouds,68,9.62,26.73,10000,0.16,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+288,2023-10-08 06:00:00,46.51,41.22,46.51,46.51,998,998,974,84,802,Clouds,scattered clouds,35,11.41,27.29,10000,0.07,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+289,2023-10-08 06:00:00,46.51,41.22,46.51,46.51,998,998,974,84,802,Clouds,scattered clouds,35,11.41,27.29,10000,0.07,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+290,2023-10-08 09:00:00,43.57,37.47,43.57,43.57,999,999,975,78,800,Clear,clear sky,0,11.61,27.54,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+291,2023-10-08 09:00:00,43.57,37.47,43.57,43.57,999,999,975,78,800,Clear,clear sky,0,11.61,27.54,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+292,2023-10-08 12:00:00,45.48,40.06,45.48,45.48,1000,1000,976,70,800,Clear,clear sky,3,11.03,26.75,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+293,2023-10-08 12:00:00,45.48,40.06,45.48,45.48,1000,1000,976,70,800,Clear,clear sky,3,11.03,26.75,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+294,2023-10-08 15:00:00,48.61,43.18,48.61,48.61,1002,1002,977,69,804,Clouds,overcast clouds,96,13.78,28.77,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+295,2023-10-08 15:00:00,48.61,43.18,48.61,48.61,1002,1002,977,69,804,Clouds,overcast clouds,96,13.78,28.77,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+296,2023-10-08 18:00:00,50.67,48.49,50.67,50.67,1002,1002,978,65,804,Clouds,overcast clouds,95,10.65,24.23,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+297,2023-10-08 18:00:00,50.67,48.49,50.67,50.67,1002,1002,978,65,804,Clouds,overcast clouds,95,10.65,24.23,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+298,2023-10-08 21:00:00,51.73,49.69,51.73,51.73,1003,1003,978,66,500,Rain,light rain,57,10.56,17.45,10000,0.2,0.11,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+299,2023-10-08 21:00:00,51.73,49.69,51.73,51.73,1003,1003,978,66,500,Rain,light rain,57,10.56,17.45,10000,0.2,0.11,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+300,2023-10-09 00:00:00,45.75,40.78,45.75,45.75,1005,1005,981,75,802,Clouds,scattered clouds,36,9.98,24.96,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+301,2023-10-09 00:00:00,45.75,40.78,45.75,45.75,1005,1005,981,75,802,Clouds,scattered clouds,36,9.98,24.96,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+302,2023-10-09 03:00:00,42.75,38.44,42.75,42.75,1007,1007,982,83,801,Clouds,few clouds,12,7.0,23.91,10000,0.01,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+303,2023-10-09 03:00:00,42.75,38.44,42.75,42.75,1007,1007,982,83,801,Clouds,few clouds,12,7.0,23.91,10000,0.01,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+304,2023-10-09 06:00:00,39.78,35.58,39.78,39.78,1007,1007,982,86,801,Clouds,few clouds,13,5.86,24.0,10000,0.01,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+305,2023-10-09 06:00:00,39.78,35.58,39.78,39.78,1007,1007,982,86,801,Clouds,few clouds,13,5.86,24.0,10000,0.01,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+306,2023-10-09 09:00:00,39.09,34.05,39.09,39.09,1008,1008,983,82,801,Clouds,few clouds,12,6.98,26.75,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+307,2023-10-09 09:00:00,39.09,34.05,39.09,39.09,1008,1008,983,82,801,Clouds,few clouds,12,6.98,26.75,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+308,2023-10-09 12:00:00,40.66,35.53,40.66,40.66,1008,1008,983,79,802,Clouds,scattered clouds,39,7.74,25.26,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+309,2023-10-09 12:00:00,40.66,35.53,40.66,40.66,1008,1008,983,79,802,Clouds,scattered clouds,39,7.74,25.26,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+310,2023-10-09 15:00:00,50.13,47.52,50.13,50.13,1008,1008,984,57,803,Clouds,broken clouds,57,9.51,15.61,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+311,2023-10-09 15:00:00,50.13,47.52,50.13,50.13,1008,1008,984,57,803,Clouds,broken clouds,57,9.51,15.61,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+312,2023-10-09 18:00:00,54.75,52.14,54.75,54.75,1007,1007,983,47,803,Clouds,broken clouds,58,10.96,16.02,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+313,2023-10-09 18:00:00,54.75,52.14,54.75,54.75,1007,1007,983,47,803,Clouds,broken clouds,58,10.96,16.02,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+314,2023-10-09 21:00:00,50.94,48.45,50.94,50.94,1008,1008,983,58,804,Clouds,overcast clouds,86,7.47,15.28,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+315,2023-10-09 21:00:00,50.94,48.45,50.94,50.94,1008,1008,983,58,804,Clouds,overcast clouds,86,7.47,15.28,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+316,2023-10-10 00:00:00,42.57,40.35,42.57,42.57,1010,1010,985,75,802,Clouds,scattered clouds,49,3.91,6.69,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+317,2023-10-10 00:00:00,42.57,40.35,42.57,42.57,1010,1010,985,75,802,Clouds,scattered clouds,49,3.91,6.69,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+318,2023-10-10 03:00:00,41.74,39.04,41.74,41.74,1010,1010,985,78,800,Clear,clear sky,5,4.34,16.35,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Unionville,Hartford County
+319,2023-10-10 03:00:00,41.74,39.04,41.74,41.74,1010,1010,985,78,800,Clear,clear sky,5,4.34,16.35,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06013,CT,Burlington,Hartford County
+320,2023-10-05 06:00:00,63.34,63.88,61.7,63.34,1012,1012,1018,96,800,Clear,clear sky,0,2.75,2.98,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+321,2023-10-05 06:00:00,63.34,63.88,61.7,63.34,1012,1012,1018,96,800,Clear,clear sky,0,2.75,2.98,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+322,2023-10-05 09:00:00,61.36,61.7,59.95,61.36,1018,1018,1018,96,800,Clear,clear sky,0,3.0,2.93,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+323,2023-10-05 09:00:00,61.36,61.7,59.95,61.36,1018,1018,1018,96,800,Clear,clear sky,0,3.0,2.93,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+324,2023-10-05 12:00:00,61.81,61.97,61.81,61.81,1025,1025,1019,91,800,Clear,clear sky,0,2.13,3.78,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+325,2023-10-05 12:00:00,61.81,61.97,61.81,61.81,1025,1025,1019,91,800,Clear,clear sky,0,2.13,3.78,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+326,2023-10-05 15:00:00,73.09,72.68,73.09,73.09,1025,1025,1019,55,801,Clouds,few clouds,21,5.77,9.84,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+327,2023-10-05 15:00:00,73.09,72.68,73.09,73.09,1025,1025,1019,55,801,Clouds,few clouds,21,5.77,9.84,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+328,2023-10-05 18:00:00,77.52,76.86,77.52,77.52,1023,1023,1017,40,802,Clouds,scattered clouds,38,7.94,11.36,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+329,2023-10-05 18:00:00,77.52,76.86,77.52,77.52,1023,1023,1017,40,802,Clouds,scattered clouds,38,7.94,11.36,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+330,2023-10-05 21:00:00,70.93,70.36,70.93,70.93,1022,1022,1016,56,802,Clouds,scattered clouds,30,6.38,13.8,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+331,2023-10-05 21:00:00,70.93,70.36,70.93,70.93,1022,1022,1016,56,802,Clouds,scattered clouds,30,6.38,13.8,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+332,2023-10-06 00:00:00,59.25,58.35,59.25,59.25,1022,1022,1016,74,801,Clouds,few clouds,21,4.5,10.11,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+333,2023-10-06 00:00:00,59.25,58.35,59.25,59.25,1022,1022,1016,74,801,Clouds,few clouds,21,4.5,10.11,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+334,2023-10-06 03:00:00,56.89,56.08,56.89,56.89,1021,1021,1015,81,802,Clouds,scattered clouds,49,5.26,20.8,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+335,2023-10-06 03:00:00,56.89,56.08,56.89,56.89,1021,1021,1015,81,802,Clouds,scattered clouds,49,5.26,20.8,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+336,2023-10-06 06:00:00,59.16,58.96,59.16,59.16,1021,1021,1015,89,803,Clouds,broken clouds,74,1.5,2.53,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+337,2023-10-06 06:00:00,59.16,58.96,59.16,59.16,1021,1021,1015,89,803,Clouds,broken clouds,74,1.5,2.53,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+338,2023-10-06 09:00:00,62.56,62.94,62.56,62.56,1019,1019,1013,94,804,Clouds,overcast clouds,100,3.89,14.74,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+339,2023-10-06 09:00:00,62.56,62.94,62.56,62.56,1019,1019,1013,94,804,Clouds,overcast clouds,100,3.89,14.74,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+340,2023-10-06 12:00:00,63.05,63.52,63.05,63.05,1018,1018,1012,95,804,Clouds,overcast clouds,100,3.91,13.71,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+341,2023-10-06 12:00:00,63.05,63.52,63.05,63.05,1018,1018,1012,95,804,Clouds,overcast clouds,100,3.91,13.71,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+342,2023-10-06 15:00:00,68.49,68.85,68.49,68.49,1018,1018,1012,81,804,Clouds,overcast clouds,100,5.7,12.19,10000,0.12,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+343,2023-10-06 15:00:00,68.49,68.85,68.49,68.49,1018,1018,1012,81,804,Clouds,overcast clouds,100,5.7,12.19,10000,0.12,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+344,2023-10-06 18:00:00,73.96,74.16,73.96,73.96,1015,1015,1009,66,500,Rain,light rain,99,6.89,11.45,10000,0.3,0.37,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+345,2023-10-06 18:00:00,73.96,74.16,73.96,73.96,1015,1015,1009,66,500,Rain,light rain,99,6.89,11.45,10000,0.3,0.37,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+346,2023-10-06 21:00:00,71.42,71.83,71.42,71.42,1014,1014,1008,76,500,Rain,light rain,94,8.37,15.88,10000,0.38,0.14,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+347,2023-10-06 21:00:00,71.42,71.83,71.42,71.42,1014,1014,1008,76,500,Rain,light rain,94,8.37,15.88,10000,0.38,0.14,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+348,2023-10-07 00:00:00,64.78,65.46,64.78,64.78,1013,1013,1007,96,500,Rain,light rain,97,7.18,23.2,10000,0.49,0.79,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+349,2023-10-07 00:00:00,64.78,65.46,64.78,64.78,1013,1013,1007,96,500,Rain,light rain,97,7.18,23.2,10000,0.49,0.79,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+350,2023-10-07 03:00:00,63.12,63.73,63.12,63.12,1012,1012,1006,98,804,Clouds,overcast clouds,100,5.23,19.64,10000,0.26,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+351,2023-10-07 03:00:00,63.12,63.73,63.12,63.12,1012,1012,1006,98,804,Clouds,overcast clouds,100,5.23,19.64,10000,0.26,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+352,2023-10-07 06:00:00,63.73,64.42,63.73,63.73,1009,1009,1003,98,500,Rain,light rain,100,5.77,21.39,6278,0.89,1.01,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+353,2023-10-07 06:00:00,63.73,64.42,63.73,63.73,1009,1009,1003,98,500,Rain,light rain,100,5.77,21.39,6278,0.89,1.01,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+354,2023-10-07 09:00:00,63.01,63.63,63.01,63.01,1007,1007,1001,98,501,Rain,moderate rain,100,7.07,22.15,718,0.9,3.12,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+355,2023-10-07 09:00:00,63.01,63.63,63.01,63.01,1007,1007,1001,98,501,Rain,moderate rain,100,7.07,22.15,718,0.9,3.12,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+356,2023-10-07 12:00:00,63.18,63.81,63.18,63.18,1006,1006,1000,98,500,Rain,light rain,100,7.09,21.65,5777,1.0,2.73,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+357,2023-10-07 12:00:00,63.18,63.81,63.18,63.18,1006,1006,1000,98,500,Rain,light rain,100,7.09,21.65,5777,1.0,2.73,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+358,2023-10-07 15:00:00,65.79,66.38,65.79,65.79,1003,1003,997,92,500,Rain,light rain,100,5.61,14.34,10000,0.33,0.14,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+359,2023-10-07 15:00:00,65.79,66.38,65.79,65.79,1003,1003,997,92,500,Rain,light rain,100,5.61,14.34,10000,0.33,0.14,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+360,2023-10-07 18:00:00,67.51,67.87,67.51,67.51,1000,1000,994,83,500,Rain,light rain,100,7.31,10.56,10000,0.88,0.83,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+361,2023-10-07 18:00:00,67.51,67.87,67.51,67.51,1000,1000,994,83,500,Rain,light rain,100,7.31,10.56,10000,0.88,0.83,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+362,2023-10-07 21:00:00,59.52,59.74,59.52,59.52,998,998,992,97,501,Rain,moderate rain,100,5.57,12.5,4775,0.77,5.56,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+363,2023-10-07 21:00:00,59.52,59.74,59.52,59.52,998,998,992,97,501,Rain,moderate rain,100,5.57,12.5,4775,0.77,5.56,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+364,2023-10-08 00:00:00,53.31,52.72,53.31,53.31,999,999,992,93,501,Rain,moderate rain,100,8.37,24.32,10000,1.0,4.26,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+365,2023-10-08 00:00:00,53.31,52.72,53.31,53.31,999,999,992,93,501,Rain,moderate rain,100,8.37,24.32,10000,1.0,4.26,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+366,2023-10-08 03:00:00,50.49,49.46,50.49,50.49,998,998,992,90,500,Rain,light rain,87,9.66,24.9,10000,0.43,0.32,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+367,2023-10-08 03:00:00,50.49,49.46,50.49,50.49,998,998,992,90,500,Rain,light rain,87,9.66,24.9,10000,0.43,0.32,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+368,2023-10-08 06:00:00,47.34,44.28,47.34,47.34,998,998,992,89,803,Clouds,broken clouds,54,6.42,18.77,10000,0.31,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+369,2023-10-08 06:00:00,47.34,44.28,47.34,47.34,998,998,992,89,803,Clouds,broken clouds,54,6.42,18.77,10000,0.31,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+370,2023-10-08 09:00:00,45.16,40.08,45.16,45.16,999,999,993,83,800,Clear,clear sky,0,9.89,25.05,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+371,2023-10-08 09:00:00,45.16,40.08,45.16,45.16,999,999,993,83,800,Clear,clear sky,0,9.89,25.05,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+372,2023-10-08 12:00:00,46.38,41.27,46.38,46.38,1000,1000,994,73,800,Clear,clear sky,3,10.78,25.59,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+373,2023-10-08 12:00:00,46.38,41.27,46.38,46.38,1000,1000,994,73,800,Clear,clear sky,3,10.78,25.59,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+374,2023-10-08 15:00:00,51.58,49.44,51.58,51.58,1001,1001,995,64,803,Clouds,broken clouds,83,13.2,26.84,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+375,2023-10-08 15:00:00,51.58,49.44,51.58,51.58,1001,1001,995,64,803,Clouds,broken clouds,83,13.2,26.84,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+376,2023-10-08 18:00:00,55.54,53.53,55.54,55.54,1002,1002,996,58,803,Clouds,broken clouds,81,13.6,21.99,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+377,2023-10-08 18:00:00,55.54,53.53,55.54,55.54,1002,1002,996,58,803,Clouds,broken clouds,81,13.6,21.99,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+378,2023-10-08 21:00:00,53.4,51.4,53.4,53.4,1003,1003,996,63,804,Clouds,overcast clouds,85,9.1,18.7,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+379,2023-10-08 21:00:00,53.4,51.4,53.4,53.4,1003,1003,996,63,804,Clouds,overcast clouds,85,9.1,18.7,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+380,2023-10-09 00:00:00,47.95,44.26,47.95,47.95,1005,1005,999,72,803,Clouds,broken clouds,54,8.03,23.06,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+381,2023-10-09 00:00:00,47.95,44.26,47.95,47.95,1005,1005,999,72,803,Clouds,broken clouds,54,8.03,23.06,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+382,2023-10-09 03:00:00,44.74,41.27,44.74,44.74,1006,1006,1000,79,801,Clouds,few clouds,16,6.24,20.0,10000,0.03,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+383,2023-10-09 03:00:00,44.74,41.27,44.74,44.74,1006,1006,1000,79,801,Clouds,few clouds,16,6.24,20.0,10000,0.03,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+384,2023-10-09 06:00:00,43.0,38.89,43.0,43.0,1007,1007,1001,83,801,Clouds,few clouds,18,6.76,21.36,10000,0.03,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+385,2023-10-09 06:00:00,43.0,38.89,43.0,43.0,1007,1007,1001,83,801,Clouds,few clouds,18,6.76,21.36,10000,0.03,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+386,2023-10-09 09:00:00,41.18,37.09,41.18,41.18,1008,1008,1001,81,801,Clouds,few clouds,12,6.11,21.14,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+387,2023-10-09 09:00:00,41.18,37.09,41.18,41.18,1008,1008,1001,81,801,Clouds,few clouds,12,6.11,21.14,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+388,2023-10-09 12:00:00,42.93,38.55,42.93,42.93,1008,1008,1002,77,802,Clouds,scattered clouds,45,7.2,25.23,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+389,2023-10-09 12:00:00,42.93,38.55,42.93,42.93,1008,1008,1002,77,802,Clouds,scattered clouds,45,7.2,25.23,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+390,2023-10-09 15:00:00,52.75,50.31,52.75,52.75,1008,1008,1002,55,802,Clouds,scattered clouds,50,9.69,16.49,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+391,2023-10-09 15:00:00,52.75,50.31,52.75,52.75,1008,1008,1002,55,802,Clouds,scattered clouds,50,9.69,16.49,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+392,2023-10-09 18:00:00,56.3,53.89,56.3,56.3,1007,1007,1001,48,803,Clouds,broken clouds,70,9.28,15.97,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+393,2023-10-09 18:00:00,56.3,53.89,56.3,56.3,1007,1007,1001,48,803,Clouds,broken clouds,70,9.28,15.97,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+394,2023-10-09 21:00:00,53.46,51.08,53.46,53.46,1008,1008,1002,55,804,Clouds,overcast clouds,90,8.28,15.46,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+395,2023-10-09 21:00:00,53.46,51.08,53.46,53.46,1008,1008,1002,55,804,Clouds,overcast clouds,90,8.28,15.46,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+396,2023-10-10 00:00:00,44.44,42.15,44.44,44.44,1010,1010,1003,73,803,Clouds,broken clouds,54,4.36,5.75,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+397,2023-10-10 00:00:00,44.44,42.15,44.44,44.44,1010,1010,1003,73,803,Clouds,broken clouds,54,4.36,5.75,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+398,2023-10-10 03:00:00,42.96,40.26,42.96,42.96,1010,1010,1004,76,800,Clear,clear sky,6,4.59,9.08,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+399,2023-10-10 03:00:00,42.96,40.26,42.96,42.96,1010,1010,1004,76,800,Clear,clear sky,6,4.59,9.08,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+400,2023-10-05 06:00:00,63.34,63.88,61.7,63.34,1012,1012,1018,96,800,Clear,clear sky,0,2.75,2.98,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+401,2023-10-05 06:00:00,63.34,63.88,61.7,63.34,1012,1012,1018,96,800,Clear,clear sky,0,2.75,2.98,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+402,2023-10-05 09:00:00,61.36,61.7,59.95,61.36,1018,1018,1018,96,800,Clear,clear sky,0,3.0,2.93,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+403,2023-10-05 09:00:00,61.36,61.7,59.95,61.36,1018,1018,1018,96,800,Clear,clear sky,0,3.0,2.93,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+404,2023-10-05 12:00:00,61.81,61.97,61.81,61.81,1025,1025,1019,91,800,Clear,clear sky,0,2.13,3.78,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+405,2023-10-05 12:00:00,61.81,61.97,61.81,61.81,1025,1025,1019,91,800,Clear,clear sky,0,2.13,3.78,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+406,2023-10-05 15:00:00,73.09,72.68,73.09,73.09,1025,1025,1019,55,801,Clouds,few clouds,21,5.77,9.84,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+407,2023-10-05 15:00:00,73.09,72.68,73.09,73.09,1025,1025,1019,55,801,Clouds,few clouds,21,5.77,9.84,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+408,2023-10-05 18:00:00,77.52,76.86,77.52,77.52,1023,1023,1017,40,802,Clouds,scattered clouds,38,7.94,11.36,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+409,2023-10-05 18:00:00,77.52,76.86,77.52,77.52,1023,1023,1017,40,802,Clouds,scattered clouds,38,7.94,11.36,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+410,2023-10-05 21:00:00,70.93,70.36,70.93,70.93,1022,1022,1016,56,802,Clouds,scattered clouds,30,6.38,13.8,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+411,2023-10-05 21:00:00,70.93,70.36,70.93,70.93,1022,1022,1016,56,802,Clouds,scattered clouds,30,6.38,13.8,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+412,2023-10-06 00:00:00,59.25,58.35,59.25,59.25,1022,1022,1016,74,801,Clouds,few clouds,21,4.5,10.11,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+413,2023-10-06 00:00:00,59.25,58.35,59.25,59.25,1022,1022,1016,74,801,Clouds,few clouds,21,4.5,10.11,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+414,2023-10-06 03:00:00,56.89,56.08,56.89,56.89,1021,1021,1015,81,802,Clouds,scattered clouds,49,5.26,20.8,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+415,2023-10-06 03:00:00,56.89,56.08,56.89,56.89,1021,1021,1015,81,802,Clouds,scattered clouds,49,5.26,20.8,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+416,2023-10-06 06:00:00,59.16,58.96,59.16,59.16,1021,1021,1015,89,803,Clouds,broken clouds,74,1.5,2.53,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+417,2023-10-06 06:00:00,59.16,58.96,59.16,59.16,1021,1021,1015,89,803,Clouds,broken clouds,74,1.5,2.53,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+418,2023-10-06 09:00:00,62.56,62.94,62.56,62.56,1019,1019,1013,94,804,Clouds,overcast clouds,100,3.89,14.74,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+419,2023-10-06 09:00:00,62.56,62.94,62.56,62.56,1019,1019,1013,94,804,Clouds,overcast clouds,100,3.89,14.74,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+420,2023-10-06 12:00:00,63.05,63.52,63.05,63.05,1018,1018,1012,95,804,Clouds,overcast clouds,100,3.91,13.71,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+421,2023-10-06 12:00:00,63.05,63.52,63.05,63.05,1018,1018,1012,95,804,Clouds,overcast clouds,100,3.91,13.71,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+422,2023-10-06 15:00:00,68.49,68.85,68.49,68.49,1018,1018,1012,81,804,Clouds,overcast clouds,100,5.7,12.19,10000,0.12,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+423,2023-10-06 15:00:00,68.49,68.85,68.49,68.49,1018,1018,1012,81,804,Clouds,overcast clouds,100,5.7,12.19,10000,0.12,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+424,2023-10-06 18:00:00,73.96,74.16,73.96,73.96,1015,1015,1009,66,500,Rain,light rain,99,6.89,11.45,10000,0.3,0.37,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+425,2023-10-06 18:00:00,73.96,74.16,73.96,73.96,1015,1015,1009,66,500,Rain,light rain,99,6.89,11.45,10000,0.3,0.37,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+426,2023-10-06 21:00:00,71.42,71.83,71.42,71.42,1014,1014,1008,76,500,Rain,light rain,94,8.37,15.88,10000,0.38,0.14,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+427,2023-10-06 21:00:00,71.42,71.83,71.42,71.42,1014,1014,1008,76,500,Rain,light rain,94,8.37,15.88,10000,0.38,0.14,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+428,2023-10-07 00:00:00,64.78,65.46,64.78,64.78,1013,1013,1007,96,500,Rain,light rain,97,7.18,23.2,10000,0.49,0.79,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+429,2023-10-07 00:00:00,64.78,65.46,64.78,64.78,1013,1013,1007,96,500,Rain,light rain,97,7.18,23.2,10000,0.49,0.79,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+430,2023-10-07 03:00:00,63.12,63.73,63.12,63.12,1012,1012,1006,98,804,Clouds,overcast clouds,100,5.23,19.64,10000,0.26,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+431,2023-10-07 03:00:00,63.12,63.73,63.12,63.12,1012,1012,1006,98,804,Clouds,overcast clouds,100,5.23,19.64,10000,0.26,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+432,2023-10-07 06:00:00,63.73,64.42,63.73,63.73,1009,1009,1003,98,500,Rain,light rain,100,5.77,21.39,6278,0.89,1.01,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+433,2023-10-07 06:00:00,63.73,64.42,63.73,63.73,1009,1009,1003,98,500,Rain,light rain,100,5.77,21.39,6278,0.89,1.01,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+434,2023-10-07 09:00:00,63.01,63.63,63.01,63.01,1007,1007,1001,98,501,Rain,moderate rain,100,7.07,22.15,718,0.9,3.12,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+435,2023-10-07 09:00:00,63.01,63.63,63.01,63.01,1007,1007,1001,98,501,Rain,moderate rain,100,7.07,22.15,718,0.9,3.12,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+436,2023-10-07 12:00:00,63.18,63.81,63.18,63.18,1006,1006,1000,98,500,Rain,light rain,100,7.09,21.65,5777,1.0,2.73,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+437,2023-10-07 12:00:00,63.18,63.81,63.18,63.18,1006,1006,1000,98,500,Rain,light rain,100,7.09,21.65,5777,1.0,2.73,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+438,2023-10-07 15:00:00,65.79,66.38,65.79,65.79,1003,1003,997,92,500,Rain,light rain,100,5.61,14.34,10000,0.33,0.14,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+439,2023-10-07 15:00:00,65.79,66.38,65.79,65.79,1003,1003,997,92,500,Rain,light rain,100,5.61,14.34,10000,0.33,0.14,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+440,2023-10-07 18:00:00,67.51,67.87,67.51,67.51,1000,1000,994,83,500,Rain,light rain,100,7.31,10.56,10000,0.88,0.83,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+441,2023-10-07 18:00:00,67.51,67.87,67.51,67.51,1000,1000,994,83,500,Rain,light rain,100,7.31,10.56,10000,0.88,0.83,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+442,2023-10-07 21:00:00,59.52,59.74,59.52,59.52,998,998,992,97,501,Rain,moderate rain,100,5.57,12.5,4775,0.77,5.56,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+443,2023-10-07 21:00:00,59.52,59.74,59.52,59.52,998,998,992,97,501,Rain,moderate rain,100,5.57,12.5,4775,0.77,5.56,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+444,2023-10-08 00:00:00,53.31,52.72,53.31,53.31,999,999,992,93,501,Rain,moderate rain,100,8.37,24.32,10000,1.0,4.26,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+445,2023-10-08 00:00:00,53.31,52.72,53.31,53.31,999,999,992,93,501,Rain,moderate rain,100,8.37,24.32,10000,1.0,4.26,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+446,2023-10-08 03:00:00,50.49,49.46,50.49,50.49,998,998,992,90,500,Rain,light rain,87,9.66,24.9,10000,0.43,0.32,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+447,2023-10-08 03:00:00,50.49,49.46,50.49,50.49,998,998,992,90,500,Rain,light rain,87,9.66,24.9,10000,0.43,0.32,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+448,2023-10-08 06:00:00,47.34,44.28,47.34,47.34,998,998,992,89,803,Clouds,broken clouds,54,6.42,18.77,10000,0.31,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+449,2023-10-08 06:00:00,47.34,44.28,47.34,47.34,998,998,992,89,803,Clouds,broken clouds,54,6.42,18.77,10000,0.31,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+450,2023-10-08 09:00:00,45.16,40.08,45.16,45.16,999,999,993,83,800,Clear,clear sky,0,9.89,25.05,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+451,2023-10-08 09:00:00,45.16,40.08,45.16,45.16,999,999,993,83,800,Clear,clear sky,0,9.89,25.05,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+452,2023-10-08 12:00:00,46.38,41.27,46.38,46.38,1000,1000,994,73,800,Clear,clear sky,3,10.78,25.59,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+453,2023-10-08 12:00:00,46.38,41.27,46.38,46.38,1000,1000,994,73,800,Clear,clear sky,3,10.78,25.59,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+454,2023-10-08 15:00:00,51.58,49.44,51.58,51.58,1001,1001,995,64,803,Clouds,broken clouds,83,13.2,26.84,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+455,2023-10-08 15:00:00,51.58,49.44,51.58,51.58,1001,1001,995,64,803,Clouds,broken clouds,83,13.2,26.84,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+456,2023-10-08 18:00:00,55.54,53.53,55.54,55.54,1002,1002,996,58,803,Clouds,broken clouds,81,13.6,21.99,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+457,2023-10-08 18:00:00,55.54,53.53,55.54,55.54,1002,1002,996,58,803,Clouds,broken clouds,81,13.6,21.99,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+458,2023-10-08 21:00:00,53.4,51.4,53.4,53.4,1003,1003,996,63,804,Clouds,overcast clouds,85,9.1,18.7,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+459,2023-10-08 21:00:00,53.4,51.4,53.4,53.4,1003,1003,996,63,804,Clouds,overcast clouds,85,9.1,18.7,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+460,2023-10-09 00:00:00,47.95,44.26,47.95,47.95,1005,1005,999,72,803,Clouds,broken clouds,54,8.03,23.06,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+461,2023-10-09 00:00:00,47.95,44.26,47.95,47.95,1005,1005,999,72,803,Clouds,broken clouds,54,8.03,23.06,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+462,2023-10-09 03:00:00,44.74,41.27,44.74,44.74,1006,1006,1000,79,801,Clouds,few clouds,16,6.24,20.0,10000,0.03,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+463,2023-10-09 03:00:00,44.74,41.27,44.74,44.74,1006,1006,1000,79,801,Clouds,few clouds,16,6.24,20.0,10000,0.03,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+464,2023-10-09 06:00:00,43.0,38.89,43.0,43.0,1007,1007,1001,83,801,Clouds,few clouds,18,6.76,21.36,10000,0.03,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+465,2023-10-09 06:00:00,43.0,38.89,43.0,43.0,1007,1007,1001,83,801,Clouds,few clouds,18,6.76,21.36,10000,0.03,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+466,2023-10-09 09:00:00,41.18,37.09,41.18,41.18,1008,1008,1001,81,801,Clouds,few clouds,12,6.11,21.14,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+467,2023-10-09 09:00:00,41.18,37.09,41.18,41.18,1008,1008,1001,81,801,Clouds,few clouds,12,6.11,21.14,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+468,2023-10-09 12:00:00,42.93,38.55,42.93,42.93,1008,1008,1002,77,802,Clouds,scattered clouds,45,7.2,25.23,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+469,2023-10-09 12:00:00,42.93,38.55,42.93,42.93,1008,1008,1002,77,802,Clouds,scattered clouds,45,7.2,25.23,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+470,2023-10-09 15:00:00,52.75,50.31,52.75,52.75,1008,1008,1002,55,802,Clouds,scattered clouds,50,9.69,16.49,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+471,2023-10-09 15:00:00,52.75,50.31,52.75,52.75,1008,1008,1002,55,802,Clouds,scattered clouds,50,9.69,16.49,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+472,2023-10-09 18:00:00,56.3,53.89,56.3,56.3,1007,1007,1001,48,803,Clouds,broken clouds,70,9.28,15.97,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+473,2023-10-09 18:00:00,56.3,53.89,56.3,56.3,1007,1007,1001,48,803,Clouds,broken clouds,70,9.28,15.97,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+474,2023-10-09 21:00:00,53.46,51.08,53.46,53.46,1008,1008,1002,55,804,Clouds,overcast clouds,90,8.28,15.46,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+475,2023-10-09 21:00:00,53.46,51.08,53.46,53.46,1008,1008,1002,55,804,Clouds,overcast clouds,90,8.28,15.46,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+476,2023-10-10 00:00:00,44.44,42.15,44.44,44.44,1010,1010,1003,73,803,Clouds,broken clouds,54,4.36,5.75,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+477,2023-10-10 00:00:00,44.44,42.15,44.44,44.44,1010,1010,1003,73,803,Clouds,broken clouds,54,4.36,5.75,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+478,2023-10-10 03:00:00,42.96,40.26,42.96,42.96,1010,1010,1004,76,800,Clear,clear sky,6,4.59,9.08,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Windsorville,Hartford County
+479,2023-10-10 03:00:00,42.96,40.26,42.96,42.96,1010,1010,1004,76,800,Clear,clear sky,6,4.59,9.08,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06016,CT,Broad Brook,Hartford County
+480,2023-10-05 06:00:00,61.68,62.06,61.47,61.68,1024,1024,999,96,800,Clear,clear sky,0,3.53,3.44,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06018,CT,Canaan,Litchfield County
+481,2023-10-05 09:00:00,59.68,59.77,58.64,59.68,1024,1024,999,94,800,Clear,clear sky,0,3.69,3.49,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06018,CT,Canaan,Litchfield County
+482,2023-10-05 12:00:00,59.7,59.5,59.7,59.7,1025,1025,1000,88,800,Clear,clear sky,5,3.33,4.59,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06018,CT,Canaan,Litchfield County
+483,2023-10-05 15:00:00,71.78,71.2,71.78,71.78,1025,1025,1000,54,804,Clouds,overcast clouds,94,5.95,10.8,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06018,CT,Canaan,Litchfield County
+484,2023-10-05 18:00:00,76.03,75.25,76.03,76.03,1022,1022,998,41,803,Clouds,broken clouds,59,7.58,11.18,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06018,CT,Canaan,Litchfield County
+485,2023-10-05 21:00:00,70.05,69.44,70.05,70.05,1021,1021,997,57,801,Clouds,few clouds,12,6.51,13.85,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06018,CT,Canaan,Litchfield County
+486,2023-10-06 00:00:00,57.85,57.0,57.85,57.85,1022,1022,997,78,801,Clouds,few clouds,14,4.5,4.99,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06018,CT,Canaan,Litchfield County
+487,2023-10-06 03:00:00,54.34,53.33,54.34,54.34,1021,1021,996,82,803,Clouds,broken clouds,72,2.13,2.08,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06018,CT,Canaan,Litchfield County
+488,2023-10-06 06:00:00,54.63,54.21,54.63,54.63,1021,1021,995,94,804,Clouds,overcast clouds,86,4.59,5.61,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06018,CT,Canaan,Litchfield County
+489,2023-10-06 09:00:00,60.17,60.35,60.17,60.17,1019,1019,994,95,803,Clouds,broken clouds,84,4.05,18.07,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06018,CT,Canaan,Litchfield County
+490,2023-10-06 12:00:00,60.84,61.23,60.84,60.84,1018,1018,993,98,500,Rain,light rain,92,3.06,13.58,7255,0.2,0.24,0,East Windsor Hill,0,-14400,06018,CT,Canaan,Litchfield County
+491,2023-10-06 15:00:00,63.63,64.29,63.63,63.63,1017,1017,992,98,500,Rain,light rain,100,5.64,19.42,240,0.51,0.44,0,East Windsor Hill,0,-14400,06018,CT,Canaan,Litchfield County
+492,2023-10-06 18:00:00,64.83,65.48,64.83,64.83,1015,1015,990,95,500,Rain,light rain,100,6.58,19.22,10000,0.42,0.26,0,East Windsor Hill,0,-14400,06018,CT,Canaan,Litchfield County
+493,2023-10-06 21:00:00,64.51,65.08,64.51,64.51,1014,1014,989,94,500,Rain,light rain,100,4.56,18.37,10000,0.63,0.28,0,East Windsor Hill,0,-14400,06018,CT,Canaan,Litchfield County
+494,2023-10-07 00:00:00,63.0,63.64,63.0,63.0,1013,1013,988,99,804,Clouds,overcast clouds,100,5.17,20.15,9836,0.53,0.0,0,East Windsor Hill,0,-14400,06018,CT,Canaan,Litchfield County
+495,2023-10-07 03:00:00,63.36,64.04,63.36,63.36,1011,1011,986,99,500,Rain,light rain,100,6.11,22.55,310,0.57,0.37,0,East Windsor Hill,0,-14400,06018,CT,Canaan,Litchfield County
+496,2023-10-07 06:00:00,62.55,63.16,62.55,62.55,1009,1009,984,99,500,Rain,light rain,100,7.74,24.56,62,0.91,1.64,0,East Windsor Hill,0,-14400,06018,CT,Canaan,Litchfield County
+497,2023-10-07 09:00:00,62.2,62.78,62.2,62.2,1006,1006,982,99,501,Rain,moderate rain,100,5.91,19.6,48,0.91,4.53,0,East Windsor Hill,0,-14400,06018,CT,Canaan,Litchfield County
+498,2023-10-07 12:00:00,62.17,62.74,62.17,62.17,1005,1005,980,99,500,Rain,light rain,100,8.19,21.81,39,1.0,1.96,0,East Windsor Hill,0,-14400,06018,CT,Canaan,Litchfield County
+499,2023-10-07 15:00:00,62.15,62.67,62.15,62.15,1003,1003,978,98,500,Rain,light rain,100,8.3,21.7,867,0.83,0.69,0,East Windsor Hill,0,-14400,06018,CT,Canaan,Litchfield County
+500,2023-10-07 18:00:00,61.21,61.59,61.21,61.21,1000,1000,975,97,501,Rain,moderate rain,100,3.02,7.58,5811,1.0,4.89,0,East Windsor Hill,0,-14400,06018,CT,Canaan,Litchfield County
+501,2023-10-07 21:00:00,52.18,51.6,52.18,52.18,1000,1000,975,96,501,Rain,moderate rain,100,10.83,29.35,10000,1.0,8.28,0,East Windsor Hill,0,-14400,06018,CT,Canaan,Litchfield County
+502,2023-10-08 00:00:00,49.57,45.27,49.57,49.57,1000,1000,974,95,500,Rain,light rain,100,10.71,28.01,10000,1.0,1.1,0,East Windsor Hill,0,-14400,06018,CT,Canaan,Litchfield County
+503,2023-10-08 03:00:00,46.87,43.14,46.87,46.87,999,999,974,94,802,Clouds,scattered clouds,41,7.56,24.36,10000,0.01,0.0,0,East Windsor Hill,0,-14400,06018,CT,Canaan,Litchfield County
+504,2023-10-08 06:00:00,43.72,39.4,43.72,43.72,999,999,973,96,802,Clouds,scattered clouds,30,7.43,22.62,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06018,CT,Canaan,Litchfield County
+505,2023-10-08 09:00:00,42.21,35.85,42.21,42.21,999,999,974,91,801,Clouds,few clouds,14,11.34,24.87,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06018,CT,Canaan,Litchfield County
+506,2023-10-08 12:00:00,45.0,38.89,45.0,45.0,999,999,974,77,803,Clouds,broken clouds,53,12.75,28.88,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06018,CT,Canaan,Litchfield County
+507,2023-10-08 15:00:00,45.79,39.78,45.79,45.79,1001,1001,976,83,804,Clouds,overcast clouds,100,13.11,24.9,10000,0.02,0.0,0,East Windsor Hill,0,-14400,06018,CT,Canaan,Litchfield County
+508,2023-10-08 18:00:00,50.0,45.27,50.0,50.0,1002,1002,976,69,804,Clouds,overcast clouds,100,12.55,25.99,10000,0.02,0.0,0,East Windsor Hill,0,-14400,06018,CT,Canaan,Litchfield County
+509,2023-10-08 21:00:00,50.13,48.18,50.13,50.13,1002,1002,977,71,500,Rain,light rain,75,11.81,21.14,10000,0.25,0.15,0,East Windsor Hill,0,-14400,06018,CT,Canaan,Litchfield County
+510,2023-10-09 00:00:00,44.37,39.07,44.37,44.37,1005,1005,979,84,803,Clouds,broken clouds,69,9.93,23.8,10000,0.09,0.0,0,East Windsor Hill,0,-14400,06018,CT,Canaan,Litchfield County
+511,2023-10-09 03:00:00,42.15,37.11,42.15,42.15,1006,1006,980,86,801,Clouds,few clouds,19,8.21,25.48,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06018,CT,Canaan,Litchfield County
+512,2023-10-09 06:00:00,40.06,34.93,40.06,40.06,1007,1007,981,85,801,Clouds,few clouds,13,7.49,24.54,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06018,CT,Canaan,Litchfield County
+513,2023-10-09 09:00:00,38.66,33.24,38.66,38.66,1007,1007,981,86,802,Clouds,scattered clouds,41,7.49,25.03,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06018,CT,Canaan,Litchfield County
+514,2023-10-09 12:00:00,39.88,35.2,39.88,39.88,1008,1008,982,85,803,Clouds,broken clouds,58,6.67,22.77,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06018,CT,Canaan,Litchfield County
+515,2023-10-09 15:00:00,48.78,44.37,48.78,48.78,1008,1008,982,64,803,Clouds,broken clouds,80,10.45,17.52,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06018,CT,Canaan,Litchfield County
+516,2023-10-09 18:00:00,50.63,48.22,50.63,50.63,1007,1007,982,60,804,Clouds,overcast clouds,86,9.82,16.84,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06018,CT,Canaan,Litchfield County
+517,2023-10-09 21:00:00,50.99,48.7,50.99,50.99,1007,1007,982,62,804,Clouds,overcast clouds,98,7.18,15.26,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06018,CT,Canaan,Litchfield County
+518,2023-10-10 00:00:00,41.5,39.02,41.5,41.5,1009,1009,983,83,803,Clouds,broken clouds,65,4.05,4.47,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06018,CT,Canaan,Litchfield County
+519,2023-10-10 03:00:00,40.8,37.56,40.8,40.8,1010,1010,984,85,800,Clear,clear sky,9,4.81,15.28,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06018,CT,Canaan,Litchfield County
+520,2023-10-05 06:00:00,61.88,62.24,60.96,61.88,1023,1023,1001,95,800,Clear,clear sky,0,2.62,2.84,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+521,2023-10-05 06:00:00,61.88,62.24,60.96,61.88,1023,1023,1001,95,800,Clear,clear sky,0,2.62,2.84,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+522,2023-10-05 09:00:00,59.88,59.99,58.64,59.88,1023,1023,1001,94,800,Clear,clear sky,0,2.15,2.35,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+523,2023-10-05 09:00:00,59.88,59.99,58.64,59.88,1023,1023,1001,94,800,Clear,clear sky,0,2.15,2.35,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+524,2023-10-05 12:00:00,60.22,60.13,60.22,60.22,1025,1025,1002,89,800,Clear,clear sky,0,1.97,2.68,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+525,2023-10-05 12:00:00,60.22,60.13,60.22,60.22,1025,1025,1002,89,800,Clear,clear sky,0,1.97,2.68,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+526,2023-10-05 15:00:00,71.04,70.43,71.04,71.04,1025,1025,1002,55,803,Clouds,broken clouds,74,5.57,9.8,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+527,2023-10-05 15:00:00,71.04,70.43,71.04,71.04,1025,1025,1002,55,803,Clouds,broken clouds,74,5.57,9.8,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+528,2023-10-05 18:00:00,75.42,74.44,75.42,75.42,1022,1022,1000,38,803,Clouds,broken clouds,52,8.32,11.65,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+529,2023-10-05 18:00:00,75.42,74.44,75.42,75.42,1022,1022,1000,38,803,Clouds,broken clouds,52,8.32,11.65,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+530,2023-10-05 21:00:00,69.67,68.88,69.67,69.67,1022,1022,999,54,800,Clear,clear sky,9,6.11,12.91,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+531,2023-10-05 21:00:00,69.67,68.88,69.67,69.67,1022,1022,999,54,800,Clear,clear sky,9,6.11,12.91,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+532,2023-10-06 00:00:00,58.33,57.4,58.33,58.33,1022,1022,999,75,800,Clear,clear sky,7,2.86,4.72,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+533,2023-10-06 00:00:00,58.33,57.4,58.33,58.33,1022,1022,999,75,800,Clear,clear sky,7,2.86,4.72,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+534,2023-10-06 03:00:00,55.22,54.3,55.22,55.22,1021,1021,997,82,803,Clouds,broken clouds,65,2.33,7.02,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+535,2023-10-06 03:00:00,55.22,54.3,55.22,55.22,1021,1021,997,82,803,Clouds,broken clouds,65,2.33,7.02,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+536,2023-10-06 06:00:00,57.72,57.24,57.72,57.72,1021,1021,997,86,803,Clouds,broken clouds,83,0.85,1.57,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+537,2023-10-06 06:00:00,57.72,57.24,57.72,57.72,1021,1021,997,86,803,Clouds,broken clouds,83,0.85,1.57,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+538,2023-10-06 09:00:00,59.07,59.05,59.07,59.07,1019,1019,996,93,804,Clouds,overcast clouds,100,0.74,3.76,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+539,2023-10-06 09:00:00,59.07,59.05,59.07,59.07,1019,1019,996,93,804,Clouds,overcast clouds,100,0.74,3.76,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+540,2023-10-06 12:00:00,60.51,60.87,60.51,60.51,1018,1018,995,98,500,Rain,light rain,100,2.01,8.81,3422,0.22,0.25,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+541,2023-10-06 12:00:00,60.51,60.87,60.51,60.51,1018,1018,995,98,500,Rain,light rain,100,2.01,8.81,3422,0.22,0.25,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+542,2023-10-06 15:00:00,63.64,64.08,63.64,63.64,1018,1018,995,93,500,Rain,light rain,100,4.27,12.82,8421,0.26,0.16,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+543,2023-10-06 15:00:00,63.64,64.08,63.64,63.64,1018,1018,995,93,500,Rain,light rain,100,4.27,12.82,8421,0.26,0.16,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+544,2023-10-06 18:00:00,68.99,69.21,68.99,68.99,1015,1015,992,77,500,Rain,light rain,100,6.06,13.13,10000,0.24,0.19,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+545,2023-10-06 18:00:00,68.99,69.21,68.99,68.99,1015,1015,992,77,500,Rain,light rain,100,6.06,13.13,10000,0.24,0.19,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+546,2023-10-06 21:00:00,68.52,68.79,68.52,68.52,1014,1014,991,79,500,Rain,light rain,100,6.38,14.45,10000,0.33,0.17,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+547,2023-10-06 21:00:00,68.52,68.79,68.52,68.52,1014,1014,991,79,500,Rain,light rain,100,6.38,14.45,10000,0.33,0.17,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+548,2023-10-07 00:00:00,63.59,64.26,63.59,63.59,1013,1013,990,98,500,Rain,light rain,100,5.7,20.47,7736,0.37,0.46,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+549,2023-10-07 00:00:00,63.59,64.26,63.59,63.59,1013,1013,990,98,500,Rain,light rain,100,5.7,20.47,7736,0.37,0.46,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+550,2023-10-07 03:00:00,62.24,62.82,62.24,62.24,1012,1012,988,99,500,Rain,light rain,100,4.5,18.54,7226,0.41,0.31,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+551,2023-10-07 03:00:00,62.24,62.82,62.24,62.24,1012,1012,988,99,500,Rain,light rain,100,4.5,18.54,7226,0.41,0.31,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+552,2023-10-07 06:00:00,61.97,62.53,61.97,61.97,1009,1009,986,99,500,Rain,light rain,100,4.29,18.61,1311,0.92,0.48,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+553,2023-10-07 06:00:00,61.97,62.53,61.97,61.97,1009,1009,986,99,500,Rain,light rain,100,4.29,18.61,1311,0.92,0.48,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+554,2023-10-07 09:00:00,61.75,62.28,61.75,61.75,1007,1007,984,99,500,Rain,light rain,100,5.84,18.7,429,0.91,1.74,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+555,2023-10-07 09:00:00,61.75,62.28,61.75,61.75,1007,1007,984,99,500,Rain,light rain,100,5.84,18.7,429,0.91,1.74,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+556,2023-10-07 12:00:00,61.59,62.1,61.59,61.59,1006,1006,982,99,500,Rain,light rain,100,5.84,17.98,1328,1.0,2.19,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+557,2023-10-07 12:00:00,61.59,62.1,61.59,61.59,1006,1006,982,99,500,Rain,light rain,100,5.84,17.98,1328,1.0,2.19,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+558,2023-10-07 15:00:00,62.37,62.87,62.37,62.37,1003,1003,980,97,500,Rain,light rain,100,4.94,14.52,10000,0.52,0.58,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+559,2023-10-07 15:00:00,62.37,62.87,62.37,62.37,1003,1003,980,97,500,Rain,light rain,100,4.94,14.52,10000,0.52,0.58,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+560,2023-10-07 18:00:00,64.17,64.56,64.17,64.17,1000,1000,977,91,500,Rain,light rain,100,3.8,9.4,7312,0.92,2.03,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+561,2023-10-07 18:00:00,64.17,64.56,64.17,64.17,1000,1000,977,91,500,Rain,light rain,100,3.8,9.4,7312,0.92,2.03,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+562,2023-10-07 21:00:00,52.97,52.39,52.97,52.97,999,999,976,94,501,Rain,moderate rain,100,13.44,30.0,9083,0.98,10.04,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+563,2023-10-07 21:00:00,52.97,52.39,52.97,52.97,999,999,976,94,501,Rain,moderate rain,100,13.44,30.0,9083,0.98,10.04,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+564,2023-10-08 00:00:00,51.57,50.7,51.57,51.57,999,999,975,91,500,Rain,light rain,100,10.25,27.09,10000,1.0,1.59,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+565,2023-10-08 00:00:00,51.57,50.7,51.57,51.57,999,999,975,91,500,Rain,light rain,100,10.25,27.09,10000,1.0,1.59,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+566,2023-10-08 03:00:00,48.25,43.81,48.25,48.25,998,998,975,88,803,Clouds,broken clouds,74,10.18,27.38,10000,0.2,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+567,2023-10-08 03:00:00,48.25,43.81,48.25,48.25,998,998,975,88,803,Clouds,broken clouds,74,10.18,27.38,10000,0.2,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+568,2023-10-08 06:00:00,46.42,41.52,46.42,46.42,998,998,975,85,802,Clouds,scattered clouds,39,10.2,25.75,10000,0.11,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+569,2023-10-08 06:00:00,46.42,41.52,46.42,46.42,998,998,975,85,802,Clouds,scattered clouds,39,10.2,25.75,10000,0.11,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+570,2023-10-08 09:00:00,43.75,37.78,43.75,43.75,999,999,975,79,800,Clear,clear sky,0,11.41,26.89,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+571,2023-10-08 09:00:00,43.75,37.78,43.75,43.75,999,999,975,79,800,Clear,clear sky,0,11.41,26.89,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+572,2023-10-08 12:00:00,45.68,40.19,45.68,45.68,1000,1000,976,70,800,Clear,clear sky,8,11.36,26.96,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+573,2023-10-08 12:00:00,45.68,40.19,45.68,45.68,1000,1000,976,70,800,Clear,clear sky,8,11.36,26.96,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+574,2023-10-08 15:00:00,48.78,43.39,48.78,48.78,1001,1001,978,69,804,Clouds,overcast clouds,90,13.76,28.12,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+575,2023-10-08 15:00:00,48.78,43.39,48.78,48.78,1001,1001,978,69,804,Clouds,overcast clouds,90,13.76,28.12,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+576,2023-10-08 18:00:00,51.53,49.35,51.53,51.53,1002,1002,979,63,804,Clouds,overcast clouds,88,11.83,24.49,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+577,2023-10-08 18:00:00,51.53,49.35,51.53,51.53,1002,1002,979,63,804,Clouds,overcast clouds,88,11.83,24.49,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+578,2023-10-08 21:00:00,51.82,49.75,51.82,51.82,1003,1003,979,65,803,Clouds,broken clouds,61,10.07,18.34,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+579,2023-10-08 21:00:00,51.82,49.75,51.82,51.82,1003,1003,979,65,803,Clouds,broken clouds,61,10.07,18.34,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+580,2023-10-09 00:00:00,46.0,41.13,46.0,46.0,1005,1005,981,75,802,Clouds,scattered clouds,40,9.89,24.58,10000,0.02,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+581,2023-10-09 00:00:00,46.0,41.13,46.0,46.0,1005,1005,981,75,802,Clouds,scattered clouds,40,9.89,24.58,10000,0.02,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+582,2023-10-09 03:00:00,43.27,38.91,43.27,43.27,1006,1006,982,80,801,Clouds,few clouds,11,7.31,24.29,10000,0.01,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+583,2023-10-09 03:00:00,43.27,38.91,43.27,43.27,1006,1006,982,80,801,Clouds,few clouds,11,7.31,24.29,10000,0.01,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+584,2023-10-09 06:00:00,40.77,36.21,40.77,40.77,1007,1007,983,83,801,Clouds,few clouds,12,6.73,23.89,10000,0.01,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+585,2023-10-09 06:00:00,40.77,36.21,40.77,40.77,1007,1007,983,83,801,Clouds,few clouds,12,6.73,23.89,10000,0.01,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+586,2023-10-09 09:00:00,39.54,34.61,39.54,39.54,1008,1008,983,81,801,Clouds,few clouds,16,6.96,25.48,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+587,2023-10-09 09:00:00,39.54,34.61,39.54,39.54,1008,1008,983,81,801,Clouds,few clouds,16,6.96,25.48,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+588,2023-10-09 12:00:00,41.05,36.01,41.05,41.05,1008,1008,984,78,802,Clouds,scattered clouds,42,7.72,25.32,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+589,2023-10-09 12:00:00,41.05,36.01,41.05,41.05,1008,1008,984,78,802,Clouds,scattered clouds,42,7.72,25.32,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+590,2023-10-09 15:00:00,50.38,47.79,50.38,50.38,1008,1008,984,57,803,Clouds,broken clouds,58,9.35,15.99,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+591,2023-10-09 15:00:00,50.38,47.79,50.38,50.38,1008,1008,984,57,803,Clouds,broken clouds,58,9.35,15.99,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+592,2023-10-09 18:00:00,54.54,51.94,54.54,54.54,1007,1007,983,48,803,Clouds,broken clouds,67,10.85,16.06,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+593,2023-10-09 18:00:00,54.54,51.94,54.54,54.54,1007,1007,983,48,803,Clouds,broken clouds,67,10.85,16.06,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+594,2023-10-09 21:00:00,51.22,48.72,51.22,51.22,1008,1008,984,57,803,Clouds,broken clouds,82,7.67,15.14,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+595,2023-10-09 21:00:00,51.22,48.72,51.22,51.22,1008,1008,984,57,803,Clouds,broken clouds,82,7.67,15.14,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+596,2023-10-10 00:00:00,42.93,40.59,42.93,42.93,1010,1010,986,74,802,Clouds,scattered clouds,47,4.14,8.3,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+597,2023-10-10 00:00:00,42.93,40.59,42.93,42.93,1010,1010,986,74,802,Clouds,scattered clouds,47,4.14,8.3,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+598,2023-10-10 03:00:00,41.83,39.24,41.83,41.83,1010,1010,986,77,800,Clear,clear sky,6,4.23,15.37,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+599,2023-10-10 03:00:00,41.83,39.24,41.83,41.83,1010,1010,986,77,800,Clear,clear sky,6,4.23,15.37,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+600,2023-10-05 06:00:00,61.88,62.24,60.96,61.88,1023,1023,1001,95,800,Clear,clear sky,0,2.62,2.84,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+601,2023-10-05 06:00:00,61.88,62.24,60.96,61.88,1023,1023,1001,95,800,Clear,clear sky,0,2.62,2.84,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+602,2023-10-05 09:00:00,59.88,59.99,58.64,59.88,1023,1023,1001,94,800,Clear,clear sky,0,2.15,2.35,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+603,2023-10-05 09:00:00,59.88,59.99,58.64,59.88,1023,1023,1001,94,800,Clear,clear sky,0,2.15,2.35,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+604,2023-10-05 12:00:00,60.22,60.13,60.22,60.22,1025,1025,1002,89,800,Clear,clear sky,0,1.97,2.68,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+605,2023-10-05 12:00:00,60.22,60.13,60.22,60.22,1025,1025,1002,89,800,Clear,clear sky,0,1.97,2.68,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+606,2023-10-05 15:00:00,71.04,70.43,71.04,71.04,1025,1025,1002,55,803,Clouds,broken clouds,74,5.57,9.8,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+607,2023-10-05 15:00:00,71.04,70.43,71.04,71.04,1025,1025,1002,55,803,Clouds,broken clouds,74,5.57,9.8,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+608,2023-10-05 18:00:00,75.42,74.44,75.42,75.42,1022,1022,1000,38,803,Clouds,broken clouds,52,8.32,11.65,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+609,2023-10-05 18:00:00,75.42,74.44,75.42,75.42,1022,1022,1000,38,803,Clouds,broken clouds,52,8.32,11.65,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+610,2023-10-05 21:00:00,69.67,68.88,69.67,69.67,1022,1022,999,54,800,Clear,clear sky,9,6.11,12.91,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+611,2023-10-05 21:00:00,69.67,68.88,69.67,69.67,1022,1022,999,54,800,Clear,clear sky,9,6.11,12.91,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+612,2023-10-06 00:00:00,58.33,57.4,58.33,58.33,1022,1022,999,75,800,Clear,clear sky,7,2.86,4.72,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+613,2023-10-06 00:00:00,58.33,57.4,58.33,58.33,1022,1022,999,75,800,Clear,clear sky,7,2.86,4.72,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+614,2023-10-06 03:00:00,55.22,54.3,55.22,55.22,1021,1021,997,82,803,Clouds,broken clouds,65,2.33,7.02,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+615,2023-10-06 03:00:00,55.22,54.3,55.22,55.22,1021,1021,997,82,803,Clouds,broken clouds,65,2.33,7.02,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+616,2023-10-06 06:00:00,57.72,57.24,57.72,57.72,1021,1021,997,86,803,Clouds,broken clouds,83,0.85,1.57,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+617,2023-10-06 06:00:00,57.72,57.24,57.72,57.72,1021,1021,997,86,803,Clouds,broken clouds,83,0.85,1.57,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+618,2023-10-06 09:00:00,59.07,59.05,59.07,59.07,1019,1019,996,93,804,Clouds,overcast clouds,100,0.74,3.76,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+619,2023-10-06 09:00:00,59.07,59.05,59.07,59.07,1019,1019,996,93,804,Clouds,overcast clouds,100,0.74,3.76,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+620,2023-10-06 12:00:00,60.51,60.87,60.51,60.51,1018,1018,995,98,500,Rain,light rain,100,2.01,8.81,3422,0.22,0.25,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+621,2023-10-06 12:00:00,60.51,60.87,60.51,60.51,1018,1018,995,98,500,Rain,light rain,100,2.01,8.81,3422,0.22,0.25,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+622,2023-10-06 15:00:00,63.64,64.08,63.64,63.64,1018,1018,995,93,500,Rain,light rain,100,4.27,12.82,8421,0.26,0.16,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+623,2023-10-06 15:00:00,63.64,64.08,63.64,63.64,1018,1018,995,93,500,Rain,light rain,100,4.27,12.82,8421,0.26,0.16,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+624,2023-10-06 18:00:00,68.99,69.21,68.99,68.99,1015,1015,992,77,500,Rain,light rain,100,6.06,13.13,10000,0.24,0.19,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+625,2023-10-06 18:00:00,68.99,69.21,68.99,68.99,1015,1015,992,77,500,Rain,light rain,100,6.06,13.13,10000,0.24,0.19,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+626,2023-10-06 21:00:00,68.52,68.79,68.52,68.52,1014,1014,991,79,500,Rain,light rain,100,6.38,14.45,10000,0.33,0.17,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+627,2023-10-06 21:00:00,68.52,68.79,68.52,68.52,1014,1014,991,79,500,Rain,light rain,100,6.38,14.45,10000,0.33,0.17,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+628,2023-10-07 00:00:00,63.59,64.26,63.59,63.59,1013,1013,990,98,500,Rain,light rain,100,5.7,20.47,7736,0.37,0.46,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+629,2023-10-07 00:00:00,63.59,64.26,63.59,63.59,1013,1013,990,98,500,Rain,light rain,100,5.7,20.47,7736,0.37,0.46,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+630,2023-10-07 03:00:00,62.24,62.82,62.24,62.24,1012,1012,988,99,500,Rain,light rain,100,4.5,18.54,7226,0.41,0.31,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+631,2023-10-07 03:00:00,62.24,62.82,62.24,62.24,1012,1012,988,99,500,Rain,light rain,100,4.5,18.54,7226,0.41,0.31,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+632,2023-10-07 06:00:00,61.97,62.53,61.97,61.97,1009,1009,986,99,500,Rain,light rain,100,4.29,18.61,1311,0.92,0.48,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+633,2023-10-07 06:00:00,61.97,62.53,61.97,61.97,1009,1009,986,99,500,Rain,light rain,100,4.29,18.61,1311,0.92,0.48,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+634,2023-10-07 09:00:00,61.75,62.28,61.75,61.75,1007,1007,984,99,500,Rain,light rain,100,5.84,18.7,429,0.91,1.74,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+635,2023-10-07 09:00:00,61.75,62.28,61.75,61.75,1007,1007,984,99,500,Rain,light rain,100,5.84,18.7,429,0.91,1.74,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+636,2023-10-07 12:00:00,61.59,62.1,61.59,61.59,1006,1006,982,99,500,Rain,light rain,100,5.84,17.98,1328,1.0,2.19,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+637,2023-10-07 12:00:00,61.59,62.1,61.59,61.59,1006,1006,982,99,500,Rain,light rain,100,5.84,17.98,1328,1.0,2.19,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+638,2023-10-07 15:00:00,62.37,62.87,62.37,62.37,1003,1003,980,97,500,Rain,light rain,100,4.94,14.52,10000,0.52,0.58,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+639,2023-10-07 15:00:00,62.37,62.87,62.37,62.37,1003,1003,980,97,500,Rain,light rain,100,4.94,14.52,10000,0.52,0.58,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+640,2023-10-07 18:00:00,64.17,64.56,64.17,64.17,1000,1000,977,91,500,Rain,light rain,100,3.8,9.4,7312,0.92,2.03,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+641,2023-10-07 18:00:00,64.17,64.56,64.17,64.17,1000,1000,977,91,500,Rain,light rain,100,3.8,9.4,7312,0.92,2.03,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+642,2023-10-07 21:00:00,52.97,52.39,52.97,52.97,999,999,976,94,501,Rain,moderate rain,100,13.44,30.0,9083,0.98,10.04,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+643,2023-10-07 21:00:00,52.97,52.39,52.97,52.97,999,999,976,94,501,Rain,moderate rain,100,13.44,30.0,9083,0.98,10.04,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+644,2023-10-08 00:00:00,51.57,50.7,51.57,51.57,999,999,975,91,500,Rain,light rain,100,10.25,27.09,10000,1.0,1.59,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+645,2023-10-08 00:00:00,51.57,50.7,51.57,51.57,999,999,975,91,500,Rain,light rain,100,10.25,27.09,10000,1.0,1.59,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+646,2023-10-08 03:00:00,48.25,43.81,48.25,48.25,998,998,975,88,803,Clouds,broken clouds,74,10.18,27.38,10000,0.2,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+647,2023-10-08 03:00:00,48.25,43.81,48.25,48.25,998,998,975,88,803,Clouds,broken clouds,74,10.18,27.38,10000,0.2,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+648,2023-10-08 06:00:00,46.42,41.52,46.42,46.42,998,998,975,85,802,Clouds,scattered clouds,39,10.2,25.75,10000,0.11,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+649,2023-10-08 06:00:00,46.42,41.52,46.42,46.42,998,998,975,85,802,Clouds,scattered clouds,39,10.2,25.75,10000,0.11,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+650,2023-10-08 09:00:00,43.75,37.78,43.75,43.75,999,999,975,79,800,Clear,clear sky,0,11.41,26.89,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+651,2023-10-08 09:00:00,43.75,37.78,43.75,43.75,999,999,975,79,800,Clear,clear sky,0,11.41,26.89,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+652,2023-10-08 12:00:00,45.68,40.19,45.68,45.68,1000,1000,976,70,800,Clear,clear sky,8,11.36,26.96,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+653,2023-10-08 12:00:00,45.68,40.19,45.68,45.68,1000,1000,976,70,800,Clear,clear sky,8,11.36,26.96,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+654,2023-10-08 15:00:00,48.78,43.39,48.78,48.78,1001,1001,978,69,804,Clouds,overcast clouds,90,13.76,28.12,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+655,2023-10-08 15:00:00,48.78,43.39,48.78,48.78,1001,1001,978,69,804,Clouds,overcast clouds,90,13.76,28.12,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+656,2023-10-08 18:00:00,51.53,49.35,51.53,51.53,1002,1002,979,63,804,Clouds,overcast clouds,88,11.83,24.49,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+657,2023-10-08 18:00:00,51.53,49.35,51.53,51.53,1002,1002,979,63,804,Clouds,overcast clouds,88,11.83,24.49,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+658,2023-10-08 21:00:00,51.82,49.75,51.82,51.82,1003,1003,979,65,803,Clouds,broken clouds,61,10.07,18.34,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+659,2023-10-08 21:00:00,51.82,49.75,51.82,51.82,1003,1003,979,65,803,Clouds,broken clouds,61,10.07,18.34,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+660,2023-10-09 00:00:00,46.0,41.13,46.0,46.0,1005,1005,981,75,802,Clouds,scattered clouds,40,9.89,24.58,10000,0.02,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+661,2023-10-09 00:00:00,46.0,41.13,46.0,46.0,1005,1005,981,75,802,Clouds,scattered clouds,40,9.89,24.58,10000,0.02,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+662,2023-10-09 03:00:00,43.27,38.91,43.27,43.27,1006,1006,982,80,801,Clouds,few clouds,11,7.31,24.29,10000,0.01,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+663,2023-10-09 03:00:00,43.27,38.91,43.27,43.27,1006,1006,982,80,801,Clouds,few clouds,11,7.31,24.29,10000,0.01,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+664,2023-10-09 06:00:00,40.77,36.21,40.77,40.77,1007,1007,983,83,801,Clouds,few clouds,12,6.73,23.89,10000,0.01,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+665,2023-10-09 06:00:00,40.77,36.21,40.77,40.77,1007,1007,983,83,801,Clouds,few clouds,12,6.73,23.89,10000,0.01,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+666,2023-10-09 09:00:00,39.54,34.61,39.54,39.54,1008,1008,983,81,801,Clouds,few clouds,16,6.96,25.48,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+667,2023-10-09 09:00:00,39.54,34.61,39.54,39.54,1008,1008,983,81,801,Clouds,few clouds,16,6.96,25.48,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+668,2023-10-09 12:00:00,41.05,36.01,41.05,41.05,1008,1008,984,78,802,Clouds,scattered clouds,42,7.72,25.32,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+669,2023-10-09 12:00:00,41.05,36.01,41.05,41.05,1008,1008,984,78,802,Clouds,scattered clouds,42,7.72,25.32,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+670,2023-10-09 15:00:00,50.38,47.79,50.38,50.38,1008,1008,984,57,803,Clouds,broken clouds,58,9.35,15.99,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+671,2023-10-09 15:00:00,50.38,47.79,50.38,50.38,1008,1008,984,57,803,Clouds,broken clouds,58,9.35,15.99,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+672,2023-10-09 18:00:00,54.54,51.94,54.54,54.54,1007,1007,983,48,803,Clouds,broken clouds,67,10.85,16.06,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+673,2023-10-09 18:00:00,54.54,51.94,54.54,54.54,1007,1007,983,48,803,Clouds,broken clouds,67,10.85,16.06,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+674,2023-10-09 21:00:00,51.22,48.72,51.22,51.22,1008,1008,984,57,803,Clouds,broken clouds,82,7.67,15.14,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+675,2023-10-09 21:00:00,51.22,48.72,51.22,51.22,1008,1008,984,57,803,Clouds,broken clouds,82,7.67,15.14,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+676,2023-10-10 00:00:00,42.93,40.59,42.93,42.93,1010,1010,986,74,802,Clouds,scattered clouds,47,4.14,8.3,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+677,2023-10-10 00:00:00,42.93,40.59,42.93,42.93,1010,1010,986,74,802,Clouds,scattered clouds,47,4.14,8.3,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+678,2023-10-10 03:00:00,41.83,39.24,41.83,41.83,1010,1010,986,77,800,Clear,clear sky,6,4.23,15.37,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Collinsville,Hartford County
+679,2023-10-10 03:00:00,41.83,39.24,41.83,41.83,1010,1010,986,77,800,Clear,clear sky,6,4.23,15.37,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06019,CT,Canton,Hartford County
+680,2023-10-05 06:00:00,61.43,61.74,60.49,61.43,1023,1023,996,95,800,Clear,clear sky,0,2.62,2.82,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06020,CT,Canton Center,Hartford County
+681,2023-10-05 09:00:00,59.41,59.47,58.17,59.41,1023,1023,996,94,800,Clear,clear sky,0,2.15,2.35,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06020,CT,Canton Center,Hartford County
+682,2023-10-05 12:00:00,59.77,59.63,59.77,59.77,1025,1025,997,89,800,Clear,clear sky,0,1.97,2.66,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06020,CT,Canton Center,Hartford County
+683,2023-10-05 15:00:00,70.59,69.94,70.59,70.59,1025,1025,997,55,803,Clouds,broken clouds,75,5.57,9.82,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06020,CT,Canton Center,Hartford County
+684,2023-10-05 18:00:00,74.98,74.01,74.98,74.98,1022,1022,995,39,803,Clouds,broken clouds,52,8.32,11.65,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06020,CT,Canton Center,Hartford County
+685,2023-10-05 21:00:00,69.21,68.36,69.21,69.21,1022,1022,994,54,800,Clear,clear sky,9,6.11,12.95,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06020,CT,Canton Center,Hartford County
+686,2023-10-06 00:00:00,57.78,56.82,57.78,57.78,1022,1022,994,76,800,Clear,clear sky,7,2.91,4.56,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06020,CT,Canton Center,Hartford County
+687,2023-10-06 03:00:00,54.63,53.69,54.63,54.63,1021,1021,993,83,803,Clouds,broken clouds,66,2.13,6.31,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06020,CT,Canton Center,Hartford County
+688,2023-10-06 06:00:00,57.06,56.5,57.06,57.06,1021,1021,993,86,803,Clouds,broken clouds,83,0.74,1.54,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06020,CT,Canton Center,Hartford County
+689,2023-10-06 09:00:00,58.5,58.42,58.5,58.5,1019,1019,991,93,804,Clouds,overcast clouds,100,0.69,3.62,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06020,CT,Canton Center,Hartford County
+690,2023-10-06 12:00:00,59.95,60.26,59.95,59.95,1018,1018,990,98,500,Rain,light rain,100,1.97,8.37,3197,0.21,0.25,0,East Windsor Hill,0,-14400,06020,CT,Canton Center,Hartford County
+691,2023-10-06 15:00:00,63.1,63.54,63.1,63.1,1018,1018,990,94,500,Rain,light rain,100,4.21,12.75,7590,0.27,0.17,0,East Windsor Hill,0,-14400,06020,CT,Canton Center,Hartford County
+692,2023-10-06 18:00:00,68.31,68.56,68.31,68.31,1015,1015,987,79,500,Rain,light rain,100,5.95,13.22,10000,0.24,0.2,0,East Windsor Hill,0,-14400,06020,CT,Canton Center,Hartford County
+693,2023-10-06 21:00:00,67.89,68.14,67.89,67.89,1014,1014,986,80,500,Rain,light rain,100,6.24,14.52,10000,0.34,0.2,0,East Windsor Hill,0,-14400,06020,CT,Canton Center,Hartford County
+694,2023-10-07 00:00:00,63.1,63.72,63.1,63.1,1013,1013,985,98,500,Rain,light rain,100,5.7,20.49,6982,0.38,0.47,0,East Windsor Hill,0,-14400,06020,CT,Canton Center,Hartford County
+695,2023-10-07 03:00:00,61.79,62.33,61.79,61.79,1012,1012,984,99,500,Rain,light rain,100,4.52,18.66,6482,0.42,0.33,0,East Windsor Hill,0,-14400,06020,CT,Canton Center,Hartford County
+696,2023-10-07 06:00:00,61.47,61.97,61.47,61.47,1009,1009,981,99,500,Rain,light rain,100,4.29,18.68,1157,0.92,0.48,0,East Windsor Hill,0,-14400,06020,CT,Canton Center,Hartford County
+697,2023-10-07 09:00:00,61.32,61.81,61.32,61.32,1007,1007,979,99,500,Rain,light rain,100,5.86,18.75,385,0.9,1.78,0,East Windsor Hill,0,-14400,06020,CT,Canton Center,Hartford County
+698,2023-10-07 12:00:00,61.16,61.63,61.16,61.16,1006,1006,978,99,500,Rain,light rain,100,5.93,18.1,1188,1.0,2.19,0,East Windsor Hill,0,-14400,06020,CT,Canton Center,Hartford County
+699,2023-10-07 15:00:00,61.88,62.33,61.88,61.88,1003,1003,975,97,500,Rain,light rain,100,4.99,14.7,10000,0.53,0.57,0,East Windsor Hill,0,-14400,06020,CT,Canton Center,Hartford County
+700,2023-10-07 18:00:00,63.63,63.97,63.63,63.63,1000,1000,972,91,500,Rain,light rain,100,3.78,9.44,7169,0.92,2.02,0,East Windsor Hill,0,-14400,06020,CT,Canton Center,Hartford County
+701,2023-10-07 21:00:00,52.43,51.84,52.43,52.43,999,999,971,95,501,Rain,moderate rain,100,13.62,30.15,9358,0.98,10.19,0,East Windsor Hill,0,-14400,06020,CT,Canton Center,Hartford County
+702,2023-10-08 00:00:00,51.06,50.2,51.06,51.06,999,999,971,92,500,Rain,light rain,100,10.49,27.36,10000,1.0,1.59,0,East Windsor Hill,0,-14400,06020,CT,Canton Center,Hartford County
+703,2023-10-08 03:00:00,47.73,43.11,47.73,47.73,998,998,970,89,803,Clouds,broken clouds,75,10.36,27.63,10000,0.21,0.0,0,East Windsor Hill,0,-14400,06020,CT,Canton Center,Hartford County
+704,2023-10-08 06:00:00,45.84,40.86,45.84,45.84,998,998,970,85,802,Clouds,scattered clouds,40,10.09,25.61,10000,0.11,0.0,0,East Windsor Hill,0,-14400,06020,CT,Canton Center,Hartford County
+705,2023-10-08 09:00:00,43.23,37.08,43.23,43.23,999,999,971,79,800,Clear,clear sky,0,11.5,26.91,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06020,CT,Canton Center,Hartford County
+706,2023-10-08 12:00:00,45.21,39.56,45.21,45.21,1000,1000,971,71,800,Clear,clear sky,9,11.52,27.09,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06020,CT,Canton Center,Hartford County
+707,2023-10-08 15:00:00,48.22,42.66,48.22,48.22,1001,1001,973,70,804,Clouds,overcast clouds,89,13.82,28.05,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06020,CT,Canton Center,Hartford County
+708,2023-10-08 18:00:00,51.1,48.87,51.1,51.1,1002,1002,974,63,804,Clouds,overcast clouds,87,12.03,24.7,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06020,CT,Canton Center,Hartford County
+709,2023-10-08 21:00:00,51.26,49.14,51.26,51.26,1003,1003,974,65,803,Clouds,broken clouds,62,10.04,18.54,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06020,CT,Canton Center,Hartford County
+710,2023-10-09 00:00:00,45.46,40.44,45.46,45.46,1005,1005,976,75,802,Clouds,scattered clouds,40,9.93,24.67,10000,0.03,0.0,0,East Windsor Hill,0,-14400,06020,CT,Canton Center,Hartford County
+711,2023-10-09 03:00:00,42.78,38.25,42.78,42.78,1006,1006,978,80,800,Clear,clear sky,10,7.47,24.49,10000,0.01,0.0,0,East Windsor Hill,0,-14400,06020,CT,Canton Center,Hartford County
+712,2023-10-09 06:00:00,40.32,35.58,40.32,40.32,1007,1007,978,83,801,Clouds,few clouds,11,6.89,23.96,10000,0.01,0.0,0,East Windsor Hill,0,-14400,06020,CT,Canton Center,Hartford County
+713,2023-10-09 09:00:00,39.02,33.96,39.02,39.02,1008,1008,978,81,801,Clouds,few clouds,16,7.0,25.41,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06020,CT,Canton Center,Hartford County
+714,2023-10-09 12:00:00,40.55,35.38,40.55,40.55,1008,1008,979,78,802,Clouds,scattered clouds,43,7.76,25.41,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06020,CT,Canton Center,Hartford County
+715,2023-10-09 15:00:00,49.91,46.15,49.91,49.91,1008,1008,980,57,803,Clouds,broken clouds,60,9.35,16.11,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06020,CT,Canton Center,Hartford County
+716,2023-10-09 18:00:00,53.94,51.3,53.94,53.94,1007,1007,979,48,803,Clouds,broken clouds,69,10.92,16.13,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06020,CT,Canton Center,Hartford County
+717,2023-10-09 21:00:00,50.72,48.22,50.72,50.72,1008,1008,979,58,803,Clouds,broken clouds,82,7.67,15.12,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06020,CT,Canton Center,Hartford County
+718,2023-10-10 00:00:00,42.31,39.85,42.31,42.31,1010,1010,981,75,802,Clouds,scattered clouds,48,4.16,8.19,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06020,CT,Canton Center,Hartford County
+719,2023-10-10 03:00:00,41.25,38.55,41.25,41.25,1010,1010,981,78,800,Clear,clear sky,6,4.25,15.35,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06020,CT,Canton Center,Hartford County
+720,2023-10-05 06:00:00,59.79,59.61,59.45,59.79,1023,1023,978,88,800,Clear,clear sky,0,2.66,2.98,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06021,CT,Colebrook,Litchfield County
+721,2023-10-05 09:00:00,57.92,57.69,56.89,57.92,1024,1024,978,91,800,Clear,clear sky,0,2.84,3.0,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06021,CT,Colebrook,Litchfield County
+722,2023-10-05 12:00:00,58.19,57.79,58.19,58.19,1025,1025,979,87,800,Clear,clear sky,0,2.59,3.58,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06021,CT,Colebrook,Litchfield County
+723,2023-10-05 15:00:00,69.51,68.7,69.51,69.51,1025,1025,980,54,804,Clouds,overcast clouds,91,5.86,10.49,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06021,CT,Colebrook,Litchfield County
+724,2023-10-05 18:00:00,73.8,72.81,73.8,73.8,1023,1023,978,41,803,Clouds,broken clouds,59,8.01,11.41,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06021,CT,Colebrook,Litchfield County
+725,2023-10-05 21:00:00,67.75,66.85,67.75,67.75,1022,1022,976,56,801,Clouds,few clouds,11,6.24,13.24,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06021,CT,Colebrook,Litchfield County
+726,2023-10-06 00:00:00,55.62,54.54,55.62,55.62,1023,1023,976,78,800,Clear,clear sky,9,3.42,3.83,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06021,CT,Colebrook,Litchfield County
+727,2023-10-06 03:00:00,52.23,51.1,52.23,52.23,1021,1021,975,84,803,Clouds,broken clouds,66,0.89,1.1,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06021,CT,Colebrook,Litchfield County
+728,2023-10-06 06:00:00,52.93,52.34,52.93,52.93,1021,1021,975,94,803,Clouds,broken clouds,83,2.48,3.69,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06021,CT,Colebrook,Litchfield County
+729,2023-10-06 09:00:00,57.11,56.95,57.11,57.11,1019,1019,973,94,804,Clouds,overcast clouds,97,2.84,10.45,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06021,CT,Colebrook,Litchfield County
+730,2023-10-06 12:00:00,57.94,58.08,57.94,57.94,1018,1018,972,99,500,Rain,light rain,99,2.24,8.86,190,0.2,0.25,0,East Windsor Hill,0,-14400,06021,CT,Colebrook,Litchfield County
+731,2023-10-06 15:00:00,60.78,61.16,60.78,60.78,1018,1018,972,98,500,Rain,light rain,100,4.5,16.17,65,0.41,0.38,0,East Windsor Hill,0,-14400,06021,CT,Colebrook,Litchfield County
+732,2023-10-06 18:00:00,63.43,63.9,63.43,63.43,1015,1015,970,94,500,Rain,light rain,100,5.95,17.34,10000,0.29,0.28,0,East Windsor Hill,0,-14400,06021,CT,Colebrook,Litchfield County
+733,2023-10-06 21:00:00,63.28,63.59,63.28,63.28,1014,1014,969,91,500,Rain,light rain,99,4.65,16.28,10000,0.54,0.43,0,East Windsor Hill,0,-14400,06021,CT,Colebrook,Litchfield County
+734,2023-10-07 00:00:00,61.36,61.84,61.36,61.36,1013,1013,968,99,500,Rain,light rain,100,5.79,21.94,1839,0.51,0.18,0,East Windsor Hill,0,-14400,06021,CT,Colebrook,Litchfield County
+735,2023-10-07 03:00:00,61.0,61.45,61.0,61.0,1012,1012,966,99,500,Rain,light rain,100,5.99,22.3,103,0.51,0.51,0,East Windsor Hill,0,-14400,06021,CT,Colebrook,Litchfield County
+736,2023-10-07 06:00:00,60.03,60.39,60.03,60.03,1009,1009,964,99,500,Rain,light rain,100,6.13,22.3,46,0.92,0.52,0,East Windsor Hill,0,-14400,06021,CT,Colebrook,Litchfield County
+737,2023-10-07 09:00:00,60.08,60.44,60.08,60.08,1007,1007,962,99,501,Rain,moderate rain,100,6.6,19.64,42,0.88,3.51,0,East Windsor Hill,0,-14400,06021,CT,Colebrook,Litchfield County
+738,2023-10-07 12:00:00,60.06,60.42,60.06,60.06,1005,1005,960,99,500,Rain,light rain,100,8.05,20.83,48,1.0,2.15,0,East Windsor Hill,0,-14400,06021,CT,Colebrook,Litchfield County
+739,2023-10-07 15:00:00,59.85,60.19,59.85,59.85,1003,1003,958,99,500,Rain,light rain,100,7.11,19.46,2681,0.69,0.62,0,East Windsor Hill,0,-14400,06021,CT,Colebrook,Litchfield County
+740,2023-10-07 18:00:00,60.1,60.37,60.1,60.1,1000,1000,955,97,500,Rain,light rain,100,2.1,8.12,6140,1.0,2.39,0,East Windsor Hill,0,-14400,06021,CT,Colebrook,Litchfield County
+741,2023-10-07 21:00:00,50.04,49.21,50.04,50.04,999,999,954,95,501,Rain,moderate rain,100,13.73,31.0,10000,1.0,9.87,0,East Windsor Hill,0,-14400,06021,CT,Colebrook,Litchfield County
+742,2023-10-08 00:00:00,48.36,43.09,48.36,48.36,999,999,953,95,500,Rain,light rain,100,12.93,29.73,10000,1.0,1.38,0,East Windsor Hill,0,-14400,06021,CT,Colebrook,Litchfield County
+743,2023-10-08 03:00:00,45.43,39.78,45.43,45.43,998,998,952,92,803,Clouds,broken clouds,71,11.7,29.37,10000,0.11,0.0,0,East Windsor Hill,0,-14400,06021,CT,Colebrook,Litchfield County
+744,2023-10-08 06:00:00,42.46,37.08,42.46,42.46,998,998,952,94,802,Clouds,scattered clouds,44,9.1,24.9,10000,0.05,0.0,0,East Windsor Hill,0,-14400,06021,CT,Colebrook,Litchfield County
+745,2023-10-08 09:00:00,40.28,33.12,40.28,40.28,999,999,952,88,800,Clear,clear sky,4,12.24,26.26,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06021,CT,Colebrook,Litchfield County
+746,2023-10-08 12:00:00,43.12,36.3,43.12,43.12,999,999,953,76,802,Clouds,scattered clouds,36,13.44,29.04,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06021,CT,Colebrook,Litchfield County
+747,2023-10-08 15:00:00,44.31,37.56,44.31,44.31,1001,1001,955,80,804,Clouds,overcast clouds,88,14.29,26.69,10000,0.02,0.0,0,East Windsor Hill,0,-14400,06021,CT,Colebrook,Litchfield County
+748,2023-10-08 18:00:00,48.45,43.0,48.45,48.45,1002,1002,956,68,804,Clouds,overcast clouds,86,13.71,27.22,10000,0.02,0.0,0,East Windsor Hill,0,-14400,06021,CT,Colebrook,Litchfield County
+749,2023-10-08 21:00:00,48.34,43.66,48.34,48.34,1002,1002,956,69,803,Clouds,broken clouds,69,10.94,20.87,10000,0.03,0.0,0,East Windsor Hill,0,-14400,06021,CT,Colebrook,Litchfield County
+750,2023-10-09 00:00:00,42.58,36.7,42.58,42.58,1005,1005,958,82,803,Clouds,broken clouds,52,10.38,24.63,10000,0.09,0.0,0,East Windsor Hill,0,-14400,06021,CT,Colebrook,Litchfield County
+751,2023-10-09 03:00:00,40.53,34.72,40.53,40.53,1006,1006,959,83,800,Clear,clear sky,10,9.06,26.6,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06021,CT,Colebrook,Litchfield County
+752,2023-10-09 06:00:00,39.0,32.83,39.0,39.0,1007,1007,960,82,800,Clear,clear sky,8,9.08,26.19,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06021,CT,Colebrook,Litchfield County
+753,2023-10-09 09:00:00,37.33,31.28,37.33,37.33,1007,1007,960,83,802,Clouds,scattered clouds,27,8.1,26.53,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06021,CT,Colebrook,Litchfield County
+754,2023-10-09 12:00:00,38.5,32.68,38.5,38.5,1008,1008,961,83,803,Clouds,broken clouds,52,8.14,25.19,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06021,CT,Colebrook,Litchfield County
+755,2023-10-09 15:00:00,47.43,42.85,47.43,47.43,1007,1007,961,61,804,Clouds,overcast clouds,90,10.0,17.54,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06021,CT,Colebrook,Litchfield County
+756,2023-10-09 18:00:00,49.77,45.3,49.77,49.77,1007,1007,961,56,804,Clouds,overcast clouds,93,11.39,16.75,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06021,CT,Colebrook,Litchfield County
+757,2023-10-09 21:00:00,48.49,45.01,48.49,48.49,1007,1007,961,62,804,Clouds,overcast clouds,98,7.81,15.43,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06021,CT,Colebrook,Litchfield County
+758,2023-10-10 00:00:00,39.4,36.63,39.4,39.4,1010,1010,962,82,803,Clouds,broken clouds,61,4.0,7.27,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06021,CT,Colebrook,Litchfield County
+759,2023-10-10 03:00:00,39.11,35.8,39.11,39.11,1010,1010,963,82,800,Clear,clear sky,9,4.54,18.95,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06021,CT,Colebrook,Litchfield County
+760,2023-10-05 06:00:00,62.62,63.05,61.66,62.62,1023,1023,1008,95,800,Clear,clear sky,0,2.62,2.75,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06022,CT,Collinsville,Hartford County
+761,2023-10-05 09:00:00,60.58,60.76,59.32,60.58,1023,1023,1008,94,800,Clear,clear sky,0,2.15,2.35,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06022,CT,Collinsville,Hartford County
+762,2023-10-05 12:00:00,60.96,60.94,60.96,60.96,1025,1025,1009,89,800,Clear,clear sky,0,1.99,2.57,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06022,CT,Collinsville,Hartford County
+763,2023-10-05 15:00:00,71.83,71.29,71.83,71.83,1025,1025,1009,55,803,Clouds,broken clouds,76,5.59,9.84,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06022,CT,Collinsville,Hartford County
+764,2023-10-05 18:00:00,76.14,75.29,76.14,76.14,1022,1022,1007,39,803,Clouds,broken clouds,52,8.37,11.7,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06022,CT,Collinsville,Hartford County
+765,2023-10-05 21:00:00,70.36,69.67,70.36,70.36,1022,1022,1006,55,800,Clear,clear sky,9,6.08,12.88,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06022,CT,Collinsville,Hartford County
+766,2023-10-06 00:00:00,58.75,57.9,58.75,58.75,1022,1022,1006,76,800,Clear,clear sky,7,2.84,4.14,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06022,CT,Collinsville,Hartford County
+767,2023-10-06 03:00:00,55.69,54.86,55.69,55.69,1021,1021,1005,83,803,Clouds,broken clouds,67,1.97,5.26,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06022,CT,Collinsville,Hartford County
+768,2023-10-06 06:00:00,58.19,57.76,58.19,58.19,1021,1021,1005,86,803,Clouds,broken clouds,83,0.65,1.48,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06022,CT,Collinsville,Hartford County
+769,2023-10-06 09:00:00,59.63,59.72,59.63,59.63,1019,1019,1003,94,804,Clouds,overcast clouds,100,0.83,3.33,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06022,CT,Collinsville,Hartford County
+770,2023-10-06 12:00:00,61.11,61.52,61.11,61.11,1018,1018,1002,98,500,Rain,light rain,100,1.99,8.28,2409,0.22,0.26,0,East Windsor Hill,0,-14400,06022,CT,Collinsville,Hartford County
+771,2023-10-06 15:00:00,64.18,64.76,64.18,64.18,1018,1018,1002,95,500,Rain,light rain,100,4.41,13.11,6212,0.28,0.18,0,East Windsor Hill,0,-14400,06022,CT,Collinsville,Hartford County
+772,2023-10-06 18:00:00,69.35,69.69,69.35,69.35,1015,1015,999,79,500,Rain,light rain,100,6.26,13.69,10000,0.25,0.2,0,East Windsor Hill,0,-14400,06022,CT,Collinsville,Hartford County
+773,2023-10-06 21:00:00,68.92,69.28,68.92,68.92,1014,1014,998,80,500,Rain,light rain,100,6.2,14.58,10000,0.34,0.2,0,East Windsor Hill,0,-14400,06022,CT,Collinsville,Hartford County
+774,2023-10-07 00:00:00,64.31,65.05,64.31,64.31,1013,1013,997,98,500,Rain,light rain,100,5.73,20.54,5429,0.37,0.42,0,East Windsor Hill,0,-14400,06022,CT,Collinsville,Hartford County
+775,2023-10-07 03:00:00,63.09,63.75,63.09,63.09,1012,1012,996,99,500,Rain,light rain,100,4.72,19.15,4928,0.43,0.36,0,East Windsor Hill,0,-14400,06022,CT,Collinsville,Hartford County
+776,2023-10-07 06:00:00,62.69,63.32,62.69,62.69,1009,1009,993,99,500,Rain,light rain,100,4.41,18.81,884,0.92,0.44,0,East Windsor Hill,0,-14400,06022,CT,Collinsville,Hartford County
+777,2023-10-07 09:00:00,62.58,63.19,62.58,62.58,1007,1007,991,99,500,Rain,light rain,100,5.99,18.66,304,0.9,1.73,0,East Windsor Hill,0,-14400,06022,CT,Collinsville,Hartford County
+778,2023-10-07 12:00:00,62.4,63.0,62.4,62.4,1006,1006,990,99,500,Rain,light rain,100,6.11,18.07,903,1.0,2.24,0,East Windsor Hill,0,-14400,06022,CT,Collinsville,Hartford County
+779,2023-10-07 15:00:00,63.05,63.66,63.05,63.05,1003,1003,987,98,500,Rain,light rain,100,5.19,14.94,9252,0.55,0.63,0,East Windsor Hill,0,-14400,06022,CT,Collinsville,Hartford County
+780,2023-10-07 18:00:00,64.44,64.9,64.44,64.44,1000,1000,984,92,500,Rain,light rain,100,3.71,9.6,6939,0.93,2.14,0,East Windsor Hill,0,-14400,06022,CT,Collinsville,Hartford County
+781,2023-10-07 21:00:00,53.51,53.02,53.51,53.51,999,999,983,95,501,Rain,moderate rain,100,13.56,30.36,9706,0.98,10.17,0,East Windsor Hill,0,-14400,06022,CT,Collinsville,Hartford County
+782,2023-10-08 00:00:00,52.12,51.37,52.12,52.12,999,999,983,92,500,Rain,light rain,100,10.89,27.94,10000,1.0,1.47,0,East Windsor Hill,0,-14400,06022,CT,Collinsville,Hartford County
+783,2023-10-08 03:00:00,48.79,44.35,48.79,48.79,998,998,982,89,803,Clouds,broken clouds,75,10.56,27.89,10000,0.19,0.0,0,East Windsor Hill,0,-14400,06022,CT,Collinsville,Hartford County
+784,2023-10-08 06:00:00,46.92,42.08,46.92,46.92,998,998,982,86,802,Clouds,scattered clouds,40,10.4,25.99,10000,0.1,0.0,0,East Windsor Hill,0,-14400,06022,CT,Collinsville,Hartford County
+785,2023-10-08 09:00:00,44.28,38.32,44.28,44.28,999,999,983,80,800,Clear,clear sky,0,11.72,27.13,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06022,CT,Collinsville,Hartford County
+786,2023-10-08 12:00:00,46.36,40.95,46.36,46.36,1000,1000,984,71,800,Clear,clear sky,9,11.72,27.29,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06022,CT,Collinsville,Hartford County
+787,2023-10-08 15:00:00,49.15,43.83,49.15,49.15,1001,1001,985,70,804,Clouds,overcast clouds,90,13.94,28.16,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06022,CT,Collinsville,Hartford County
+788,2023-10-08 18:00:00,52.03,49.95,52.03,52.03,1002,1002,986,64,804,Clouds,overcast clouds,87,11.99,24.99,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06022,CT,Collinsville,Hartford County
+789,2023-10-08 21:00:00,52.32,50.36,52.32,52.32,1003,1003,986,66,803,Clouds,broken clouds,62,10.22,18.57,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06022,CT,Collinsville,Hartford County
+790,2023-10-09 00:00:00,46.47,41.65,46.47,46.47,1005,1005,989,76,802,Clouds,scattered clouds,40,10.07,24.92,10000,0.03,0.0,0,East Windsor Hill,0,-14400,06022,CT,Collinsville,Hartford County
+791,2023-10-09 03:00:00,43.81,39.42,43.81,43.81,1006,1006,990,81,801,Clouds,few clouds,11,7.61,24.76,10000,0.01,0.0,0,East Windsor Hill,0,-14400,06022,CT,Collinsville,Hartford County
+792,2023-10-09 06:00:00,41.31,36.75,41.31,41.31,1007,1007,990,83,801,Clouds,few clouds,11,6.93,24.29,10000,0.01,0.0,0,East Windsor Hill,0,-14400,06022,CT,Collinsville,Hartford County
+793,2023-10-09 09:00:00,40.1,35.15,40.1,40.1,1008,1008,991,82,801,Clouds,few clouds,15,7.18,25.9,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06022,CT,Collinsville,Hartford County
+794,2023-10-09 12:00:00,41.63,36.61,41.63,41.63,1008,1008,992,79,802,Clouds,scattered clouds,42,7.92,25.52,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06022,CT,Collinsville,Hartford County
+795,2023-10-09 15:00:00,51.01,48.49,51.01,51.01,1008,1008,992,57,803,Clouds,broken clouds,63,9.44,16.17,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06022,CT,Collinsville,Hartford County
+796,2023-10-09 18:00:00,55.0,52.5,55.0,55.0,1007,1007,991,49,803,Clouds,broken clouds,69,11.1,16.2,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06022,CT,Collinsville,Hartford County
+797,2023-10-09 21:00:00,51.76,49.37,51.76,51.76,1008,1008,991,58,804,Clouds,overcast clouds,85,7.63,15.14,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06022,CT,Collinsville,Hartford County
+798,2023-10-10 00:00:00,43.23,40.93,43.23,43.23,1010,1010,993,76,802,Clouds,scattered clouds,49,4.14,7.67,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06022,CT,Collinsville,Hartford County
+799,2023-10-10 03:00:00,42.31,39.7,42.31,42.31,1010,1010,994,79,800,Clear,clear sky,6,4.34,16.15,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06022,CT,Collinsville,Hartford County
+800,2023-10-05 06:00:00,63.64,64.08,62.38,63.64,1024,1024,1022,93,803,Clouds,broken clouds,67,2.42,2.93,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06023,CT,East Berlin,Hartford County
+801,2023-10-05 09:00:00,61.84,62.15,60.62,61.84,1024,1024,1022,94,802,Clouds,scattered clouds,33,2.39,2.51,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06023,CT,East Berlin,Hartford County
+802,2023-10-05 12:00:00,62.24,62.35,62.24,62.24,1025,1025,1023,89,800,Clear,clear sky,0,1.7,2.93,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06023,CT,East Berlin,Hartford County
+803,2023-10-05 15:00:00,73.15,72.61,73.15,73.15,1025,1025,1023,52,802,Clouds,scattered clouds,44,5.64,9.33,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06023,CT,East Berlin,Hartford County
+804,2023-10-05 18:00:00,76.53,75.67,76.53,76.53,1023,1023,1021,38,802,Clouds,scattered clouds,46,8.08,11.39,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06023,CT,East Berlin,Hartford County
+805,2023-10-05 21:00:00,70.79,70.16,70.79,70.79,1022,1022,1020,55,801,Clouds,few clouds,19,5.55,11.99,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06023,CT,East Berlin,Hartford County
+806,2023-10-06 00:00:00,60.48,59.76,60.48,60.48,1022,1022,1020,75,801,Clouds,few clouds,12,3.27,6.29,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06023,CT,East Berlin,Hartford County
+807,2023-10-06 03:00:00,58.46,57.96,58.46,58.46,1021,1021,1019,84,802,Clouds,scattered clouds,32,4.32,18.1,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06023,CT,East Berlin,Hartford County
+808,2023-10-06 06:00:00,61.41,61.54,61.41,61.41,1021,1021,1019,91,803,Clouds,broken clouds,63,1.77,2.82,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06023,CT,East Berlin,Hartford County
+809,2023-10-06 09:00:00,63.19,63.73,63.19,63.19,1019,1019,1017,96,804,Clouds,overcast clouds,100,2.89,11.43,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06023,CT,East Berlin,Hartford County
+810,2023-10-06 12:00:00,63.73,64.33,63.73,63.73,1018,1018,1016,96,500,Rain,light rain,100,4.18,15.37,10000,0.22,0.14,0,East Windsor Hill,0,-14400,06023,CT,East Berlin,Hartford County
+811,2023-10-06 15:00:00,67.78,68.22,67.78,67.78,1018,1018,1016,84,804,Clouds,overcast clouds,100,5.32,14.27,10000,0.13,0.0,0,East Windsor Hill,0,-14400,06023,CT,East Berlin,Hartford County
+812,2023-10-06 18:00:00,73.54,73.71,73.54,73.54,1015,1015,1013,66,804,Clouds,overcast clouds,100,7.83,12.66,10000,0.14,0.0,0,East Windsor Hill,0,-14400,06023,CT,East Berlin,Hartford County
+813,2023-10-06 21:00:00,70.75,71.29,70.75,70.75,1014,1014,1012,80,804,Clouds,overcast clouds,91,7.78,16.06,10000,0.18,0.0,0,East Windsor Hill,0,-14400,06023,CT,East Berlin,Hartford County
+814,2023-10-07 00:00:00,64.94,65.7,64.94,64.94,1013,1013,1011,97,500,Rain,light rain,96,6.11,21.7,10000,0.24,0.39,0,East Windsor Hill,0,-14400,06023,CT,East Berlin,Hartford County
+815,2023-10-07 03:00:00,63.97,64.67,63.97,63.97,1011,1011,1009,98,804,Clouds,overcast clouds,100,4.63,18.48,10000,0.28,0.0,0,East Windsor Hill,0,-14400,06023,CT,East Berlin,Hartford County
+816,2023-10-07 06:00:00,64.33,65.07,64.33,64.33,1009,1009,1007,98,500,Rain,light rain,100,5.55,19.93,3488,0.91,0.74,0,East Windsor Hill,0,-14400,06023,CT,East Berlin,Hartford County
+817,2023-10-07 09:00:00,63.5,64.2,63.5,63.5,1007,1007,1005,99,500,Rain,light rain,100,6.35,19.8,657,0.94,1.53,0,East Windsor Hill,0,-14400,06023,CT,East Berlin,Hartford County
+818,2023-10-07 12:00:00,63.45,64.09,63.45,63.45,1005,1005,1004,98,500,Rain,light rain,100,5.7,18.72,2660,1.0,1.74,0,East Windsor Hill,0,-14400,06023,CT,East Berlin,Hartford County
+819,2023-10-07 15:00:00,66.38,66.99,66.38,66.38,1003,1003,1001,91,500,Rain,light rain,100,5.64,13.06,10000,0.4,0.25,0,East Windsor Hill,0,-14400,06023,CT,East Berlin,Hartford County
+820,2023-10-07 18:00:00,68.23,68.61,68.23,68.23,999,999,998,82,500,Rain,light rain,100,5.48,9.51,10000,0.79,1.12,0,East Windsor Hill,0,-14400,06023,CT,East Berlin,Hartford County
+821,2023-10-07 21:00:00,59.63,59.85,59.63,59.63,998,998,996,97,501,Rain,moderate rain,100,8.01,17.92,2895,0.96,6.38,0,East Windsor Hill,0,-14400,06023,CT,East Berlin,Hartford County
+822,2023-10-08 00:00:00,54.39,53.85,54.39,54.39,999,999,997,92,500,Rain,light rain,100,7.96,23.06,10000,1.0,2.94,0,East Windsor Hill,0,-14400,06023,CT,East Berlin,Hartford County
+823,2023-10-08 03:00:00,50.67,49.51,50.67,50.67,999,999,997,87,803,Clouds,broken clouds,61,8.43,25.55,10000,0.25,0.0,0,East Windsor Hill,0,-14400,06023,CT,East Berlin,Hartford County
+824,2023-10-08 06:00:00,48.72,44.58,48.72,48.72,999,999,997,84,802,Clouds,scattered clouds,31,9.64,26.44,10000,0.13,0.0,0,East Windsor Hill,0,-14400,06023,CT,East Berlin,Hartford County
+825,2023-10-08 09:00:00,46.24,41.41,46.24,46.24,1000,1000,998,77,800,Clear,clear sky,0,9.91,26.37,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06023,CT,East Berlin,Hartford County
+826,2023-10-08 12:00:00,47.48,42.89,47.48,47.48,1001,1001,999,69,800,Clear,clear sky,3,10.09,24.94,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06023,CT,East Berlin,Hartford County
+827,2023-10-08 15:00:00,52.93,50.79,52.93,52.93,1002,1002,1000,61,803,Clouds,broken clouds,67,13.06,27.51,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06023,CT,East Berlin,Hartford County
+828,2023-10-08 18:00:00,54.64,52.63,54.64,54.64,1003,1003,1001,60,803,Clouds,broken clouds,74,10.51,21.77,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06023,CT,East Berlin,Hartford County
+829,2023-10-08 21:00:00,54.99,52.95,54.99,54.99,1003,1003,1001,59,803,Clouds,broken clouds,62,9.98,17.94,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06023,CT,East Berlin,Hartford County
+830,2023-10-09 00:00:00,48.9,45.37,48.9,48.9,1005,1005,1004,70,802,Clouds,scattered clouds,41,8.12,22.77,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06023,CT,East Berlin,Hartford County
+831,2023-10-09 03:00:00,45.7,42.64,45.7,45.7,1007,1007,1005,78,802,Clouds,scattered clouds,43,5.84,21.97,10000,0.04,0.0,0,East Windsor Hill,0,-14400,06023,CT,East Berlin,Hartford County
+832,2023-10-09 06:00:00,44.04,40.96,44.04,44.04,1007,1007,1005,78,802,Clouds,scattered clouds,39,5.37,22.24,10000,0.04,0.0,0,East Windsor Hill,0,-14400,06023,CT,East Berlin,Hartford County
+833,2023-10-09 09:00:00,41.92,38.62,41.92,41.92,1008,1008,1006,78,801,Clouds,few clouds,15,5.14,20.76,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06023,CT,East Berlin,Hartford County
+834,2023-10-09 12:00:00,44.22,40.77,44.22,44.22,1009,1009,1007,73,802,Clouds,scattered clouds,45,6.04,24.81,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06023,CT,East Berlin,Hartford County
+835,2023-10-09 15:00:00,53.38,50.95,53.38,53.38,1008,1008,1007,54,803,Clouds,broken clouds,58,9.4,16.4,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06023,CT,East Berlin,Hartford County
+836,2023-10-09 18:00:00,58.12,55.6,58.12,58.12,1007,1007,1005,42,803,Clouds,broken clouds,55,10.38,15.77,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06023,CT,East Berlin,Hartford County
+837,2023-10-09 21:00:00,54.37,52.0,54.37,54.37,1008,1008,1006,53,803,Clouds,broken clouds,80,8.68,15.48,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06023,CT,East Berlin,Hartford County
+838,2023-10-10 00:00:00,46.62,45.12,46.62,46.62,1010,1010,1008,66,802,Clouds,scattered clouds,46,3.8,9.08,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06023,CT,East Berlin,Hartford County
+839,2023-10-10 03:00:00,45.55,44.26,45.55,45.55,1010,1010,1008,71,800,Clear,clear sky,8,3.4,8.28,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06023,CT,East Berlin,Hartford County
+840,2023-10-05 06:00:00,61.16,61.48,60.93,61.16,1024,1024,993,96,800,Clear,clear sky,0,3.49,3.42,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06024,CT,East Canaan,Litchfield County
+841,2023-10-05 09:00:00,59.14,59.18,58.06,59.14,1024,1024,993,94,800,Clear,clear sky,0,3.71,3.53,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06024,CT,East Canaan,Litchfield County
+842,2023-10-05 12:00:00,59.16,58.87,59.16,59.16,1025,1025,994,87,800,Clear,clear sky,3,3.38,4.72,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06024,CT,East Canaan,Litchfield County
+843,2023-10-05 15:00:00,71.24,70.56,71.24,71.24,1025,1025,994,53,804,Clouds,overcast clouds,94,5.91,10.78,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06024,CT,East Canaan,Litchfield County
+844,2023-10-05 18:00:00,75.51,74.64,75.51,75.51,1022,1022,992,40,803,Clouds,broken clouds,56,7.65,11.18,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06024,CT,East Canaan,Litchfield County
+845,2023-10-05 21:00:00,69.44,68.76,69.44,69.44,1021,1021,991,57,801,Clouds,few clouds,11,6.44,13.58,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06024,CT,East Canaan,Litchfield County
+846,2023-10-06 00:00:00,57.22,56.35,57.22,57.22,1022,1022,991,79,801,Clouds,few clouds,11,4.41,4.61,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06024,CT,East Canaan,Litchfield County
+847,2023-10-06 03:00:00,53.73,52.65,53.73,53.73,1021,1021,990,82,803,Clouds,broken clouds,65,2.01,1.99,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06024,CT,East Canaan,Litchfield County
+848,2023-10-06 06:00:00,54.14,53.73,54.14,54.14,1021,1021,989,95,803,Clouds,broken clouds,83,4.54,5.7,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06024,CT,East Canaan,Litchfield County
+849,2023-10-06 09:00:00,59.7,59.85,59.7,59.7,1019,1019,988,95,804,Clouds,overcast clouds,90,4.23,18.68,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06024,CT,East Canaan,Litchfield County
+850,2023-10-06 12:00:00,60.17,60.49,60.17,60.17,1018,1018,987,98,500,Rain,light rain,95,3.04,13.51,4191,0.2,0.25,0,East Windsor Hill,0,-14400,06024,CT,East Canaan,Litchfield County
+851,2023-10-06 15:00:00,63.0,63.61,63.0,63.0,1017,1017,987,98,500,Rain,light rain,100,5.53,19.28,145,0.5,0.44,0,East Windsor Hill,0,-14400,06024,CT,East Canaan,Litchfield County
+852,2023-10-06 18:00:00,64.22,64.81,64.22,64.22,1015,1015,984,95,500,Rain,light rain,100,6.4,18.95,10000,0.39,0.28,0,East Windsor Hill,0,-14400,06024,CT,East Canaan,Litchfield County
+853,2023-10-06 21:00:00,63.97,64.49,63.97,63.97,1014,1014,983,94,500,Rain,light rain,100,4.68,18.3,10000,0.62,0.3,0,East Windsor Hill,0,-14400,06024,CT,East Canaan,Litchfield County
+854,2023-10-07 00:00:00,62.53,63.14,62.53,62.53,1013,1013,982,99,804,Clouds,overcast clouds,100,5.28,21.07,6657,0.53,0.0,0,East Windsor Hill,0,-14400,06024,CT,East Canaan,Litchfield County
+855,2023-10-07 03:00:00,62.76,63.39,62.76,62.76,1011,1011,981,99,500,Rain,light rain,100,6.13,22.7,159,0.56,0.4,0,East Windsor Hill,0,-14400,06024,CT,East Canaan,Litchfield County
+856,2023-10-07 06:00:00,61.99,62.55,61.99,61.99,1009,1009,978,99,500,Rain,light rain,100,7.74,24.45,54,0.92,1.2,0,East Windsor Hill,0,-14400,06024,CT,East Canaan,Litchfield County
+857,2023-10-07 09:00:00,61.59,62.1,61.59,61.59,1006,1006,976,99,501,Rain,moderate rain,100,5.97,19.48,45,0.9,4.68,0,East Windsor Hill,0,-14400,06024,CT,East Canaan,Litchfield County
+858,2023-10-07 12:00:00,61.63,62.15,61.63,61.63,1005,1005,974,99,500,Rain,light rain,100,8.25,21.74,39,1.0,2.13,0,East Windsor Hill,0,-14400,06024,CT,East Canaan,Litchfield County
+859,2023-10-07 15:00:00,61.56,62.02,61.56,61.56,1003,1003,972,98,500,Rain,light rain,100,8.12,21.3,421,0.82,0.68,0,East Windsor Hill,0,-14400,06024,CT,East Canaan,Litchfield County
+860,2023-10-07 18:00:00,61.02,61.43,61.02,61.02,1000,1000,970,98,501,Rain,moderate rain,100,1.81,6.11,6661,1.0,3.83,0,East Windsor Hill,0,-14400,06024,CT,East Canaan,Litchfield County
+861,2023-10-07 21:00:00,51.62,50.99,51.62,51.62,1000,1000,969,96,501,Rain,moderate rain,100,11.01,29.8,10000,1.0,8.27,0,East Windsor Hill,0,-14400,06024,CT,East Canaan,Litchfield County
+862,2023-10-08 00:00:00,49.1,44.6,49.1,49.1,1000,1000,968,95,500,Rain,light rain,100,10.96,28.07,10000,1.0,1.14,0,East Windsor Hill,0,-14400,06024,CT,East Canaan,Litchfield County
+863,2023-10-08 03:00:00,46.49,42.44,46.49,46.49,999,999,968,93,802,Clouds,scattered clouds,42,8.1,25.48,10000,0.01,0.0,0,East Windsor Hill,0,-14400,06024,CT,East Canaan,Litchfield County
+864,2023-10-08 06:00:00,43.18,38.71,43.18,43.18,999,999,967,96,802,Clouds,scattered clouds,31,7.49,23.09,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06024,CT,East Canaan,Litchfield County
+865,2023-10-08 09:00:00,41.49,34.83,41.49,41.49,999,999,968,91,800,Clear,clear sky,10,11.68,25.34,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06024,CT,East Canaan,Litchfield County
+866,2023-10-08 12:00:00,44.4,38.1,44.4,44.4,999,999,968,77,802,Clouds,scattered clouds,50,12.86,29.17,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06024,CT,East Canaan,Litchfield County
+867,2023-10-08 15:00:00,45.27,39.07,45.27,45.27,1001,1001,970,83,804,Clouds,overcast clouds,100,13.29,24.94,10000,0.01,0.0,0,East Windsor Hill,0,-14400,06024,CT,East Canaan,Litchfield County
+868,2023-10-08 18:00:00,49.44,44.51,49.44,49.44,1002,1002,971,69,804,Clouds,overcast clouds,100,12.75,26.55,10000,0.01,0.0,0,East Windsor Hill,0,-14400,06024,CT,East Canaan,Litchfield County
+869,2023-10-08 21:00:00,49.71,45.12,49.71,49.71,1002,1002,971,71,500,Rain,light rain,71,11.77,21.18,10000,0.25,0.14,0,East Windsor Hill,0,-14400,06024,CT,East Canaan,Litchfield County
+870,2023-10-09 00:00:00,43.77,38.35,43.77,43.77,1005,1005,973,84,803,Clouds,broken clouds,65,9.91,23.87,10000,0.09,0.0,0,East Windsor Hill,0,-14400,06024,CT,East Canaan,Litchfield County
+871,2023-10-09 03:00:00,41.65,36.39,41.65,41.65,1006,1006,974,85,801,Clouds,few clouds,15,8.41,25.84,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06024,CT,East Canaan,Litchfield County
+872,2023-10-09 06:00:00,39.63,34.29,39.63,39.63,1007,1007,975,85,801,Clouds,few clouds,11,7.72,25.05,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06024,CT,East Canaan,Litchfield County
+873,2023-10-09 09:00:00,38.19,32.67,38.19,38.19,1007,1007,975,86,802,Clouds,scattered clouds,40,7.49,25.26,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06024,CT,East Canaan,Litchfield County
+874,2023-10-09 12:00:00,39.42,34.63,39.42,39.42,1008,1008,976,85,803,Clouds,broken clouds,57,6.69,23.0,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06024,CT,East Canaan,Litchfield County
+875,2023-10-09 15:00:00,48.29,43.77,48.29,48.29,1008,1008,976,64,803,Clouds,broken clouds,83,10.45,17.67,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06024,CT,East Canaan,Litchfield County
+876,2023-10-09 18:00:00,50.09,47.62,50.09,50.09,1007,1007,976,60,804,Clouds,overcast clouds,87,10.0,16.82,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06024,CT,East Canaan,Litchfield County
+877,2023-10-09 21:00:00,50.34,47.98,50.34,50.34,1007,1007,976,62,804,Clouds,overcast clouds,98,7.25,15.35,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06024,CT,East Canaan,Litchfield County
+878,2023-10-10 00:00:00,40.86,38.44,40.86,40.86,1009,1009,977,83,803,Clouds,broken clouds,65,3.85,4.09,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06024,CT,East Canaan,Litchfield County
+879,2023-10-10 03:00:00,40.26,37.04,40.26,40.26,1010,1010,978,84,800,Clear,clear sky,8,4.68,15.21,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06024,CT,East Canaan,Litchfield County
+880,2023-10-05 06:00:00,62.42,62.78,60.57,62.42,1023,1023,1010,94,800,Clear,clear sky,0,2.48,2.73,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06025,CT,East Glastonbury,Hartford County
+881,2023-10-05 09:00:00,60.53,60.75,59.13,60.53,1024,1024,1010,95,800,Clear,clear sky,0,2.91,2.77,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06025,CT,East Glastonbury,Hartford County
+882,2023-10-05 12:00:00,61.11,61.14,61.11,61.11,1025,1025,1011,90,800,Clear,clear sky,0,1.99,3.04,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06025,CT,East Glastonbury,Hartford County
+883,2023-10-05 15:00:00,72.41,71.83,72.41,72.41,1025,1025,1010,53,801,Clouds,few clouds,17,6.13,9.98,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06025,CT,East Glastonbury,Hartford County
+884,2023-10-05 18:00:00,75.83,74.95,75.83,75.83,1023,1023,1008,39,802,Clouds,scattered clouds,33,8.01,11.21,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06025,CT,East Glastonbury,Hartford County
+885,2023-10-05 21:00:00,69.44,68.76,69.44,69.44,1022,1022,1007,57,801,Clouds,few clouds,24,5.73,11.99,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06025,CT,East Glastonbury,Hartford County
+886,2023-10-06 00:00:00,57.79,56.84,57.79,57.79,1022,1022,1008,76,801,Clouds,few clouds,16,4.34,6.58,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06025,CT,East Glastonbury,Hartford County
+887,2023-10-06 03:00:00,56.28,55.71,56.28,56.28,1021,1021,1006,87,801,Clouds,few clouds,21,5.59,20.07,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06025,CT,East Glastonbury,Hartford County
+888,2023-10-06 06:00:00,59.59,59.72,59.59,59.59,1021,1021,1006,95,803,Clouds,broken clouds,57,2.08,3.53,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06025,CT,East Glastonbury,Hartford County
+889,2023-10-06 09:00:00,62.01,62.42,62.01,62.01,1019,1019,1004,96,804,Clouds,overcast clouds,100,5.86,16.37,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06025,CT,East Glastonbury,Hartford County
+890,2023-10-06 12:00:00,62.33,62.78,62.33,62.33,1018,1018,1004,96,804,Clouds,overcast clouds,100,5.53,16.96,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06025,CT,East Glastonbury,Hartford County
+891,2023-10-06 15:00:00,68.49,68.7,68.49,68.49,1018,1018,1003,78,804,Clouds,overcast clouds,100,6.76,13.82,10000,0.08,0.0,0,East Windsor Hill,0,-14400,06025,CT,East Glastonbury,Hartford County
+892,2023-10-06 18:00:00,74.25,74.19,74.25,74.25,1015,1015,1001,60,804,Clouds,overcast clouds,99,9.06,12.41,10000,0.09,0.0,0,East Windsor Hill,0,-14400,06025,CT,East Glastonbury,Hartford County
+893,2023-10-06 21:00:00,69.55,70.05,69.55,69.55,1014,1014,1000,82,804,Clouds,overcast clouds,90,8.93,17.4,10000,0.28,0.0,0,East Windsor Hill,0,-14400,06025,CT,East Glastonbury,Hartford County
+894,2023-10-07 00:00:00,63.75,64.35,63.75,63.75,1013,1013,999,96,500,Rain,light rain,95,7.18,23.55,10000,0.35,0.35,0,East Windsor Hill,0,-14400,06025,CT,East Glastonbury,Hartford County
+895,2023-10-07 03:00:00,62.47,63.03,62.47,62.47,1011,1011,997,98,804,Clouds,overcast clouds,100,6.15,21.3,5574,0.16,0.0,0,East Windsor Hill,0,-14400,06025,CT,East Glastonbury,Hartford County
+896,2023-10-07 06:00:00,62.96,63.55,62.96,62.96,1009,1009,995,98,500,Rain,light rain,100,7.2,22.88,2692,0.88,0.89,0,East Windsor Hill,0,-14400,06025,CT,East Glastonbury,Hartford County
+897,2023-10-07 09:00:00,62.38,62.92,62.38,62.38,1007,1007,992,98,500,Rain,light rain,100,8.25,22.1,797,0.93,2.72,0,East Windsor Hill,0,-14400,06025,CT,East Glastonbury,Hartford County
+898,2023-10-07 12:00:00,62.33,62.87,62.33,62.33,1006,1006,991,98,500,Rain,light rain,100,7.38,21.54,9975,1.0,2.15,0,East Windsor Hill,0,-14400,06025,CT,East Glastonbury,Hartford County
+899,2023-10-07 15:00:00,65.43,65.89,65.43,65.43,1003,1003,989,90,500,Rain,light rain,100,6.29,13.58,10000,0.27,0.15,0,East Windsor Hill,0,-14400,06025,CT,East Glastonbury,Hartford County
+900,2023-10-07 18:00:00,67.46,67.66,67.46,67.46,1000,1000,985,80,500,Rain,light rain,100,6.98,9.19,10000,0.79,0.64,0,East Windsor Hill,0,-14400,06025,CT,East Glastonbury,Hartford County
+901,2023-10-07 21:00:00,59.86,60.15,59.86,59.86,998,998,983,98,501,Rain,moderate rain,100,4.63,12.39,4136,0.8,4.32,0,East Windsor Hill,0,-14400,06025,CT,East Glastonbury,Hartford County
+902,2023-10-08 00:00:00,52.54,51.91,52.54,52.54,999,999,984,94,501,Rain,moderate rain,100,9.44,25.5,10000,1.0,4.89,0,East Windsor Hill,0,-14400,06025,CT,East Glastonbury,Hartford County
+903,2023-10-08 03:00:00,49.44,45.23,49.44,49.44,998,998,984,89,500,Rain,light rain,70,10.33,26.6,10000,0.37,0.26,0,East Windsor Hill,0,-14400,06025,CT,East Glastonbury,Hartford County
+904,2023-10-08 06:00:00,46.78,42.85,46.78,46.78,998,998,984,89,802,Clouds,scattered clouds,37,7.96,22.48,10000,0.24,0.0,0,East Windsor Hill,0,-14400,06025,CT,East Glastonbury,Hartford County
+905,2023-10-08 09:00:00,44.46,39.02,44.46,44.46,1000,1000,985,82,800,Clear,clear sky,0,10.4,26.17,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06025,CT,East Glastonbury,Hartford County
+906,2023-10-08 12:00:00,45.54,40.32,45.54,45.54,1001,1001,986,72,800,Clear,clear sky,2,10.49,25.01,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06025,CT,East Glastonbury,Hartford County
+907,2023-10-08 15:00:00,51.26,48.99,51.26,51.26,1002,1002,987,62,803,Clouds,broken clouds,67,13.33,27.09,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06025,CT,East Glastonbury,Hartford County
+908,2023-10-08 18:00:00,54.28,52.18,54.28,54.28,1002,1002,988,59,803,Clouds,broken clouds,76,12.68,21.3,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06025,CT,East Glastonbury,Hartford County
+909,2023-10-08 21:00:00,53.31,51.21,53.31,53.31,1003,1003,988,61,803,Clouds,broken clouds,69,9.33,17.49,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06025,CT,East Glastonbury,Hartford County
+910,2023-10-09 00:00:00,46.9,43.16,46.9,46.9,1005,1005,990,73,802,Clouds,scattered clouds,41,7.63,22.93,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06025,CT,East Glastonbury,Hartford County
+911,2023-10-09 03:00:00,43.56,40.33,43.56,43.56,1007,1007,992,82,802,Clouds,scattered clouds,36,5.46,18.84,10000,0.07,0.0,0,East Windsor Hill,0,-14400,06025,CT,East Glastonbury,Hartford County
+912,2023-10-09 06:00:00,42.49,38.61,42.49,42.49,1007,1007,992,80,802,Clouds,scattered clouds,37,6.2,22.08,10000,0.07,0.0,0,East Windsor Hill,0,-14400,06025,CT,East Glastonbury,Hartford County
+913,2023-10-09 09:00:00,40.19,36.54,40.19,40.19,1008,1008,993,81,801,Clouds,few clouds,22,5.21,18.25,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06025,CT,East Glastonbury,Hartford County
+914,2023-10-09 12:00:00,42.4,38.44,42.4,42.4,1009,1009,994,76,803,Clouds,broken clouds,51,6.29,24.99,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06025,CT,East Glastonbury,Hartford County
+915,2023-10-09 15:00:00,52.38,49.86,52.38,52.38,1008,1008,994,54,803,Clouds,broken clouds,54,10.07,17.31,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06025,CT,East Glastonbury,Hartford County
+916,2023-10-09 18:00:00,56.68,54.12,56.68,56.68,1007,1007,992,44,803,Clouds,broken clouds,57,10.33,15.77,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06025,CT,East Glastonbury,Hartford County
+917,2023-10-09 21:00:00,53.11,50.67,53.11,53.11,1008,1008,993,54,804,Clouds,overcast clouds,87,8.52,14.99,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06025,CT,East Glastonbury,Hartford County
+918,2023-10-10 00:00:00,43.88,41.92,43.88,43.88,1010,1010,995,71,803,Clouds,broken clouds,55,3.87,6.04,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06025,CT,East Glastonbury,Hartford County
+919,2023-10-10 03:00:00,42.69,40.44,42.69,42.69,1011,1011,996,73,800,Clear,clear sky,5,3.98,7.11,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06025,CT,East Glastonbury,Hartford County
+920,2023-10-05 06:00:00,62.89,63.39,61.74,62.89,1024,1024,1012,96,800,Clear,clear sky,0,2.62,2.93,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06026,CT,East Granby,Hartford County
+921,2023-10-05 09:00:00,60.84,61.12,59.52,60.84,1024,1024,1012,96,800,Clear,clear sky,0,2.06,2.17,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06026,CT,East Granby,Hartford County
+922,2023-10-05 12:00:00,61.09,61.18,61.09,61.09,1025,1025,1013,91,800,Clear,clear sky,0,1.74,2.84,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06026,CT,East Granby,Hartford County
+923,2023-10-05 15:00:00,71.76,71.31,71.76,71.76,1025,1025,1012,57,803,Clouds,broken clouds,64,5.28,9.48,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06026,CT,East Granby,Hartford County
+924,2023-10-05 18:00:00,76.8,76.01,76.8,76.8,1022,1022,1010,39,803,Clouds,broken clouds,51,8.08,11.56,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06026,CT,East Granby,Hartford County
+925,2023-10-05 21:00:00,70.92,70.2,70.92,70.92,1022,1022,1009,53,801,Clouds,few clouds,15,6.38,13.87,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06026,CT,East Granby,Hartford County
+926,2023-10-06 00:00:00,59.85,59.0,59.85,59.85,1022,1022,1010,74,800,Clear,clear sky,9,3.56,5.99,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06026,CT,East Granby,Hartford County
+927,2023-10-06 03:00:00,55.98,55.08,55.98,55.98,1021,1021,1008,81,803,Clouds,broken clouds,65,2.46,8.16,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06026,CT,East Granby,Hartford County
+928,2023-10-06 06:00:00,58.23,57.56,58.23,58.23,1021,1021,1009,81,803,Clouds,broken clouds,82,1.28,1.57,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06026,CT,East Granby,Hartford County
+929,2023-10-06 09:00:00,59.61,59.56,59.61,59.61,1019,1019,1007,91,804,Clouds,overcast clouds,100,1.39,4.18,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06026,CT,East Granby,Hartford County
+930,2023-10-06 12:00:00,61.11,61.48,61.11,61.11,1018,1018,1006,97,500,Rain,light rain,100,1.36,5.97,6994,0.2,0.19,0,East Windsor Hill,0,-14400,06026,CT,East Granby,Hartford County
+931,2023-10-06 15:00:00,64.99,65.37,64.99,64.99,1018,1018,1005,89,804,Clouds,overcast clouds,100,2.82,9.35,10000,0.22,0.0,0,East Windsor Hill,0,-14400,06026,CT,East Granby,Hartford County
+932,2023-10-06 18:00:00,70.14,70.52,70.14,70.14,1015,1015,1003,78,500,Rain,light rain,100,3.47,9.4,10000,0.4,0.26,0,East Windsor Hill,0,-14400,06026,CT,East Granby,Hartford County
+933,2023-10-06 21:00:00,70.23,70.52,70.23,70.23,1014,1014,1001,76,500,Rain,light rain,100,5.88,14.0,10000,0.36,0.31,0,East Windsor Hill,0,-14400,06026,CT,East Granby,Hartford County
+934,2023-10-07 00:00:00,64.22,64.94,64.22,64.22,1013,1013,1001,98,500,Rain,light rain,100,5.44,19.89,10000,0.47,0.93,0,East Windsor Hill,0,-14400,06026,CT,East Granby,Hartford County
+935,2023-10-07 03:00:00,62.47,63.07,62.47,62.47,1012,1012,999,99,500,Rain,light rain,100,3.04,15.17,10000,0.38,0.12,0,East Windsor Hill,0,-14400,06026,CT,East Granby,Hartford County
+936,2023-10-07 06:00:00,62.62,63.23,62.62,62.62,1009,1009,997,99,500,Rain,light rain,100,3.2,17.49,1649,0.92,0.74,0,East Windsor Hill,0,-14400,06026,CT,East Granby,Hartford County
+937,2023-10-07 09:00:00,62.37,62.96,62.37,62.37,1007,1007,995,99,500,Rain,light rain,100,4.7,19.06,544,0.89,1.84,0,East Windsor Hill,0,-14400,06026,CT,East Granby,Hartford County
+938,2023-10-07 12:00:00,62.44,63.03,62.44,62.44,1006,1006,993,99,500,Rain,light rain,100,4.81,18.45,1873,1.0,1.99,0,East Windsor Hill,0,-14400,06026,CT,East Granby,Hartford County
+939,2023-10-07 15:00:00,63.61,64.18,63.61,63.61,1003,1003,991,96,500,Rain,light rain,100,3.47,12.84,10000,0.43,0.22,0,East Windsor Hill,0,-14400,06026,CT,East Granby,Hartford County
+940,2023-10-07 18:00:00,67.23,67.55,67.23,67.23,999,999,987,83,500,Rain,light rain,100,4.45,8.55,8188,0.9,1.32,0,East Windsor Hill,0,-14400,06026,CT,East Granby,Hartford County
+941,2023-10-07 21:00:00,54.25,53.8,54.25,54.25,999,999,986,94,501,Rain,moderate rain,100,14.16,29.3,9613,0.93,11.0,0,East Windsor Hill,0,-14400,06026,CT,East Granby,Hartford County
+942,2023-10-08 00:00:00,52.99,52.21,52.99,52.99,999,999,986,90,500,Rain,light rain,100,8.72,24.67,10000,1.0,2.26,0,East Windsor Hill,0,-14400,06026,CT,East Granby,Hartford County
+943,2023-10-08 03:00:00,49.8,45.99,49.8,49.8,998,998,985,86,803,Clouds,broken clouds,81,9.42,26.49,10000,0.34,0.0,0,East Windsor Hill,0,-14400,06026,CT,East Granby,Hartford County
+944,2023-10-08 06:00:00,47.53,43.99,47.53,47.53,998,998,985,83,802,Clouds,scattered clouds,42,7.47,22.1,10000,0.22,0.0,0,East Windsor Hill,0,-14400,06026,CT,East Granby,Hartford County
+945,2023-10-08 09:00:00,45.25,40.06,45.25,45.25,999,999,986,77,800,Clear,clear sky,0,10.22,25.77,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06026,CT,East Granby,Hartford County
+946,2023-10-08 12:00:00,46.92,41.92,46.92,46.92,1000,1000,987,69,800,Clear,clear sky,6,10.89,26.13,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06026,CT,East Granby,Hartford County
+947,2023-10-08 15:00:00,51.12,48.97,51.12,51.12,1001,1001,989,65,804,Clouds,overcast clouds,85,13.18,27.11,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06026,CT,East Granby,Hartford County
+948,2023-10-08 18:00:00,54.45,52.32,54.45,54.45,1002,1002,989,58,803,Clouds,broken clouds,81,13.18,22.88,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06026,CT,East Granby,Hartford County
+949,2023-10-08 21:00:00,53.15,51.08,53.15,53.15,1002,1002,990,62,803,Clouds,broken clouds,70,8.7,19.13,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06026,CT,East Granby,Hartford County
+950,2023-10-09 00:00:00,47.71,43.47,47.71,47.71,1005,1005,992,71,802,Clouds,scattered clouds,42,9.31,24.11,10000,0.03,0.0,0,East Windsor Hill,0,-14400,06026,CT,East Granby,Hartford County
+951,2023-10-09 03:00:00,45.07,41.2,45.07,45.07,1006,1006,993,75,800,Clear,clear sky,9,7.09,23.33,10000,0.01,0.0,0,East Windsor Hill,0,-14400,06026,CT,East Granby,Hartford County
+952,2023-10-09 06:00:00,42.13,38.1,42.13,42.13,1007,1007,994,82,801,Clouds,few clouds,11,6.33,21.14,10000,0.01,0.0,0,East Windsor Hill,0,-14400,06026,CT,East Granby,Hartford County
+953,2023-10-09 09:00:00,40.35,36.34,40.35,40.35,1007,1007,994,80,801,Clouds,few clouds,24,5.77,20.8,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06026,CT,East Granby,Hartford County
+954,2023-10-09 12:00:00,42.33,38.03,42.33,42.33,1008,1008,995,76,802,Clouds,scattered clouds,45,6.87,25.01,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06026,CT,East Granby,Hartford County
+955,2023-10-09 15:00:00,52.02,49.46,52.02,52.02,1008,1008,995,54,802,Clouds,scattered clouds,39,8.84,15.88,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06026,CT,East Granby,Hartford County
+956,2023-10-09 18:00:00,55.67,53.19,55.67,55.67,1007,1007,994,48,803,Clouds,broken clouds,66,9.73,15.79,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06026,CT,East Granby,Hartford County
+957,2023-10-09 21:00:00,52.86,50.43,52.86,52.86,1008,1008,995,55,803,Clouds,broken clouds,60,7.85,14.83,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06026,CT,East Granby,Hartford County
+958,2023-10-10 00:00:00,44.37,42.03,44.37,44.37,1009,1009,997,72,802,Clouds,scattered clouds,37,4.43,8.41,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06026,CT,East Granby,Hartford County
+959,2023-10-10 03:00:00,42.42,40.3,42.42,42.42,1010,1010,997,76,800,Clear,clear sky,6,3.8,7.05,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06026,CT,East Granby,Hartford County
+960,2023-10-05 06:00:00,59.99,60.24,59.22,59.99,1025,1025,981,97,800,Clear,clear sky,0,2.68,2.68,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06027,CT,East Hartland,Hartford County
+961,2023-10-05 09:00:00,58.05,58.01,56.88,58.05,1024,1024,981,95,800,Clear,clear sky,0,2.28,2.35,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06027,CT,East Hartland,Hartford County
+962,2023-10-05 12:00:00,58.44,58.17,58.44,58.44,1025,1025,982,89,800,Clear,clear sky,0,2.17,2.62,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06027,CT,East Hartland,Hartford County
+963,2023-10-05 15:00:00,69.26,68.52,69.26,69.26,1025,1025,982,56,803,Clouds,broken clouds,80,5.57,9.91,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06027,CT,East Hartland,Hartford County
+964,2023-10-05 18:00:00,73.83,72.84,73.83,73.83,1023,1023,980,41,803,Clouds,broken clouds,58,8.23,11.63,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06027,CT,East Hartland,Hartford County
+965,2023-10-05 21:00:00,67.8,66.92,67.8,67.8,1022,1022,979,56,800,Clear,clear sky,9,6.17,13.42,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06027,CT,East Hartland,Hartford County
+966,2023-10-06 00:00:00,55.87,54.77,55.87,55.87,1023,1023,979,77,800,Clear,clear sky,7,3.44,3.8,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06027,CT,East Hartland,Hartford County
+967,2023-10-06 03:00:00,52.29,51.21,52.29,52.29,1021,1021,978,85,803,Clouds,broken clouds,69,0.43,1.25,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06027,CT,East Hartland,Hartford County
+968,2023-10-06 06:00:00,53.67,52.92,53.67,53.67,1021,1021,978,89,803,Clouds,broken clouds,84,0.38,1.34,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06027,CT,East Hartland,Hartford County
+969,2023-10-06 09:00:00,56.21,55.9,56.21,56.21,1019,1019,976,93,804,Clouds,overcast clouds,100,0.31,2.82,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06027,CT,East Hartland,Hartford County
+970,2023-10-06 12:00:00,57.61,57.72,57.61,57.61,1018,1018,975,99,500,Rain,light rain,100,1.61,4.74,1871,0.2,0.23,0,East Windsor Hill,0,-14400,06027,CT,East Hartland,Hartford County
+971,2023-10-06 15:00:00,60.94,61.25,60.94,60.94,1018,1018,975,96,500,Rain,light rain,100,3.47,12.15,1665,0.32,0.26,0,East Windsor Hill,0,-14400,06027,CT,East Hartland,Hartford County
+972,2023-10-06 18:00:00,64.96,65.34,64.96,64.96,1015,1015,973,89,500,Rain,light rain,100,4.7,13.96,10000,0.23,0.31,0,East Windsor Hill,0,-14400,06027,CT,East Hartland,Hartford County
+973,2023-10-06 21:00:00,64.9,65.08,64.9,64.9,1014,1014,971,85,500,Rain,light rain,99,4.97,14.97,10000,0.46,0.48,0,East Windsor Hill,0,-14400,06027,CT,East Hartland,Hartford County
+974,2023-10-07 00:00:00,61.54,62.04,61.54,61.54,1013,1013,971,99,500,Rain,light rain,100,5.79,21.03,1967,0.49,0.54,0,East Windsor Hill,0,-14400,06027,CT,East Hartland,Hartford County
+975,2023-10-07 03:00:00,60.48,60.87,60.48,60.48,1012,1012,969,99,500,Rain,light rain,100,4.83,19.57,1656,0.46,0.43,0,East Windsor Hill,0,-14400,06027,CT,East Hartland,Hartford County
+976,2023-10-07 06:00:00,59.72,60.04,59.72,59.72,1009,1009,967,99,500,Rain,light rain,100,4.27,19.57,148,0.92,0.53,0,East Windsor Hill,0,-14400,06027,CT,East Hartland,Hartford County
+977,2023-10-07 09:00:00,59.99,60.35,59.99,59.99,1007,1007,964,99,500,Rain,light rain,100,6.13,19.3,101,0.88,2.36,0,East Windsor Hill,0,-14400,06027,CT,East Hartland,Hartford County
+978,2023-10-07 12:00:00,59.99,60.35,59.99,59.99,1006,1006,963,99,500,Rain,light rain,100,6.78,19.26,288,1.0,2.1,0,East Windsor Hill,0,-14400,06027,CT,East Hartland,Hartford County
+979,2023-10-07 15:00:00,60.13,60.46,60.13,60.13,1003,1003,961,98,500,Rain,light rain,100,5.37,16.37,10000,0.55,0.49,0,East Windsor Hill,0,-14400,06027,CT,East Hartland,Hartford County
+980,2023-10-07 18:00:00,61.65,61.88,61.65,61.65,1000,1000,958,93,500,Rain,light rain,100,4.07,9.75,5990,0.98,1.88,0,East Windsor Hill,0,-14400,06027,CT,East Hartland,Hartford County
+981,2023-10-07 21:00:00,50.4,49.6,50.4,50.4,999,999,956,95,501,Rain,moderate rain,100,15.39,31.21,10000,0.98,11.5,0,East Windsor Hill,0,-14400,06027,CT,East Hartland,Hartford County
+982,2023-10-08 00:00:00,49.26,44.31,49.26,49.26,999,999,956,93,500,Rain,light rain,100,12.62,29.44,10000,1.0,1.63,0,East Windsor Hill,0,-14400,06027,CT,East Hartland,Hartford County
+983,2023-10-08 03:00:00,45.93,40.23,45.93,45.93,998,998,955,90,804,Clouds,overcast clouds,86,12.24,29.86,10000,0.22,0.0,0,East Windsor Hill,0,-14400,06027,CT,East Hartland,Hartford County
+984,2023-10-08 06:00:00,43.48,38.35,43.48,43.48,998,998,955,90,802,Clouds,scattered clouds,47,9.04,24.18,10000,0.13,0.0,0,East Windsor Hill,0,-14400,06027,CT,East Hartland,Hartford County
+985,2023-10-08 09:00:00,41.27,34.41,41.27,41.27,999,999,955,83,800,Clear,clear sky,1,12.08,26.78,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06027,CT,East Hartland,Hartford County
+986,2023-10-08 12:00:00,43.75,37.26,43.75,43.75,999,999,956,72,801,Clouds,few clouds,19,12.95,28.3,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06027,CT,East Hartland,Hartford County
+987,2023-10-08 15:00:00,45.88,39.56,45.88,45.88,1001,1001,958,74,803,Clouds,broken clouds,81,14.29,27.34,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06027,CT,East Hartland,Hartford County
+988,2023-10-08 18:00:00,50.05,47.71,50.05,50.05,1002,1002,959,63,803,Clouds,broken clouds,75,14.07,26.35,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06027,CT,East Hartland,Hartford County
+989,2023-10-08 21:00:00,49.14,45.03,49.14,49.14,1002,1002,959,66,803,Clouds,broken clouds,71,9.82,20.38,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06027,CT,East Hartland,Hartford County
+990,2023-10-09 00:00:00,43.43,37.78,43.43,43.43,1005,1005,961,78,802,Clouds,scattered clouds,46,10.31,25.17,10000,0.07,0.0,0,East Windsor Hill,0,-14400,06027,CT,East Hartland,Hartford County
+991,2023-10-09 03:00:00,41.31,35.74,41.31,41.31,1006,1006,962,79,800,Clear,clear sky,8,8.9,26.26,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06027,CT,East Hartland,Hartford County
+992,2023-10-09 06:00:00,39.33,33.48,39.33,39.33,1007,1007,962,81,800,Clear,clear sky,7,8.57,24.76,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06027,CT,East Hartland,Hartford County
+993,2023-10-09 09:00:00,37.42,31.71,37.42,37.42,1007,1007,963,82,801,Clouds,few clouds,20,7.52,24.76,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06027,CT,East Hartland,Hartford County
+994,2023-10-09 12:00:00,39.0,33.22,39.0,39.0,1008,1008,964,80,802,Clouds,scattered clouds,47,8.3,26.08,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06027,CT,East Hartland,Hartford County
+995,2023-10-09 15:00:00,48.36,44.22,48.36,48.36,1008,1008,964,58,803,Clouds,broken clouds,73,9.42,17.05,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06027,CT,East Hartland,Hartford County
+996,2023-10-09 18:00:00,51.26,48.52,51.26,51.26,1007,1007,964,52,804,Clouds,overcast clouds,86,11.45,16.53,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06027,CT,East Hartland,Hartford County
+997,2023-10-09 21:00:00,48.97,45.55,48.97,48.97,1008,1008,964,60,804,Clouds,overcast clouds,86,7.9,14.9,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06027,CT,East Hartland,Hartford County
+998,2023-10-10 00:00:00,39.9,36.79,39.9,39.9,1010,1010,965,79,803,Clouds,broken clouds,51,4.47,8.14,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06027,CT,East Hartland,Hartford County
+999,2023-10-10 03:00:00,39.02,35.8,39.02,39.02,1010,1010,966,81,800,Clear,clear sky,8,4.43,15.7,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06027,CT,East Hartland,Hartford County
+1000,2023-10-05 06:00:00,63.79,64.33,62.29,63.79,1025,1025,1022,95,800,Clear,clear sky,0,2.55,3.02,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06028,CT,East Windsor Hill,Hartford County
+1001,2023-10-05 09:00:00,61.83,62.17,60.48,61.83,1024,1024,1022,95,800,Clear,clear sky,0,2.71,2.73,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06028,CT,East Windsor Hill,Hartford County
+1002,2023-10-05 12:00:00,62.2,62.35,62.2,62.2,1025,1025,1023,90,800,Clear,clear sky,0,1.95,3.51,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06028,CT,East Windsor Hill,Hartford County
+1003,2023-10-05 15:00:00,73.29,72.91,73.29,73.29,1025,1025,1022,55,802,Clouds,scattered clouds,34,5.75,9.84,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06028,CT,East Windsor Hill,Hartford County
+1004,2023-10-05 18:00:00,77.74,77.04,77.74,77.74,1023,1023,1020,39,802,Clouds,scattered clouds,42,8.01,11.39,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06028,CT,East Windsor Hill,Hartford County
+1005,2023-10-05 21:00:00,71.42,70.84,71.42,71.42,1022,1022,1019,55,801,Clouds,few clouds,23,6.26,13.38,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06028,CT,East Windsor Hill,Hartford County
+1006,2023-10-06 00:00:00,60.1,59.29,60.1,60.1,1022,1022,1020,74,801,Clouds,few clouds,16,3.96,8.72,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06028,CT,East Windsor Hill,Hartford County
+1007,2023-10-06 03:00:00,57.51,56.77,57.51,57.51,1021,1021,1018,81,802,Clouds,scattered clouds,47,4.79,18.72,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06028,CT,East Windsor Hill,Hartford County
+1008,2023-10-06 06:00:00,59.9,59.72,59.9,59.9,1021,1021,1018,88,803,Clouds,broken clouds,73,1.45,2.51,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06028,CT,East Windsor Hill,Hartford County
+1009,2023-10-06 09:00:00,62.51,62.89,62.51,62.51,1019,1019,1016,94,804,Clouds,overcast clouds,100,2.95,12.35,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06028,CT,East Windsor Hill,Hartford County
+1010,2023-10-06 12:00:00,63.27,63.81,63.27,63.27,1018,1018,1016,96,500,Rain,light rain,100,3.58,13.09,10000,0.2,0.11,0,East Windsor Hill,0,-14400,06028,CT,East Windsor Hill,Hartford County
+1011,2023-10-06 15:00:00,68.22,68.59,68.22,68.22,1018,1018,1015,82,804,Clouds,overcast clouds,100,5.1,12.01,10000,0.14,0.0,0,East Windsor Hill,0,-14400,06028,CT,East Windsor Hill,Hartford County
+1012,2023-10-06 18:00:00,73.9,74.14,73.9,73.9,1015,1015,1012,67,500,Rain,light rain,99,6.46,11.23,10000,0.33,0.27,0,East Windsor Hill,0,-14400,06028,CT,East Windsor Hill,Hartford County
+1013,2023-10-06 21:00:00,71.58,72.07,71.58,71.58,1014,1014,1011,77,500,Rain,light rain,96,7.94,15.52,10000,0.35,0.15,0,East Windsor Hill,0,-14400,06028,CT,East Windsor Hill,Hartford County
+1014,2023-10-07 00:00:00,65.25,65.98,65.25,65.25,1013,1013,1011,96,500,Rain,light rain,98,6.73,22.41,10000,0.44,0.7,0,East Windsor Hill,0,-14400,06028,CT,East Windsor Hill,Hartford County
+1015,2023-10-07 03:00:00,63.57,64.24,63.57,63.57,1012,1012,1009,98,804,Clouds,overcast clouds,100,4.83,18.77,10000,0.27,0.0,0,East Windsor Hill,0,-14400,06028,CT,East Windsor Hill,Hartford County
+1016,2023-10-07 06:00:00,64.0,64.71,64.0,64.0,1009,1009,1007,98,500,Rain,light rain,100,5.35,20.71,4264,0.9,0.91,0,East Windsor Hill,0,-14400,06028,CT,East Windsor Hill,Hartford County
+1017,2023-10-07 09:00:00,63.43,64.13,63.43,63.43,1007,1007,1004,99,500,Rain,light rain,100,6.71,21.36,828,0.9,2.81,0,East Windsor Hill,0,-14400,06028,CT,East Windsor Hill,Hartford County
+1018,2023-10-07 12:00:00,63.5,64.15,63.5,63.5,1006,1006,1003,98,500,Rain,light rain,100,6.49,20.67,6402,1.0,2.37,0,East Windsor Hill,0,-14400,06028,CT,East Windsor Hill,Hartford County
+1019,2023-10-07 15:00:00,65.7,66.34,65.7,65.7,1003,1003,1001,93,500,Rain,light rain,100,5.1,13.85,10000,0.34,0.15,0,East Windsor Hill,0,-14400,06028,CT,East Windsor Hill,Hartford County
+1020,2023-10-07 18:00:00,68.16,68.54,68.16,68.16,1000,1000,997,82,500,Rain,light rain,100,6.26,9.73,10000,0.86,0.95,0,East Windsor Hill,0,-14400,06028,CT,East Windsor Hill,Hartford County
+1021,2023-10-07 21:00:00,58.78,58.87,58.78,58.78,998,998,995,96,501,Rain,moderate rain,100,7.61,17.36,5231,0.82,6.76,0,East Windsor Hill,0,-14400,06028,CT,East Windsor Hill,Hartford County
+1022,2023-10-08 00:00:00,53.85,53.26,53.85,53.85,999,999,996,92,501,Rain,moderate rain,100,8.46,24.38,10000,1.0,3.77,0,East Windsor Hill,0,-14400,06028,CT,East Windsor Hill,Hartford County
+1023,2023-10-08 03:00:00,50.9,49.82,50.9,50.9,998,998,995,88,500,Rain,light rain,81,9.64,25.46,10000,0.39,0.22,0,East Windsor Hill,0,-14400,06028,CT,East Windsor Hill,Hartford County
+1024,2023-10-08 06:00:00,48.18,44.89,48.18,48.18,998,998,996,86,802,Clouds,scattered clouds,47,7.23,20.58,10000,0.27,0.0,0,East Windsor Hill,0,-14400,06028,CT,East Windsor Hill,Hartford County
+1025,2023-10-08 09:00:00,45.88,40.91,45.88,45.88,999,999,997,80,800,Clear,clear sky,0,10.07,25.37,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06028,CT,East Windsor Hill,Hartford County
+1026,2023-10-08 12:00:00,47.05,42.17,47.05,47.05,1000,1000,998,72,800,Clear,clear sky,3,10.6,25.55,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06028,CT,East Windsor Hill,Hartford County
+1027,2023-10-08 15:00:00,52.05,49.96,52.05,52.05,1001,1001,999,64,803,Clouds,broken clouds,82,13.2,27.11,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06028,CT,East Windsor Hill,Hartford County
+1028,2023-10-08 18:00:00,55.56,53.55,55.56,55.56,1002,1002,999,58,803,Clouds,broken clouds,82,13.06,22.12,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06028,CT,East Windsor Hill,Hartford County
+1029,2023-10-08 21:00:00,54.14,52.16,54.14,54.14,1003,1003,1000,62,803,Clouds,broken clouds,75,9.13,18.3,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06028,CT,East Windsor Hill,Hartford County
+1030,2023-10-09 00:00:00,48.51,44.8,48.51,48.51,1005,1005,1002,72,802,Clouds,scattered clouds,47,8.37,23.04,10000,0.01,0.0,0,East Windsor Hill,0,-14400,06028,CT,East Windsor Hill,Hartford County
+1031,2023-10-09 03:00:00,45.34,42.01,45.34,45.34,1006,1006,1004,78,801,Clouds,few clouds,16,6.17,20.29,10000,0.04,0.0,0,East Windsor Hill,0,-14400,06028,CT,East Windsor Hill,Hartford County
+1032,2023-10-09 06:00:00,43.57,39.63,43.57,43.57,1007,1007,1004,81,801,Clouds,few clouds,20,6.67,21.65,10000,0.04,0.0,0,East Windsor Hill,0,-14400,06028,CT,East Windsor Hill,Hartford County
+1033,2023-10-09 09:00:00,41.76,37.83,41.76,41.76,1008,1008,1005,79,801,Clouds,few clouds,16,6.02,21.32,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06028,CT,East Windsor Hill,Hartford County
+1034,2023-10-09 12:00:00,43.45,39.27,43.45,43.45,1008,1008,1006,76,802,Clouds,scattered clouds,46,7.05,25.03,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06028,CT,East Windsor Hill,Hartford County
+1035,2023-10-09 15:00:00,53.1,50.68,53.1,53.1,1008,1008,1006,55,802,Clouds,scattered clouds,47,9.48,16.35,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06028,CT,East Windsor Hill,Hartford County
+1036,2023-10-09 18:00:00,57.09,54.72,57.09,57.09,1007,1007,1004,47,803,Clouds,broken clouds,66,9.57,15.77,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06028,CT,East Windsor Hill,Hartford County
+1037,2023-10-09 21:00:00,53.91,51.53,53.91,53.91,1008,1008,1005,54,803,Clouds,broken clouds,82,8.19,15.28,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06028,CT,East Windsor Hill,Hartford County
+1038,2023-10-10 00:00:00,45.34,43.27,45.34,45.34,1010,1010,1007,72,802,Clouds,scattered clouds,49,4.27,7.56,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06028,CT,East Windsor Hill,Hartford County
+1039,2023-10-10 03:00:00,43.7,41.41,43.7,43.7,1010,1010,1008,75,800,Clear,clear sky,6,4.21,9.37,10000,0.0,0.0,0,East Windsor Hill,0,-14400,06028,CT,East Windsor Hill,Hartford County
